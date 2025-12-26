@@ -1,0 +1,58 @@
+{
+  "id": 95,
+  "name": "التين",
+  "transliteration": "At-Tin",
+  "translation": "The Fig",
+  "type": "meccan",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَٱلتِّينِ وَٱلزَّيۡتُونِ",
+      "translation": "इंजीरको कसम र जैतूनको ।",
+      "transliteration": "Waaltteeni waalzzaytooni"
+    },
+    {
+      "id": 2,
+      "text": "وَطُورِ سِينِينَ",
+      "translation": "र तूरे सीनीनको ।",
+      "transliteration": "Watoori seeneena"
+    },
+    {
+      "id": 3,
+      "text": "وَهَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ",
+      "translation": "र यस शान्तिपूर्ण शहरको (मक्काको) कसम ।",
+      "transliteration": "Wahatha albaladi alameeni"
+    },
+    {
+      "id": 4,
+      "text": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِيٓ أَحۡسَنِ تَقۡوِيمٖ",
+      "translation": "हामीले निःसन्देह मनुष्यलाई सर्वोत्तम आकारमा बनायौं ।",
+      "transliteration": "Laqad khalaqna alinsana fee ahsani taqweemin"
+    },
+    {
+      "id": 5,
+      "text": "ثُمَّ رَدَدۡنَٰهُ أَسۡفَلَ سَٰفِلِينَ",
+      "translation": "फेरि निकृष्टतम दशातिर फर्कायौं ।",
+      "transliteration": "Thumma radadnahu asfala safileena"
+    },
+    {
+      "id": 6,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ فَلَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونٖ",
+      "translation": "तर ती मानिसहरू जसले ईमान ल्याए र जसले असल कर्म गरे, उनीहरूको लागि कहिल्यै समाप्त नहुने प्रतिफल छ ।",
+      "transliteration": "Illa allatheena amanoo waAAamiloo alssalihati falahum ajrun ghayru mamnoonin"
+    },
+    {
+      "id": 7,
+      "text": "فَمَا يُكَذِّبُكَ بَعۡدُ بِٱلدِّينِ",
+      "translation": "अनि (हे आदमको सन्तति !) तिमीले प्रतिफलको दिनलाई असत्य ठहराउँन कुन कुराले उत्प्रेरित गर्दछ ।",
+      "transliteration": "Fama yukaththibuka baAAdu bialddeeni"
+    },
+    {
+      "id": 8,
+      "text": "أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ",
+      "translation": "के अल्लाह सबै हाकिमहरूभन्दा ठूलो हाकिम होइन र ?",
+      "transliteration": "Alaysa Allahu biahkami alhakimeena"
+    }
+  ]
+}

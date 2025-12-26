@@ -1,0 +1,58 @@
+{
+  "id": 99,
+  "name": "الزلزلة",
+  "transliteration": "Az-Zalzalah",
+  "translation": "The Earthquake",
+  "type": "medinan",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+      "translation": "जब धरती को पूरी तरह झंझोड़ दिया जाएगा।",
+      "transliteration": "Itha zulzilati alardu zilzalaha"
+    },
+    {
+      "id": 2,
+      "text": "وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا",
+      "translation": "तथा धरती अपने बोझ बाहर निकाल देगी।",
+      "transliteration": "Waakhrajati alardu athqalaha"
+    },
+    {
+      "id": 3,
+      "text": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا",
+      "translation": "और इनसान कहेगा कि इसे क्या हो गया?",
+      "transliteration": "Waqala alinsanu ma laha"
+    },
+    {
+      "id": 4,
+      "text": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا",
+      "translation": "उस दिन वह अपनी खबरें बयान करेगी।",
+      "transliteration": "Yawmaithin tuhaddithu akhbaraha"
+    },
+    {
+      "id": 5,
+      "text": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا",
+      "translation": "क्योंकि तेरे पालनहार ने उसे इसका आदेश दिया होगा।",
+      "transliteration": "Bianna rabbaka awha laha"
+    },
+    {
+      "id": 6,
+      "text": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ",
+      "translation": "उस दिन लोग अलग-अलग होकर लौटेंगे, ताकि उन्हें उनके कर्म दिखाए जाएँ।",
+      "transliteration": "Yawmaithin yasduru alnnasu ashtatan liyuraw aAAmalahum"
+    },
+    {
+      "id": 7,
+      "text": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ",
+      "translation": "तो जिसने एक कण के बराबर भी नेकी की होगी, उसे देख लेगा।",
+      "transliteration": "Faman yaAAmal mithqala tharratin khayran yarahu"
+    },
+    {
+      "id": 8,
+      "text": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ",
+      "translation": "और जिसने एक कण के बराबर भी बुराई की होगी, उसे देख लेगा।",
+      "transliteration": "Waman yaAAmal mithqala tharratin sharran yarahu"
+    }
+  ]
+}

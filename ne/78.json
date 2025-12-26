@@ -1,0 +1,250 @@
+{
+  "id": 78,
+  "name": "النبإ",
+  "transliteration": "An-Naba",
+  "translation": "The Tidings",
+  "type": "meccan",
+  "total_verses": 40,
+  "verses": [
+    {
+      "id": 1,
+      "text": "عَمَّ يَتَسَآءَلُونَ",
+      "translation": "(यी) मानिसहरूले कुन कुराको बारेमा सोधपूछ गरिराखेका छन् ?",
+      "transliteration": "AAamma yatasaaloona"
+    },
+    {
+      "id": 2,
+      "text": "عَنِ ٱلنَّبَإِ ٱلۡعَظِيمِ",
+      "translation": "(के) त्यस ठूलो समाचारको बारेमा ?",
+      "transliteration": "AAani alnnabai alAAatheemi"
+    },
+    {
+      "id": 3,
+      "text": "ٱلَّذِي هُمۡ فِيهِ مُخۡتَلِفُونَ",
+      "translation": "जसमा यिनीहरूले मतभेद गरिराखेका छन्,",
+      "transliteration": "Allathee hum feehi mukhtalifoona"
+    },
+    {
+      "id": 4,
+      "text": "كَلَّا سَيَعۡلَمُونَ",
+      "translation": "हेर, यिनीहरूले शीघ्र नै थाहा पाउनेछन् ।",
+      "transliteration": "Kalla sayaAAlamoona"
+    },
+    {
+      "id": 5,
+      "text": "ثُمَّ كَلَّا سَيَعۡلَمُونَ",
+      "translation": "अनि यकिनको साथ यिनीहरूले शीघ्र नै थाहा पाउनेछन् ।",
+      "transliteration": "Thumma kalla sayaAAlamoona"
+    },
+    {
+      "id": 6,
+      "text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ مِهَٰدٗا",
+      "translation": "के हामीले धरतीलाई ओछ्यान बनाएनौं ?",
+      "transliteration": "Alam najAAali alarda mihadan"
+    },
+    {
+      "id": 7,
+      "text": "وَٱلۡجِبَالَ أَوۡتَادٗا",
+      "translation": "र पहाडहरूलाई मेख खम्बा ?",
+      "transliteration": "Waaljibala awtadan"
+    },
+    {
+      "id": 8,
+      "text": "وَخَلَقۡنَٰكُمۡ أَزۡوَٰجٗا",
+      "translation": "र हामीले तिमीलाई जोडी–जोडी सृष्टि गर्यौं ।",
+      "transliteration": "Wakhalaqnakum azwajan"
+    },
+    {
+      "id": 9,
+      "text": "وَجَعَلۡنَا نَوۡمَكُمۡ سُبَاتٗا",
+      "translation": "र हामीले तिम्रा निद्रालाई आरामको माध्यम बनायौं ।",
+      "transliteration": "WajaAAalna nawmakum subatan"
+    },
+    {
+      "id": 10,
+      "text": "وَجَعَلۡنَا ٱلَّيۡلَ لِبَاسٗا",
+      "translation": "र रातलाई पर्दा बनायौं ।",
+      "transliteration": "WajaAAalna allayla libasan"
+    },
+    {
+      "id": 11,
+      "text": "وَجَعَلۡنَا ٱلنَّهَارَ مَعَاشٗا",
+      "translation": "र दिनलाई जीविकोपार्जनको समय बनायौं ।",
+      "transliteration": "WajaAAalna alnnahara maAAashan"
+    },
+    {
+      "id": 12,
+      "text": "وَبَنَيۡنَا فَوۡقَكُمۡ سَبۡعٗا شِدَادٗا",
+      "translation": "र तिमीमाथि हामीले सातवटा सुदृढ आकाशहरू निर्मित गर्यौं,",
+      "transliteration": "Wabanayna fawqakum sabAAan shidadan"
+    },
+    {
+      "id": 13,
+      "text": "وَجَعَلۡنَا سِرَاجٗا وَهَّاجٗا",
+      "translation": "र एक चम्किलो प्रकाशमान सूर्य बनायौं ।",
+      "transliteration": "WajaAAalna sirajan wahhajan"
+    },
+    {
+      "id": 14,
+      "text": "وَأَنزَلۡنَا مِنَ ٱلۡمُعۡصِرَٰتِ مَآءٗ ثَجَّاجٗا",
+      "translation": "र बादलहरूबाट हामीले पानीको बृष्टि गरायौं ।",
+      "transliteration": "Waanzalna mina almuAAsirati maan thajjajan"
+    },
+    {
+      "id": 15,
+      "text": "لِّنُخۡرِجَ بِهِۦ حَبّٗا وَنَبَاتٗا",
+      "translation": "ताकि त्यसबाट अन्न र सब्जी उत्पन्न गरौं,",
+      "transliteration": "Linukhrija bihi habban wanabatan"
+    },
+    {
+      "id": 16,
+      "text": "وَجَنَّـٰتٍ أَلۡفَافًا",
+      "translation": "र बाक्ला घना बगैंचाहरू,",
+      "transliteration": "Wajannatin alfafan"
+    },
+    {
+      "id": 17,
+      "text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ كَانَ مِيقَٰتٗا",
+      "translation": "निःसन्देह फैसलाको दिन निश्चित छ,",
+      "transliteration": "Inna yawma alfasli kana meeqatan"
+    },
+    {
+      "id": 18,
+      "text": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجٗا",
+      "translation": "जुन दिन सूरमा फूँकिनेछ, अनि तिमीहरू समूह–समूहमा आई उपस्थित हुनेछौ ।",
+      "transliteration": "Yawma yunfakhu fee alssoori fatatoona afwajan"
+    },
+    {
+      "id": 19,
+      "text": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتۡ أَبۡوَٰبٗا",
+      "translation": "र आकाश खोलिनेछ, (त्यसमा) ढोकैढोका हुनेछ ।",
+      "transliteration": "Wafutihati alssamao fakanat abwaban"
+    },
+    {
+      "id": 20,
+      "text": "وَسُيِّرَتِ ٱلۡجِبَالُ فَكَانَتۡ سَرَابًا",
+      "translation": "र पहाडहरूलार्इ चलाइनेछ, तब तिनीहरू रेत (बालुवा) भइहाल्नेछन् ।",
+      "transliteration": "Wasuyyirati aljibalu fakanat saraban"
+    },
+    {
+      "id": 21,
+      "text": "إِنَّ جَهَنَّمَ كَانَتۡ مِرۡصَادٗا",
+      "translation": "निःसंदेह नर्क घातमा छ ।",
+      "transliteration": "Inna jahannama kanat mirsadan"
+    },
+    {
+      "id": 22,
+      "text": "لِّلطَّـٰغِينَ مَـَٔابٗا",
+      "translation": "अर्थात् उल्लंघनकारीहरूको बासस्थान हो ।",
+      "transliteration": "Lilttagheena maaban"
+    },
+    {
+      "id": 23,
+      "text": "لَّـٰبِثِينَ فِيهَآ أَحۡقَابٗا",
+      "translation": "त्यसमा तिनीहरू वर्षौंवर्षसम्म रहनेछन् ।",
+      "transliteration": "Labitheena feeha ahqaban"
+    },
+    {
+      "id": 24,
+      "text": "لَّا يَذُوقُونَ فِيهَا بَرۡدٗا وَلَا شَرَابًا",
+      "translation": "उनीहरू न त्यसमा शीतलताको स्वाद चाख्नेछन् र न कुनै पेयको ।",
+      "transliteration": "La yathooqoona feeha bardan wala sharaban"
+    },
+    {
+      "id": 25,
+      "text": "إِلَّا حَمِيمٗا وَغَسَّاقٗا",
+      "translation": "उम्लिराखेको पानी र बगिराखेको पीप मात्र हुनेछ ।",
+      "transliteration": "Illa hameeman waghassaqan"
+    },
+    {
+      "id": 26,
+      "text": "جَزَآءٗ وِفَاقًا",
+      "translation": "उनीहरूले पूरा–पूर प्रतिफल पाउनेछन् ।",
+      "transliteration": "Jazaan wifaqan"
+    },
+    {
+      "id": 27,
+      "text": "إِنَّهُمۡ كَانُواْ لَا يَرۡجُونَ حِسَابٗا",
+      "translation": "उनीहरूलाई त हिसाबको आशा नै थिएन ।",
+      "transliteration": "Innahum kanoo la yarjoona hisaban"
+    },
+    {
+      "id": 28,
+      "text": "وَكَذَّبُواْ بِـَٔايَٰتِنَا كِذَّابٗا",
+      "translation": "र निडर भएर उनीहरूले हाम्रा आयतहरूको उपहास गर्दथे ।",
+      "transliteration": "Wakaththaboo biayatina kiththaban"
+    },
+    {
+      "id": 29,
+      "text": "وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ كِتَٰبٗا",
+      "translation": "हामीले प्रत्येक कुरालाई लेखेर गन्तीमा राखेका छौं ।",
+      "transliteration": "Wakulla shayin ahsaynahu kitaban"
+    },
+    {
+      "id": 30,
+      "text": "فَذُوقُواْ فَلَن نَّزِيدَكُمۡ إِلَّا عَذَابًا",
+      "translation": "तसर्थ (अब) तिमीले आफ्नो कर्मको स्वाद चाख । हामीले तिमीमाथि यातनाको वृद्धि गर्दै जानेछौं ।",
+      "transliteration": "Fathooqoo falan nazeedakum illa AAathaban"
+    },
+    {
+      "id": 31,
+      "text": "إِنَّ لِلۡمُتَّقِينَ مَفَازًا",
+      "translation": "निःसन्देह संयमीहरूको निम्ति ठूलो सफलता छ ।",
+      "transliteration": "Inna lilmuttaqeena mafazan"
+    },
+    {
+      "id": 32,
+      "text": "حَدَآئِقَ وَأَعۡنَٰبٗا",
+      "translation": "बगैचाहरू छन्, र अँगूरहरू छन् ।",
+      "transliteration": "Hadaiqa waaAAnaban"
+    },
+    {
+      "id": 33,
+      "text": "وَكَوَاعِبَ أَتۡرَابٗا",
+      "translation": "नौयोवना कुमारी युवतीहरू छिन् ।",
+      "transliteration": "WakawaAAiba atraban"
+    },
+    {
+      "id": 34,
+      "text": "وَكَأۡسٗا دِهَاقٗا",
+      "translation": "र शराबका (मदिराका) टनाटन भरिएका गिलासहरू ।",
+      "transliteration": "Wakasan dihaqan"
+    },
+    {
+      "id": 35,
+      "text": "لَّا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا كِذَّـٰبٗا",
+      "translation": "उनीहरूले त्यहाँ न त कुनै व्यर्थका कुरा सुन्नेछन्, नत झूठ कुरो सुन्नेछन् ।",
+      "transliteration": "La yasmaAAoona feeha laghwan wala kiththaban"
+    },
+    {
+      "id": 36,
+      "text": "جَزَآءٗ مِّن رَّبِّكَ عَطَآءً حِسَابٗا",
+      "translation": "तिम्रो पालनकर्ताको तर्फबाट (उनीहरूको राम्रो) कर्मको प्रतिफल हुनेछ,",
+      "transliteration": "Jazaan min rabbika AAataan hisaban"
+    },
+    {
+      "id": 37,
+      "text": "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا ٱلرَّحۡمَٰنِۖ لَا يَمۡلِكُونَ مِنۡهُ خِطَابٗا",
+      "translation": "उसको तर्फबाट जो आकाशहरू र पृथ्वीको र तिनको बीचमा जे छ त्यसको पालनकर्ता हो । र धेरै कृपाशील छ । कसैलाई उनीसित कुराकानी गर्ने अधिकार छैन ।",
+      "transliteration": "Rabbi alssamawati waalardi wama baynahuma alrrahmani la yamlikoona minhu khitaban"
+    },
+    {
+      "id": 38,
+      "text": "يَوۡمَ يَقُومُ ٱلرُّوحُ وَٱلۡمَلَـٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَقَالَ صَوَابٗا",
+      "translation": "जुन दिन आत्मा र फरिश्ताहरू पंक्तिबद्ध भएर उभिनेछन् तर कोही कुरो गर्न सक्दैन परन्तु जसलाई अललाहले आज्ञा दिन्छ र उसले ठीक- सत्य कुरो मुखबाट निकाल्नेछ ।",
+      "transliteration": "Yawma yaqoomu alrroohu waalmalaikatu saffan la yatakallamoona illa man athina lahu alrrahmanu waqala sawaban"
+    },
+    {
+      "id": 39,
+      "text": "ذَٰلِكَ ٱلۡيَوۡمُ ٱلۡحَقُّۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+      "translation": "त्यो दिन सत्य (सुनिश्चित) छ । अब जसले चाहन्छ (सत्कर्म गरेर) आफ्नो पालनकर्ताकहाँ राम्रो ठेगाना बनाओस् ।",
+      "transliteration": "Thalika alyawmu alhaqqu faman shaa ittakhatha ila rabbihi maaban"
+    },
+    {
+      "id": 40,
+      "text": "إِنَّآ أَنذَرۡنَٰكُمۡ عَذَابٗا قَرِيبٗا يَوۡمَ يَنظُرُ ٱلۡمَرۡءُ مَا قَدَّمَتۡ يَدَاهُ وَيَقُولُ ٱلۡكَافِرُ يَٰلَيۡتَنِي كُنتُ تُرَٰبَۢا",
+      "translation": "हामीले तिमीलार्इ छिटै आउनेवाला सजायबाट डरायौं । जुनदिन मान्छे आफूले गरेको कमाई देख्नेछ र काफिरले भन्ने छन् कि काश हामी माटो भइहालेको भए ।",
+      "transliteration": "Inna antharnakum AAathaban qareeban yawma yanthuru almaro ma qaddamat yadahu wayaqoolu alkafiru ya laytanee kuntu turaban"
+    }
+  ]
+}

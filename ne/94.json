@@ -1,0 +1,58 @@
+{
+  "id": 94,
+  "name": "الشرح",
+  "transliteration": "Ash-Sharh",
+  "translation": "The Relief",
+  "type": "meccan",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ",
+      "translation": "के हामीले तिम्रो छाती खोलिदिएनौं ?",
+      "transliteration": "Alam nashrah laka sadraka"
+    },
+    {
+      "id": 2,
+      "text": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ",
+      "translation": "र तिमीमाथिबाट तिम्रो बोझ पनि हामीले उतारिदियौं ।",
+      "transliteration": "WawadaAAna AAanka wizraka"
+    },
+    {
+      "id": 3,
+      "text": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ",
+      "translation": "जसले तिम्रो कम्मर भाँचिराखेको थियो ।",
+      "transliteration": "Allathee anqada thahraka"
+    },
+    {
+      "id": 4,
+      "text": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ",
+      "translation": "र हामीले तिम्रो मर्यादा उच्च पार्यौं ।",
+      "transliteration": "WarafaAAna laka thikraka"
+    },
+    {
+      "id": 5,
+      "text": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا",
+      "translation": "निःसन्देह कठिनाइको साथमा सरलता पनि छ ।",
+      "transliteration": "Fainna maAAa alAAusri yusran"
+    },
+    {
+      "id": 6,
+      "text": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا",
+      "translation": "निःसन्देह कष्टको साथ सजिलो (सरलता) छ ।",
+      "transliteration": "Inna maAAa alAAusri yusran"
+    },
+    {
+      "id": 7,
+      "text": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ",
+      "translation": "जब तिमीलाई फुर्सद हुन्छ, तब इबादत (पूजा)मा परिश्रम गर,",
+      "transliteration": "Faitha faraghta fainsab"
+    },
+    {
+      "id": 8,
+      "text": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب",
+      "translation": "र आफ्नो पालनकर्तातिरै प्रवृत्त हुने गर ।",
+      "transliteration": "Waila rabbika fairghab"
+    }
+  ]
+}

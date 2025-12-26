@@ -1,0 +1,58 @@
+{
+  "id": 99,
+  "name": "الزلزلة",
+  "transliteration": "Az-Zalzalah",
+  "translation": "The Earthquake",
+  "type": "medinan",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+      "translation": "जब धरती पूर्णरूपले (भूकम्पबाट) प्रकम्पित गराइनेछ (हल्लाइनेछ)।",
+      "transliteration": "Itha zulzilati alardu zilzalaha"
+    },
+    {
+      "id": 2,
+      "text": "وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا",
+      "translation": "र पृथ्वीले आफ्नो (भित्रको) बोझ बाहिर निकालिदिनेछ ।",
+      "transliteration": "Waakhrajati alardu athqalaha"
+    },
+    {
+      "id": 3,
+      "text": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا",
+      "translation": "मानिसले भन्न थाल्छ कि यसलाई के भएको छ ?",
+      "transliteration": "Waqala alinsanu ma laha"
+    },
+    {
+      "id": 4,
+      "text": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا",
+      "translation": "त्यसदिन पृथ्वीले आफ्नो सबै कुराहरू वर्णन गर्नेछ ।",
+      "transliteration": "Yawmaithin tuhaddithu akhbaraha"
+    },
+    {
+      "id": 5,
+      "text": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا",
+      "translation": "यसकारण कि तिम्रो पालनकर्ताले उसलाई आदेश पठाएको हुनेछ ।",
+      "transliteration": "Bianna rabbaka awha laha"
+    },
+    {
+      "id": 6,
+      "text": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ",
+      "translation": "त्यसदिन मानिसहरू समूह–समूह गरी फिर्ता आउनेछन् ताकि उनीलाई उनको कर्मपत्र देखाइदिइयोस् ।",
+      "transliteration": "Yawmaithin yasduru alnnasu ashtatan liyuraw aAAmalahum"
+    },
+    {
+      "id": 7,
+      "text": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ",
+      "translation": "अतः जसले अलिकति पनि नेकी (पुण्य) गरेको हुनेछ, उसले त्यसलाई देखिहाल्नेछ ।",
+      "transliteration": "Faman yaAAmal mithqala tharratin khayran yarahu"
+    },
+    {
+      "id": 8,
+      "text": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ",
+      "translation": "र जसले अलिकति पनि नराम्रो काम गरेको हुनेछ, उसले त्यसलाई देखिहाल्नेछ ।",
+      "transliteration": "Waman yaAAmal mithqala tharratin sharran yarahu"
+    }
+  ]
+}

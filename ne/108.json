@@ -1,0 +1,28 @@
+{
+  "id": 108,
+  "name": "الكوثر",
+  "transliteration": "Al-Kawthar",
+  "translation": "The Abundance",
+  "type": "meccan",
+  "total_verses": 3,
+  "verses": [
+    {
+      "id": 1,
+      "text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+      "translation": "निःसन्देह हामीले तिमीलाई ‘‘हौजे कौसर’’ (अनुकम्पाहरू) प्रदान गरेका छौं ।",
+      "transliteration": "Inna aAAtaynaka alkawthara"
+    },
+    {
+      "id": 2,
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+      "translation": "अतः आफ्नो पालनकर्ताको लागि नमाज पढ्ने गर र उसको निम्ति कुर्बानी गर ।",
+      "transliteration": "Fasalli lirabbika wainhar"
+    },
+    {
+      "id": 3,
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+      "translation": "निःसन्देह तिम्रो शत्रु नै लावारिस नाम–निशान बेगरको हुनेछ ।",
+      "transliteration": "Inna shaniaka huwa alabtaru"
+    }
+  ]
+}

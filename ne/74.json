@@ -1,0 +1,346 @@
+{
+  "id": 74,
+  "name": "المدثر",
+  "transliteration": "Al-Muddaththir",
+  "translation": "The Cloaked One",
+  "type": "meccan",
+  "total_verses": 56,
+  "verses": [
+    {
+      "id": 1,
+      "text": "يَـٰٓأَيُّهَا ٱلۡمُدَّثِّرُ",
+      "translation": "हे (मुहम्मद !) लुगा बेर्नेवाला,",
+      "transliteration": "Ya ayyuha almuddaththiru"
+    },
+    {
+      "id": 2,
+      "text": "قُمۡ فَأَنذِرۡ",
+      "translation": "उठ र सावधान गर ।",
+      "transliteration": "Qum faanthir"
+    },
+    {
+      "id": 3,
+      "text": "وَرَبَّكَ فَكَبِّرۡ",
+      "translation": "र आफ्नो पालनकर्ताको गरिमा वर्णन गर ।",
+      "transliteration": "Warabbaka fakabbir"
+    },
+    {
+      "id": 4,
+      "text": "وَثِيَابَكَ فَطَهِّرۡ",
+      "translation": "र आफ्ना कपडाहरूलाई पाक–पवित्र राख ।",
+      "transliteration": "Wathiyabaka fatahhir"
+    },
+    {
+      "id": 5,
+      "text": "وَٱلرُّجۡزَ فَٱهۡجُرۡ",
+      "translation": "फोहोरपनालाई त्याग ।",
+      "transliteration": "Waalrrujza faohjur"
+    },
+    {
+      "id": 6,
+      "text": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ",
+      "translation": "र भलाई गरेर यसभन्दा बढी लिने इच्छा नगर्नु ।",
+      "transliteration": "Wala tamnun tastakthiru"
+    },
+    {
+      "id": 7,
+      "text": "وَلِرَبِّكَ فَٱصۡبِرۡ",
+      "translation": "र आफ्नो पालनकर्ताको निम्ति धैर्य गर ।",
+      "transliteration": "Walirabbika faisbir"
+    },
+    {
+      "id": 8,
+      "text": "فَإِذَا نُقِرَ فِي ٱلنَّاقُورِ",
+      "translation": "जब सूरमा फूँक मारिनेछ ।",
+      "transliteration": "Faitha nuqira fee alnnaqoori"
+    },
+    {
+      "id": 9,
+      "text": "فَذَٰلِكَ يَوۡمَئِذٖ يَوۡمٌ عَسِيرٌ",
+      "translation": "त्यो दिन अति कठोर दिन हुनेछ ।",
+      "transliteration": "Fathalika yawmaithin yawmun AAaseerun"
+    },
+    {
+      "id": 10,
+      "text": "عَلَى ٱلۡكَٰفِرِينَ غَيۡرُ يَسِيرٖ",
+      "translation": "काफिरहरूको लागि सजिलो हुनेछैन ।",
+      "transliteration": "AAala alkafireena ghayru yaseerin"
+    },
+    {
+      "id": 11,
+      "text": "ذَرۡنِي وَمَنۡ خَلَقۡتُ وَحِيدٗا",
+      "translation": "मलाई र त्यसलाई छाडिदेऊ जसलाई मैले एक्लो सृष्टि गरेको छु ।",
+      "transliteration": "Tharnee waman khalaqtu waheedan"
+    },
+    {
+      "id": 12,
+      "text": "وَجَعَلۡتُ لَهُۥ مَالٗا مَّمۡدُودٗا",
+      "translation": "र प्रशस्त धन–सम्पत्ति दिएँ ।",
+      "transliteration": "WajaAAaltu lahu malan mamdoodan"
+    },
+    {
+      "id": 13,
+      "text": "وَبَنِينَ شُهُودٗا",
+      "translation": "हरेक समय उसको पासमा उपस्थित रहने सन्तानहरू पनि ।",
+      "transliteration": "Wabaneena shuhoodan"
+    },
+    {
+      "id": 14,
+      "text": "وَمَهَّدتُّ لَهُۥ تَمۡهِيدٗا",
+      "translation": "मैले उसलाई हरेक प्रकारको सामग्री प्रशस्तत प्रदान गरें ।",
+      "transliteration": "Wamahhadtu lahu tamheedan"
+    },
+    {
+      "id": 15,
+      "text": "ثُمَّ يَطۡمَعُ أَنۡ أَزِيدَ",
+      "translation": "अझै उसले इच्छा गर्दछ कि मैले उसलाई अरु बढी प्रदान गरूँ ।",
+      "transliteration": "Thumma yatmaAAu an azeeda"
+    },
+    {
+      "id": 16,
+      "text": "كَلَّآۖ إِنَّهُۥ كَانَ لِأٓيَٰتِنَا عَنِيدٗا",
+      "translation": "यस्तो कदापि हुनेछैन । यो हाम्रो आयतहरूको शत्रु रहदै आएको छ,",
+      "transliteration": "Kalla innahu kana liayatina AAaneedan"
+    },
+    {
+      "id": 17,
+      "text": "سَأُرۡهِقُهُۥ صَعُودًا",
+      "translation": "शीघ्र नै मैले उसलाई कठिन उकालोमा उक्लन लगाउने छु ।",
+      "transliteration": "Saorhiquhu saAAoodan"
+    },
+    {
+      "id": 18,
+      "text": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+      "translation": "उसले सोच्यो र अड्कलले एउटा कुरा बनायो ।",
+      "transliteration": "Innahu fakkara waqaddara"
+    },
+    {
+      "id": 19,
+      "text": "فَقُتِلَ كَيۡفَ قَدَّرَ",
+      "translation": "नष्ट होस् उसले कस्तो अड्कल गर्यो ?",
+      "transliteration": "Faqutila kayfa qaddara"
+    },
+    {
+      "id": 20,
+      "text": "ثُمَّ قُتِلَ كَيۡفَ قَدَّرَ",
+      "translation": "फेरि त्यो नष्ट होस्, उसले कस्तो अड्कल गर्यो,",
+      "transliteration": "Thumma qutila kayfa qaddara"
+    },
+    {
+      "id": 21,
+      "text": "ثُمَّ نَظَرَ",
+      "translation": "उसले फेरि देख्यो ।",
+      "transliteration": "Thumma nathara"
+    },
+    {
+      "id": 22,
+      "text": "ثُمَّ عَبَسَ وَبَسَرَ",
+      "translation": "फेरि निधार खुम्च्यायो र मुख बिगारिहाल्यो ।",
+      "transliteration": "Thumma AAabasa wabasara"
+    },
+    {
+      "id": 23,
+      "text": "ثُمَّ أَدۡبَرَ وَٱسۡتَكۡبَرَ",
+      "translation": "अनि पिठ्युँ फर्काइ हिंड्यो र घमण्ड गर्यो ।",
+      "transliteration": "Thumma adbara waistakbara"
+    },
+    {
+      "id": 24,
+      "text": "فَقَالَ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ يُؤۡثَرُ",
+      "translation": "अनि भन्नथाल्यो कि यो त मात्र जादू हो, जुन नक्कल गरिएको छ ।",
+      "transliteration": "Faqala in hatha illa sihrun yutharu"
+    },
+    {
+      "id": 25,
+      "text": "إِنۡ هَٰذَآ إِلَّا قَوۡلُ ٱلۡبَشَرِ",
+      "translation": "यो मात्र मानिसको वाणी हो ।",
+      "transliteration": "In hatha illa qawlu albashari"
+    },
+    {
+      "id": 26,
+      "text": "سَأُصۡلِيهِ سَقَرَ",
+      "translation": "हामीले शीघ्र नै उसलाई नर्कमा हाल्नेछौं ।",
+      "transliteration": "Saosleehi saqara"
+    },
+    {
+      "id": 27,
+      "text": "وَمَآ أَدۡرَىٰكَ مَا سَقَرُ",
+      "translation": "र तिमीलाई के थाहा कि ‘‘नर्क’’ के हो ?",
+      "transliteration": "Wama adraka ma saqaru"
+    },
+    {
+      "id": 28,
+      "text": "لَا تُبۡقِي وَلَا تَذَرُ",
+      "translation": "(आगो हो) जो न बाँकी राख्नेछ न त छाड्ने छ ।",
+      "transliteration": "La tubqee wala tatharu"
+    },
+    {
+      "id": 29,
+      "text": "لَوَّاحَةٞ لِّلۡبَشَرِ",
+      "translation": "र शरीरको छालालाई पोलेर कालो बनाइदिनेछ ।",
+      "transliteration": "Lawwahatun lilbashari"
+    },
+    {
+      "id": 30,
+      "text": "عَلَيۡهَا تِسۡعَةَ عَشَرَ",
+      "translation": "त्यसमा उन्नाइस (फरिश्ता) कार्यकर्ताहरू नियुक्त छन् ।",
+      "transliteration": "AAalayha tisAAata AAashara"
+    },
+    {
+      "id": 31,
+      "text": "وَمَا جَعَلۡنَآ أَصۡحَٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةٗۖ وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةٗ لِّلَّذِينَ كَفَرُواْ لِيَسۡتَيۡقِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَيَزۡدَادَ ٱلَّذِينَ ءَامَنُوٓاْ إِيمَٰنٗا وَلَا يَرۡتَابَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡمُؤۡمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَمَا يَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِيَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ",
+      "translation": "र हामीले नर्कको द्वारपालहरू फरिश्ताहरूलाई बनाएका छौं र हामीले उनीहरूको संख्या काफिरहरूको परीक्षाको निम्ति निर्धारित गरेका छौं, यसकारण कि किताबवालाले विश्वास गरुन् र मोमिनहरूको ईमान अरु धेरै बढोस् र किताब मान्नेहरू र मोमिनले शंका नगरुन् र जुन मानिसहरूको हृदयमा रोग छ, उनी र काफिरहरूले भनुन् कि यस दृष्टान्तबाट अल्लाहको के उद्देश्य छ ? यस्तै प्रकारले अल्लाहले जसलाई चाहन्छ, मार्गविचलित गर्दछ र जसलाई चाहन्छ मार्गदर्शन गर्दछ । तिम्रो पालनकर्ताका लस्करहरूलाई उस बाहेक कोही जान्दैन र यो त आदमको सन्ततिको लागि उपदेश र शिक्षा सामग्री हो ।",
+      "transliteration": "Wama jaAAalna ashaba alnnari illa malaikatan wama jaAAalna AAiddatahum illa fitnatan lillatheena kafaroo liyastayqina allatheena ootoo alkitaba wayazdada allatheena amanoo eemanan wala yartaba allatheena ootoo alkitaba waalmuminoona waliyaqoola allatheena fee quloobihim maradun waalkafiroona matha arada Allahu bihatha mathalan kathalika yudillu Allahu man yashao wayahdee man yashao wama yaAAlamu junooda rabbika illa huwa wama hiya illa thikra lilbashari"
+    },
+    {
+      "id": 32,
+      "text": "كَلَّا وَٱلۡقَمَرِ",
+      "translation": "साँचो भन्दछु (हामीलाई) चन्द्रको कसम ।",
+      "transliteration": "Kalla waalqamari"
+    },
+    {
+      "id": 33,
+      "text": "وَٱلَّيۡلِ إِذۡ أَدۡبَرَ",
+      "translation": "र रातको जब कि त्यो पछाडि फर्कन्छ ।",
+      "transliteration": "Waallayli ith adbara"
+    },
+    {
+      "id": 34,
+      "text": "وَٱلصُّبۡحِ إِذَآ أَسۡفَرَ",
+      "translation": "र प्रातःकालको जब कि त्यो प्रकाशित भइहाल्छ ।",
+      "transliteration": "Waalssubhi itha asfara"
+    },
+    {
+      "id": 35,
+      "text": "إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ",
+      "translation": "निश्चय नै नर्क ठूलो कुराहरूमध्ये एक हो ।",
+      "transliteration": "Innaha laihda alkubari"
+    },
+    {
+      "id": 36,
+      "text": "نَذِيرٗا لِّلۡبَشَرِ",
+      "translation": "मानिसहरूको निम्ति भयको कारण ।",
+      "transliteration": "Natheeran lilbashari"
+    },
+    {
+      "id": 37,
+      "text": "لِمَن شَآءَ مِنكُمۡ أَن يَتَقَدَّمَ أَوۡ يَتَأَخَّرَ",
+      "translation": "तीमध्ये त्यस व्यक्तिको निम्ति जो अगाडि बढ्न चाहन्छ वा पछाडि हट्न चाहन्छ ।",
+      "transliteration": "Liman shaa minkum an yataqaddama aw yataakhkhara"
+    },
+    {
+      "id": 38,
+      "text": "كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِينَةٌ",
+      "translation": "हरेक व्यक्ति आफ्नो कर्मको बदलामा धितो राखिएको छ ।",
+      "transliteration": "Kullu nafsin bima kasabat raheenatun"
+    },
+    {
+      "id": 39,
+      "text": "إِلَّآ أَصۡحَٰبَ ٱلۡيَمِينِ",
+      "translation": "तर दायाँ हात वालाहरू ।",
+      "transliteration": "Illa ashaba alyameeni"
+    },
+    {
+      "id": 40,
+      "text": "فِي جَنَّـٰتٖ يَتَسَآءَلُونَ",
+      "translation": "उनीहरू स्वर्गहरूमा बसेका हुनेछन् र प्रश्न गर्नेछन् ।",
+      "transliteration": "Fee jannatin yatasaaloona"
+    },
+    {
+      "id": 41,
+      "text": "عَنِ ٱلۡمُجۡرِمِينَ",
+      "translation": "अपराधीहरूसँग,",
+      "transliteration": "AAani almujrimeena"
+    },
+    {
+      "id": 42,
+      "text": "مَا سَلَكَكُمۡ فِي سَقَرَ",
+      "translation": "(कि) तिमीलाई कुन कुरोले नर्कमा ल्यायो ?",
+      "transliteration": "Ma salakakum fee saqara"
+    },
+    {
+      "id": 43,
+      "text": "قَالُواْ لَمۡ نَكُ مِنَ ٱلۡمُصَلِّينَ",
+      "translation": "उनीहरूले जवाफ दिनेछन् कि हामी नमाजी थिएनौं ।",
+      "transliteration": "Qaloo lam naku mina almusalleena"
+    },
+    {
+      "id": 44,
+      "text": "وَلَمۡ نَكُ نُطۡعِمُ ٱلۡمِسۡكِينَ",
+      "translation": "र न निमुखाहरूलाई (मिस्कीनहरूलाई) खाना खुवाउँथ्यौ,",
+      "transliteration": "Walam naku nutAAimu almiskeena"
+    },
+    {
+      "id": 45,
+      "text": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَآئِضِينَ",
+      "translation": "र हामीले विवाद गर्ने असत्यवादीहरूको साथमा मिलेर व्यस्त हुने गर्दथ्यौं ।",
+      "transliteration": "Wakunna nakhoodu maAAa alkhaideena"
+    },
+    {
+      "id": 46,
+      "text": "وَكُنَّا نُكَذِّبُ بِيَوۡمِ ٱلدِّينِ",
+      "translation": "र बदलाको दिन (कियामत) लाई असत्य ठहराउँथ्यौ ।",
+      "transliteration": "Wakunna nukaththibu biyawmi alddeeni"
+    },
+    {
+      "id": 47,
+      "text": "حَتَّىٰٓ أَتَىٰنَا ٱلۡيَقِينُ",
+      "translation": "यहाँसम्म कि हामीलाई मृत्यु आइहाल्यो ।",
+      "transliteration": "Hatta atana alyaqeenu"
+    },
+    {
+      "id": 48,
+      "text": "فَمَا تَنفَعُهُمۡ شَفَٰعَةُ ٱلشَّـٰفِعِينَ",
+      "translation": "अतः उनीहरूको हकमा सिफारिश गर्नेहरूको सिफारिशले कुनै फाइदा दिनेछैन ।",
+      "transliteration": "Fama tanfaAAuhum shafaAAatu alshshafiAAeena"
+    },
+    {
+      "id": 49,
+      "text": "فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِينَ",
+      "translation": "उनीहरूलाई के भएको छ कि उपदेशबाट मुख फर्काइराखेका छन् ।",
+      "transliteration": "Fama lahum AAani alttathkirati muAArideena"
+    },
+    {
+      "id": 50,
+      "text": "كَأَنَّهُمۡ حُمُرٞ مُّسۡتَنفِرَةٞ",
+      "translation": "जस्तो कि तर्सेको गधहा (गधा) हुन् ।",
+      "transliteration": "Kaannahum humurun mustanfiratun"
+    },
+    {
+      "id": 51,
+      "text": "فَرَّتۡ مِن قَسۡوَرَةِۭ",
+      "translation": "जो बाघ देखेर भागेका छन् ।",
+      "transliteration": "Farrat min qaswaratin"
+    },
+    {
+      "id": 52,
+      "text": "بَلۡ يُرِيدُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُؤۡتَىٰ صُحُفٗا مُّنَشَّرَةٗ",
+      "translation": "बरु उनीहरूमध्ये प्रत्येक व्यक्ति चाहन्छ कि उसलाई खुल्ला किताबहरू दिइयोस् ।",
+      "transliteration": "Bal yureedu kullu imriin minhum an yuta suhufan munashsharatan"
+    },
+    {
+      "id": 53,
+      "text": "كَلَّاۖ بَل لَّا يَخَافُونَ ٱلۡأٓخِرَةَ",
+      "translation": "यस्तो कहिल्यै हुनेछैन । (सत्यता यो छ कि) उनीहरू कियामतबाट निर्भीक छन् ।",
+      "transliteration": "Kalla bal la yakhafoona alakhirata"
+    },
+    {
+      "id": 54,
+      "text": "كَلَّآ إِنَّهُۥ تَذۡكِرَةٞ",
+      "translation": "साँचो कुरा त यो हो कि कुरआन एउटा उपदेश हो ।",
+      "transliteration": "Kalla innahu tathkiratun"
+    },
+    {
+      "id": 55,
+      "text": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "translation": "अब जसले चाहन्छ त्यसबाट उपदेश प्राप्त गरोस् ।",
+      "transliteration": "Faman shaa thakarahu"
+    },
+    {
+      "id": 56,
+      "text": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ",
+      "translation": "र त्यतिखेर नै उपदेश प्राप्त गर्छन् जब अल्लाहले चाहन्छ, ऊ यस योग्य छ कि उसको भय गरियोस् र यस योग्य पनि कि क्षमा गरोस् ।",
+      "transliteration": "Wama yathkuroona illa an yashaa Allahu huwa ahlu alttaqwa waahlu almaghfirati"
+    }
+  ]
+}

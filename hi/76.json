@@ -1,0 +1,196 @@
+{
+  "id": 76,
+  "name": "الانسان",
+  "transliteration": "Al-Insan",
+  "translation": "The Man",
+  "type": "medinan",
+  "total_verses": 31,
+  "verses": [
+    {
+      "id": 1,
+      "text": "هَلۡ أَتَىٰ عَلَى ٱلۡإِنسَٰنِ حِينٞ مِّنَ ٱلدَّهۡرِ لَمۡ يَكُن شَيۡـٔٗا مَّذۡكُورًا",
+      "translation": "निश्चय इनसान पर ज़माने का एक ऐसा समय भी गुज़रा है, जब वह कोई ऐसी चीज़ नहीं था जिसका (कहीं) उल्लेख हुआ हो।",
+      "transliteration": "Hal ata AAala alinsani heenun mina alddahri lam yakun shayan mathkooran"
+    },
+    {
+      "id": 2,
+      "text": "إِنَّا خَلَقۡنَا ٱلۡإِنسَٰنَ مِن نُّطۡفَةٍ أَمۡشَاجٖ نَّبۡتَلِيهِ فَجَعَلۡنَٰهُ سَمِيعَۢا بَصِيرًا",
+      "translation": "निःसंदेह हमने इनसान को मिश्रित वीर्य से पैदा किया, हम उसकी परीक्षा लेते हैं। तो हमने उसे सुनने वाला, देखने वाला बना दिया।",
+      "transliteration": "Inna khalaqna alinsana min nutfatin amshajin nabtaleehi fajaAAalnahu sameeAAan baseeran"
+    },
+    {
+      "id": 3,
+      "text": "إِنَّا هَدَيۡنَٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرٗا وَإِمَّا كَفُورًا",
+      "translation": "निःसंदेह हमने उसे रास्ता दिखा दिया। (अब) वह चाहे कृतज्ञ बने और चाहे कृतघ्न।",
+      "transliteration": "Inna hadaynahu alssabeela imma shakiran waimma kafooran"
+    },
+    {
+      "id": 4,
+      "text": "إِنَّآ أَعۡتَدۡنَا لِلۡكَٰفِرِينَ سَلَٰسِلَاْ وَأَغۡلَٰلٗا وَسَعِيرًا",
+      "translation": "निःसंदेह हमने काफ़िरों के लिए ज़ंजीरें तथा तौक़ और भड़कती हुई आग तैयार की है।",
+      "transliteration": "Inna aAAtadna lilkafireena salasila waaghlalan wasaAAeeran"
+    },
+    {
+      "id": 5,
+      "text": "إِنَّ ٱلۡأَبۡرَارَ يَشۡرَبُونَ مِن كَأۡسٖ كَانَ مِزَاجُهَا كَافُورًا",
+      "translation": "निश्चय सदाचारी लोग ऐसे जाम से पिएँगे, जिसमें कपूर का मिश्रण होगा।",
+      "transliteration": "Inna alabrara yashraboona min kasin kana mizajuha kafooran"
+    },
+    {
+      "id": 6,
+      "text": "عَيۡنٗا يَشۡرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفۡجِيرٗا",
+      "translation": "यह एक स्रोत होगा, जिससे अल्लाह के बंदे पीएँगे। वे उसे (जहाँ चाहेंगे) बहा ले जाएँगे।",
+      "transliteration": "AAaynan yashrabu biha AAibadu Allahi yufajjiroonaha tafjeeran"
+    },
+    {
+      "id": 7,
+      "text": "يُوفُونَ بِٱلنَّذۡرِ وَيَخَافُونَ يَوۡمٗا كَانَ شَرُّهُۥ مُسۡتَطِيرٗا",
+      "translation": "जो नज़्र (मन्नत) पूरी करते हैं और उस दिन से डरते हैं जिसकी आपदा चारों ओर फैली हुई होगी।",
+      "transliteration": "Yoofoona bialnnathri wayakhafoona yawman kana sharruhu mustateeran"
+    },
+    {
+      "id": 8,
+      "text": "وَيُطۡعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسۡكِينٗا وَيَتِيمٗا وَأَسِيرًا",
+      "translation": "और वे निर्धन, अनाथ और क़ैदी को खाना (खुद) उसकी चाहत रखते हुए भी खिलाते हैं।",
+      "transliteration": "WayutAAimona alttaAAama AAala hubbihi miskeenan wayateeman waaseeran"
+    },
+    {
+      "id": 9,
+      "text": "إِنَّمَا نُطۡعِمُكُمۡ لِوَجۡهِ ٱللَّهِ لَا نُرِيدُ مِنكُمۡ جَزَآءٗ وَلَا شُكُورًا",
+      "translation": "(और कहते हैं :) हम तो तुम्हें केवल अल्लाह के चेहरे की ख़ातिर खिलाते हैं। न तुमसे कोई बदला चाहते हैं और न कृतज्ञता।",
+      "transliteration": "Innama nutAAimukum liwajhi Allahi la nureedu minkum jazaan wala shukooran"
+    },
+    {
+      "id": 10,
+      "text": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوۡمًا عَبُوسٗا قَمۡطَرِيرٗا",
+      "translation": "हम अपने पालनहार से उस दिन से डरते हैं, जो बहुत कठिन और भयानक होगा।",
+      "transliteration": "Inna nakhafu min rabbina yawman AAaboosan qamtareeran"
+    },
+    {
+      "id": 11,
+      "text": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلۡيَوۡمِ وَلَقَّىٰهُمۡ نَضۡرَةٗ وَسُرُورٗا",
+      "translation": "तो अल्लाह ने उन्हें उस दिन की आपदा से बचा लिया और उन्हें ताज़गी तथा खुशी प्रदान की।",
+      "transliteration": "Fawaqahumu Allahu sharra thalika alyawmi walaqqahum nadratan wasurooran"
+    },
+    {
+      "id": 12,
+      "text": "وَجَزَىٰهُم بِمَا صَبَرُواْ جَنَّةٗ وَحَرِيرٗا",
+      "translation": "और उन्हें उनके धैर्य करने के बदले में जन्नत और रेशमी वस्त्र प्रदान किया।",
+      "transliteration": "Wajazahum bima sabaroo jannatan wahareeran"
+    },
+    {
+      "id": 13,
+      "text": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلۡأَرَآئِكِۖ لَا يَرَوۡنَ فِيهَا شَمۡسٗا وَلَا زَمۡهَرِيرٗا",
+      "translation": "वे उसमें तख़्तों पर तकिया लगाए बैठे होंगे। न उसमें धूप देखेंगे और न सख़्त ठंड।",
+      "transliteration": "Muttakieena feeha AAala alaraiki la yarawna feeha shamsan wala zamhareeran"
+    },
+    {
+      "id": 14,
+      "text": "وَدَانِيَةً عَلَيۡهِمۡ ظِلَٰلُهَا وَذُلِّلَتۡ قُطُوفُهَا تَذۡلِيلٗا",
+      "translation": "और उसके साए उनपर झुके हुए होंगे और उसके फलों के गुच्छे उनके वश में कर दिए जाएँगे।",
+      "transliteration": "Wadaniyatan AAalayhim thilaluha wathullilat qutoofuha tathleelan"
+    },
+    {
+      "id": 15,
+      "text": "وَيُطَافُ عَلَيۡهِم بِـَٔانِيَةٖ مِّن فِضَّةٖ وَأَكۡوَابٖ كَانَتۡ قَوَارِيرَا۠",
+      "translation": "तथा उनपर चाँदी के बरतन और प्याले फिराए जाएँगे, जो शीशे के होंगे।",
+      "transliteration": "Wayutafu AAalayhim bianiyatin min fiddatin waakwabin kanat qawareera"
+    },
+    {
+      "id": 16,
+      "text": "قَوَارِيرَاْ مِن فِضَّةٖ قَدَّرُوهَا تَقۡدِيرٗا",
+      "translation": "शीशे चाँदी के होंगे, उन्होंने उनका ठीक अनुमान लगाया होगा।",
+      "transliteration": "Qawareera min fiddatin qaddarooha taqdeeran"
+    },
+    {
+      "id": 17,
+      "text": "وَيُسۡقَوۡنَ فِيهَا كَأۡسٗا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+      "translation": "और उसमें वे ऐसे जाम पिलाए जाएँगे, जिसमें सोंठ मिली होगी।",
+      "transliteration": "Wayusqawna feeha kasan kana mizajuha zanjabeelan"
+    },
+    {
+      "id": 18,
+      "text": "عَيۡنٗا فِيهَا تُسَمَّىٰ سَلۡسَبِيلٗا",
+      "translation": "वह उस (जन्नत) में एक स्रोत है, जिसका नाम सलसबील है।",
+      "transliteration": "AAaynan feeha tusamma salsabeelan"
+    },
+    {
+      "id": 19,
+      "text": "۞وَيَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ إِذَا رَأَيۡتَهُمۡ حَسِبۡتَهُمۡ لُؤۡلُؤٗا مَّنثُورٗا",
+      "translation": "और उनके आस-पास ऐसे बालक फिर रहे होंगे, जो सदा बालक ही रहेंगे। जब तुम उन्हें देखोगे, तो उन्हें बिखरे हुए मोती समझोगे।",
+      "transliteration": "Wayatoofu AAalayhim wildanun mukhalladoona itha raaytahum hasibtahum luluan manthooran"
+    },
+    {
+      "id": 20,
+      "text": "وَإِذَا رَأَيۡتَ ثَمَّ رَأَيۡتَ نَعِيمٗا وَمُلۡكٗا كَبِيرًا",
+      "translation": "तथा जब तुम वहाँ देखोगे, तो महान नेमत तथा विशाल राज्य देखोगे।",
+      "transliteration": "Waitha raayta thamma raayta naAAeeman wamulkan kabeeran"
+    },
+    {
+      "id": 21,
+      "text": "عَٰلِيَهُمۡ ثِيَابُ سُندُسٍ خُضۡرٞ وَإِسۡتَبۡرَقٞۖ وَحُلُّوٓاْ أَسَاوِرَ مِن فِضَّةٖ وَسَقَىٰهُمۡ رَبُّهُمۡ شَرَابٗا طَهُورًا",
+      "translation": "उनके शरीर पर महीन रेशम के हरे कपड़े तथा दबीज़ रेशमी वस्त्र होंगे और उन्हें चाँदी के कंगन पहनाए जाएँगे और उनका पालनहार उन्हें पवित्र पेय पिलाएगा।",
+      "transliteration": "AAaliyahum thiyabu sundusin khudrun waistabraqun wahulloo asawira min fiddatin wasaqahum rabbuhum sharaban tahooran"
+    },
+    {
+      "id": 22,
+      "text": "إِنَّ هَٰذَا كَانَ لَكُمۡ جَزَآءٗ وَكَانَ سَعۡيُكُم مَّشۡكُورًا",
+      "translation": "(तथा कहा जाएगा :) निःसंदेह यह तुम्हारा प्रतिफल है और तुम्हारे प्रयास का सम्मान किया गया।",
+      "transliteration": "Inna hatha kana lakum jazaan wakana saAAyukum mashkooran"
+    },
+    {
+      "id": 23,
+      "text": "إِنَّا نَحۡنُ نَزَّلۡنَا عَلَيۡكَ ٱلۡقُرۡءَانَ تَنزِيلٗا",
+      "translation": "निश्चय हम ही ने आपपर यह क़ुरआन थोड़ा-थोड़ा करके उतारा है।",
+      "transliteration": "Inna nahnu nazzalna AAalayka alqurana tanzeelan"
+    },
+    {
+      "id": 24,
+      "text": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تُطِعۡ مِنۡهُمۡ ءَاثِمًا أَوۡ كَفُورٗا",
+      "translation": "अतः आप अपने पालनहार के आदेश के लिए धैर्य रखें और उनमें से किसी पापी या कृतघ्न की बात न मानें।",
+      "transliteration": "Faisbir lihukmi rabbika wala tutiAA minhum athiman aw kafooran"
+    },
+    {
+      "id": 25,
+      "text": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ بُكۡرَةٗ وَأَصِيلٗا",
+      "translation": "तथा प्रातःकाल और संध्या समय अपने पालनहार का नाम याद करते रहें।",
+      "transliteration": "Waothkuri isma rabbika bukratan waaseelan"
+    },
+    {
+      "id": 26,
+      "text": "وَمِنَ ٱلَّيۡلِ فَٱسۡجُدۡ لَهُۥ وَسَبِّحۡهُ لَيۡلٗا طَوِيلًا",
+      "translation": "तथा रात के कुछ हिस्से में भी उसके लिए सजदा करें और लंबी रात तक उसकी पवित्रता का वर्णन करें।",
+      "transliteration": "Wamina allayli faosjud lahu wasabbihhu laylan taweelan"
+    },
+    {
+      "id": 27,
+      "text": "إِنَّ هَـٰٓؤُلَآءِ يُحِبُّونَ ٱلۡعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمۡ يَوۡمٗا ثَقِيلٗا",
+      "translation": "निःसंदेह ये लोग शीघ्र प्राप्त होने वाली चीज़ (संसार) से प्रेम रखते है और एक भारी दिन को अपने पीछे छोड़ रहे हैं।",
+      "transliteration": "Inna haolai yuhibboona alAAajilata wayatharoona waraahum yawman thaqeelan"
+    },
+    {
+      "id": 28,
+      "text": "نَّحۡنُ خَلَقۡنَٰهُمۡ وَشَدَدۡنَآ أَسۡرَهُمۡۖ وَإِذَا شِئۡنَا بَدَّلۡنَآ أَمۡثَٰلَهُمۡ تَبۡدِيلًا",
+      "translation": "हम ही ने उन्हें पैदा किया और उनके जोड़-बंद मज़बूत किए, तथा हम जब चाहेंगे बदलकर उन जैसे अन्य लोग ले आएँगे।",
+      "transliteration": "Nahnu khalaqnahum washadadna asrahum waitha shina baddalna amthalahum tabdeelan"
+    },
+    {
+      "id": 29,
+      "text": "إِنَّ هَٰذِهِۦ تَذۡكِرَةٞۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلٗا",
+      "translation": "निश्चय यह एक उपदेश है। अतः जो चाहे अपने पालनहार की ओर (जाने वाला) मार्ग पकड़ ले।",
+      "transliteration": "Inna hathihi tathkiratun faman shaa ittakhatha ila rabbihi sabeelan"
+    },
+    {
+      "id": 30,
+      "text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا",
+      "translation": "और तुम अल्लाह के चाहे बिना कुछ भी नहीं चाह सकते। निश्चय अल्लाह सब चीज़ों को जानने वाला, पूर्ण हिकमत वाला है।",
+      "transliteration": "Wama tashaoona illa an yashaa Allahu inna Allaha kana AAaleeman hakeeman"
+    },
+    {
+      "id": 31,
+      "text": "يُدۡخِلُ مَن يَشَآءُ فِي رَحۡمَتِهِۦۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمۡ عَذَابًا أَلِيمَۢا",
+      "translation": "वह जिसे चाहता है अपनी दया में दाखिल करता है और अत्याचारियों के लिए उसने दर्दनाक यातना तैयार की है।",
+      "transliteration": "Yudkhilu man yashao fee rahmatihi waalththalimeena aAAadda lahum AAathaban aleeman"
+    }
+  ]
+}

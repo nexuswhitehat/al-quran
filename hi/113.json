@@ -1,0 +1,40 @@
+{
+  "id": 113,
+  "name": "الفلق",
+  "transliteration": "Al-Falaq",
+  "translation": "The Daybreak",
+  "type": "meccan",
+  "total_verses": 5,
+  "verses": [
+    {
+      "id": 1,
+      "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ",
+      "translation": "(ऐ नबी!) कह दीजिए : मैं सुबह के पालनहार की शरण लेता हूँ।",
+      "transliteration": "Qul aAAoothu birabbi alfalaqi"
+    },
+    {
+      "id": 2,
+      "text": "مِن شَرِّ مَا خَلَقَ",
+      "translation": "उस चीज़ की बुराई से, जो उसने पैदा की।",
+      "transliteration": "Min sharri ma khalaqa"
+    },
+    {
+      "id": 3,
+      "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "translation": "तथा अंधेरी रात की बुराई से, जब वह छा जाए।",
+      "transliteration": "Wamin sharri ghasiqin itha waqaba"
+    },
+    {
+      "id": 4,
+      "text": "وَمِن شَرِّ ٱلنَّفَّـٰثَٰتِ فِي ٱلۡعُقَدِ",
+      "translation": "तथा गाँठों में फूँकने वालियों की बुराई से।",
+      "transliteration": "Wamin sharri alnnaffathati fee alAAuqadi"
+    },
+    {
+      "id": 5,
+      "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "translation": "तथा ईर्ष्या करने वाले की बुराई से, जब वह ईर्ष्या करे।",
+      "transliteration": "Wamin sharri hasidin itha hasada"
+    }
+  ]
+}

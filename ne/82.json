@@ -1,0 +1,124 @@
+{
+  "id": 82,
+  "name": "الإنفطار",
+  "transliteration": "Al-Infitar",
+  "translation": "The Cleaving",
+  "type": "meccan",
+  "total_verses": 19,
+  "verses": [
+    {
+      "id": 1,
+      "text": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ",
+      "translation": "जब आकाश क्षतविक्षत भइहाल्नेछ,",
+      "transliteration": "Itha alssamao infatarat"
+    },
+    {
+      "id": 2,
+      "text": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ",
+      "translation": "र जब ताराहरू झरिहाल्नेछन् ।",
+      "transliteration": "Waitha alkawakibu intatharat"
+    },
+    {
+      "id": 3,
+      "text": "وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ",
+      "translation": "र जब समुन्द्र बगेर जानेछन् ।",
+      "transliteration": "Waitha albiharu fujjirat"
+    },
+    {
+      "id": 4,
+      "text": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ",
+      "translation": "र जब चिहानहरू उत्खनित हुनेछन् ।",
+      "transliteration": "Waitha alqubooru buAAthirat"
+    },
+    {
+      "id": 5,
+      "text": "عَلِمَتۡ نَفۡسٞ مَّا قَدَّمَتۡ وَأَخَّرَتۡ",
+      "translation": "तब हर व्यक्तिले थाहा पाउनेछ कि उसले अगाडि के पठाएको थियो र पछाडि के छोडेको थियो ?",
+      "transliteration": "AAalimat nafsun ma qaddamat waakhkharat"
+    },
+    {
+      "id": 6,
+      "text": "يَـٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ",
+      "translation": "हे मानव ! कुन कुराले तिमीलाई आफ्नो उदार पालनकर्ताको विषयमा भ्रममा पारेको छ ?",
+      "transliteration": "Ya ayyuha alinsanu ma gharraka birabbika alkareemi"
+    },
+    {
+      "id": 7,
+      "text": "ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "translation": "(त्यही नहो) जसले तिमीलाई सृष्टि गर्यो र फेरि (तिम्रा अङ्ग–प्रत्यङ्गहरूलाई) ठीक–ठीक पारी तिमीलाई सन्तुलित बनायो ।",
+      "transliteration": "Allathee khalaqaka fasawwaka faAAadalaka"
+    },
+    {
+      "id": 8,
+      "text": "فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ",
+      "translation": "र जुन रूपमा चाह्यो, तिमीलाई जोडेर तयार गर्यो ।",
+      "transliteration": "Fee ayyi sooratin ma shaa rakkabaka"
+    },
+    {
+      "id": 9,
+      "text": "كَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ",
+      "translation": "केही होइन, बरु तिमीले प्रतिफल दिइने दिनलाई झुठ्लाउँछौ ।",
+      "transliteration": "Kalla bal tukaththiboona bialddeeni"
+    },
+    {
+      "id": 10,
+      "text": "وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ",
+      "translation": "जबकि तिमीमाथि निगरानी गर्नेहरू नियुक्त छन् ।",
+      "transliteration": "Wainna AAalaykum lahafitheena"
+    },
+    {
+      "id": 11,
+      "text": "كِرَامٗا كَٰتِبِينَ",
+      "translation": "प्रतिष्ठित लेख्नेहरू नियुक्त छन् ।",
+      "transliteration": "Kiraman katibeena"
+    },
+    {
+      "id": 12,
+      "text": "يَعۡلَمُونَ مَا تَفۡعَلُونَ",
+      "translation": "तिमीले जे गर्दछौ, (त्यसलाई) उनीहरू जान्दछन् ।",
+      "transliteration": "YaAAlamoona ma tafAAaloona"
+    },
+    {
+      "id": 13,
+      "text": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٖ",
+      "translation": "निःसन्देह सत्कर्मी मानिसहरू स्वर्गका ऐशो आराम र अनुग्रहमा हुनेछन् ।",
+      "transliteration": "Inna alabrara lafee naAAeemin"
+    },
+    {
+      "id": 14,
+      "text": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ",
+      "translation": "र निःसंदेह दूराचारीहरू नर्कमा हुनेछन् ।",
+      "transliteration": "Wainna alfujjara lafee jaheemin"
+    },
+    {
+      "id": 15,
+      "text": "يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ",
+      "translation": "(अर्थात्) प्रतिफलको दिन त्यसमा प्रवेश गर्नेछन् ।",
+      "transliteration": "Yaslawnaha yawma alddeeni"
+    },
+    {
+      "id": 16,
+      "text": "وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ",
+      "translation": "र त्यसबाट उम्केर जान सक्ने छैनन् ।",
+      "transliteration": "Wama hum AAanha bighaibeena"
+    },
+    {
+      "id": 17,
+      "text": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+      "translation": "र तिमीहरूलाई के थाहा कि प्रतिफलको दिन कस्तो छ ?",
+      "transliteration": "Wama adraka ma yawmu alddeeni"
+    },
+    {
+      "id": 18,
+      "text": "ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+      "translation": "म फेरि भन्छु तिमीलाई के थाहा कि प्रतिफलको दिन कस्तो छ ।",
+      "transliteration": "Thumma ma adraka ma yawmu alddeeni"
+    },
+    {
+      "id": 19,
+      "text": "يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ لِّلَّهِ",
+      "translation": "जुन दिन कुनै व्यक्ति कसैको निम्ति कुनै कुराको अधिकारी हुनेछैन, र सबै आदेश त्यस दिन अल्लाहकै हुनेछ ।",
+      "transliteration": "Yawma la tamliku nafsun linafsin shayan waalamru yawmaithin lillahi"
+    }
+  ]
+}

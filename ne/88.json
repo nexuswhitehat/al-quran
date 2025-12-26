@@ -1,0 +1,166 @@
+{
+  "id": 88,
+  "name": "الغاشية",
+  "transliteration": "Al-Ghashiyah",
+  "translation": "The Overwhelming",
+  "type": "meccan",
+  "total_verses": 26,
+  "verses": [
+    {
+      "id": 1,
+      "text": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡغَٰشِيَةِ",
+      "translation": "के तिमीलाई पनि त्यस घेरीहाल्ने कियामतको समाचार पुगेको छ ?",
+      "transliteration": "Hal ataka hadeethu alghashiyati"
+    },
+    {
+      "id": 2,
+      "text": "وُجُوهٞ يَوۡمَئِذٍ خَٰشِعَةٌ",
+      "translation": "त्यस दिन धेरै अनुहारहरू अपमानित हुनेछन् ।",
+      "transliteration": "Wujoohun yawmaithin khashiAAatun"
+    },
+    {
+      "id": 3,
+      "text": "عَامِلَةٞ نَّاصِبَةٞ",
+      "translation": "कठिन परिश्रममा परेका, थाकिएका (थकित) हुनेछन् ।",
+      "transliteration": "AAamilatun nasibatun"
+    },
+    {
+      "id": 4,
+      "text": "تَصۡلَىٰ نَارًا حَامِيَةٗ",
+      "translation": "उनी धपधपी बलेको आगोमा प्रवेश गर्नेछन् ।",
+      "transliteration": "Tasla naran hamiyatan"
+    },
+    {
+      "id": 5,
+      "text": "تُسۡقَىٰ مِنۡ عَيۡنٍ ءَانِيَةٖ",
+      "translation": "उनीहरूलाई उम्लिराखेको स्रोतको तातो पानी पिलाइनेछ ।",
+      "transliteration": "Tusqa min AAaynin aniyatin"
+    },
+    {
+      "id": 6,
+      "text": "لَّيۡسَ لَهُمۡ طَعَامٌ إِلَّا مِن ضَرِيعٖ",
+      "translation": "उनीहरूको लागि काँडावाला रुख बाहेक अरु केही खानेकुरा हुनेछैन ।",
+      "transliteration": "Laysa lahum taAAamun illa min dareeAAin"
+    },
+    {
+      "id": 7,
+      "text": "لَّا يُسۡمِنُ وَلَا يُغۡنِي مِن جُوعٖ",
+      "translation": "जसले न मोटो गर्नेछ न भोक नै मेटाउनेछ ।",
+      "transliteration": "La yusminu wala yughnee min jooAAin"
+    },
+    {
+      "id": 8,
+      "text": "وُجُوهٞ يَوۡمَئِذٖ نَّاعِمَةٞ",
+      "translation": "त्यसदिन कतिपय अनुहारहरू प्रफुल्लित र संतुष्ट हुनेछन् ।",
+      "transliteration": "Wujoohun yawmaithin naAAimatun"
+    },
+    {
+      "id": 9,
+      "text": "لِّسَعۡيِهَا رَاضِيَةٞ",
+      "translation": "आफ्नो प्रयासमा प्रसन्न ।",
+      "transliteration": "LisaAAyiha radiyatun"
+    },
+    {
+      "id": 10,
+      "text": "فِي جَنَّةٍ عَالِيَةٖ",
+      "translation": "उच्च र शानदार स्वर्गमा हुनेछन् ।",
+      "transliteration": "Fee jannatin AAaliyatin"
+    },
+    {
+      "id": 11,
+      "text": "لَّا تَسۡمَعُ فِيهَا لَٰغِيَةٗ",
+      "translation": "जसमा कुनै व्यर्थकुरा सुन्ने छैनन् ।",
+      "transliteration": "La tasmaAAu feeha laghiyatan"
+    },
+    {
+      "id": 12,
+      "text": "فِيهَا عَيۡنٞ جَارِيَةٞ",
+      "translation": "त्यसमा झरनाहरू प्रवाहित हुनेछन् ।",
+      "transliteration": "Feeha AAaynun jariyatun"
+    },
+    {
+      "id": 13,
+      "text": "فِيهَا سُرُرٞ مَّرۡفُوعَةٞ",
+      "translation": "र अग्ला–अग्ला पलंगहरू हुनेछन् ।",
+      "transliteration": "Feeha sururun marfooAAatun"
+    },
+    {
+      "id": 14,
+      "text": "وَأَكۡوَابٞ مَّوۡضُوعَةٞ",
+      "translation": "प्यालाहरू राम्ररी सजाएर राखिएका हुनेछन्) ।",
+      "transliteration": "Waakwabun mawdooAAatun"
+    },
+    {
+      "id": 15,
+      "text": "وَنَمَارِقُ مَصۡفُوفَةٞ",
+      "translation": "र क्रमैसित मसनदहरू (सिरानीहरू) सजाइएका हुनेछन् ।",
+      "transliteration": "Wanamariqu masfoofatun"
+    },
+    {
+      "id": 16,
+      "text": "وَزَرَابِيُّ مَبۡثُوثَةٌ",
+      "translation": "र मखमली ओच्छ्यानहरू ओछ्याइएका हुनेछन् ।",
+      "transliteration": "Wazarabiyyu mabthoothatun"
+    },
+    {
+      "id": 17,
+      "text": "أَفَلَا يَنظُرُونَ إِلَى ٱلۡإِبِلِ كَيۡفَ خُلِقَتۡ",
+      "translation": "के उनीहरूले ऊँटतिर देख्दैनन् कि तिनीहरू कुन तरिकाले पैदा गरिएका छन् ।",
+      "transliteration": "Afala yanthuroona ila alibili kayfa khuliqat"
+    },
+    {
+      "id": 18,
+      "text": "وَإِلَى ٱلسَّمَآءِ كَيۡفَ رُفِعَتۡ",
+      "translation": "र आकाशतिर के कस्तो उच्च गरिएको छ ?",
+      "transliteration": "Waila alssamai kayfa rufiAAat"
+    },
+    {
+      "id": 19,
+      "text": "وَإِلَى ٱلۡجِبَالِ كَيۡفَ نُصِبَتۡ",
+      "translation": "र पहाडतिर के कुन प्रकारले खडा गरिएको छ ?",
+      "transliteration": "Waila aljibali kayfa nusibat"
+    },
+    {
+      "id": 20,
+      "text": "وَإِلَى ٱلۡأَرۡضِ كَيۡفَ سُطِحَتۡ",
+      "translation": "र धरतीतिर कि कसरी बिछाइएको छ ?",
+      "transliteration": "Waila alardi kayfa sutihat"
+    },
+    {
+      "id": 21,
+      "text": "فَذَكِّرۡ إِنَّمَآ أَنتَ مُذَكِّرٞ",
+      "translation": "तसर्थ तपाईले उपदेश दिने गर्नुस् किनकि तपाई मात्र उपदेश दिनेवाला हौ ।",
+      "transliteration": "Fathakkir innama anta muthakkirun"
+    },
+    {
+      "id": 22,
+      "text": "لَّسۡتَ عَلَيۡهِم بِمُصَيۡطِرٍ",
+      "translation": "तपाई उनीहरूमाथि संरक्षक होइनौ ।",
+      "transliteration": "Lasta AAalayhim bimusaytirin"
+    },
+    {
+      "id": 23,
+      "text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "translation": "हो, जो विमुख हुन्छ र कुफ्र गर्छ ।",
+      "transliteration": "Illa man tawalla wakafara"
+    },
+    {
+      "id": 24,
+      "text": "فَيُعَذِّبُهُ ٱللَّهُ ٱلۡعَذَابَ ٱلۡأَكۡبَرَ",
+      "translation": "त अल्लाहले त्यसलाई ठूलो सजाय दिनेछ,",
+      "transliteration": "FayuAAaththibuhu Allahu alAAathaba alakbara"
+    },
+    {
+      "id": 25,
+      "text": "إِنَّ إِلَيۡنَآ إِيَابَهُمۡ",
+      "translation": "निःसन्देह उनीहरूलाई हाम्रो पासमा फर्केर आउनुपर्नेछ ।",
+      "transliteration": "Inna ilayna iyabahum"
+    },
+    {
+      "id": 26,
+      "text": "ثُمَّ إِنَّ عَلَيۡنَا حِسَابَهُم",
+      "translation": "अनि हामीले नै उनको हिसाब लिनेछौं ।",
+      "transliteration": "Thumma inna AAalayna hisabahum"
+    }
+  ]
+}

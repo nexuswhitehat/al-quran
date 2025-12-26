@@ -1,0 +1,124 @@
+{
+  "id": 96,
+  "name": "العلق",
+  "transliteration": "Al-'Alaq",
+  "translation": "The Clot",
+  "type": "meccan",
+  "total_verses": 19,
+  "verses": [
+    {
+      "id": 1,
+      "text": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ",
+      "translation": "आफ्नो पालनकर्ताको नाम लिएर पढ, जसले सृष्टि गर्यो ।",
+      "transliteration": "Iqra biismi rabbika allathee khalaqa"
+    },
+    {
+      "id": 2,
+      "text": "خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ",
+      "translation": "जसले मानिसलाई रगतको थोपाबाट (डल्लाबाट) बनायो ।",
+      "transliteration": "Khalaqa alinsana min AAalaqin"
+    },
+    {
+      "id": 3,
+      "text": "ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ",
+      "translation": "तिमी पढ्दैगर तिम्रो पालनकर्ता बडो दयावान छ ।",
+      "transliteration": "Iqra warabbuka alakramu"
+    },
+    {
+      "id": 4,
+      "text": "ٱلَّذِي عَلَّمَ بِٱلۡقَلَمِ",
+      "translation": "जसले कलमको माध्यमबाट शिक्षा प्रदान गर्यो ।",
+      "transliteration": "Allathee AAallama bialqalami"
+    },
+    {
+      "id": 5,
+      "text": "عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ",
+      "translation": "जसले मानिसलाई त्यो ज्ञान प्रदान गर्यो, जुन ऊ जान्दैनथ्यो ।",
+      "transliteration": "AAallama alinsana ma lam yaAAlam"
+    },
+    {
+      "id": 6,
+      "text": "كَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ",
+      "translation": "तर मानिस उल्लंघनकारी भइहाल्दछ ।",
+      "transliteration": "Kalla inna alinsana layatgha"
+    },
+    {
+      "id": 7,
+      "text": "أَن رَّءَاهُ ٱسۡتَغۡنَىٰٓ",
+      "translation": "यसकारण कि उसले आफूलाई आत्मनिर्भर देख्दछ ।",
+      "transliteration": "An raahu istaghna"
+    },
+    {
+      "id": 8,
+      "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ",
+      "translation": "यसमा कुनै सन्देह छैन कि तिम्रो पालनकर्तातिर नै फर्किजानु पर्नेछ ।",
+      "transliteration": "Inna ila rabbika alrrujAAa"
+    },
+    {
+      "id": 9,
+      "text": "أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ",
+      "translation": "के तिमीले त्यस व्यक्तिलाई देख्यौ ? जसले (अल्लाहको) सेवकलाई मनाही गर्दछ ।",
+      "transliteration": "Araayta allathee yanha"
+    },
+    {
+      "id": 10,
+      "text": "عَبۡدًا إِذَا صَلَّىٰٓ",
+      "translation": "(अर्थात्) एक अल्लाहको भक्तलाई जबकि ऊ नमाज पढ्नथाल्छ ।",
+      "transliteration": "AAabdan itha salla"
+    },
+    {
+      "id": 11,
+      "text": "أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ",
+      "translation": "तिम्रो के विचार छ ? यदि त्यो सोझो सत्य मार्गमा छ भने ।",
+      "transliteration": "Araayta in kana AAala alhuda"
+    },
+    {
+      "id": 12,
+      "text": "أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ",
+      "translation": "वा संयमित रहनुको आदेश दिन्छ भने ।",
+      "transliteration": "Aw amara bialttaqwa"
+    },
+    {
+      "id": 13,
+      "text": "أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "translation": "विचार गर त यदि त्यस (रोक्नेवाला)ले झूठ ठान्यो र मुख फर्काएको भए,",
+      "transliteration": "Araayta in kaththaba watawalla"
+    },
+    {
+      "id": 14,
+      "text": "أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "translation": "त के उसले जानेन, कि अल्लाहले राम्ररी उसलाई देखिरहेको छ ।",
+      "transliteration": "Alam yaAAlam bianna Allaha yara"
+    },
+    {
+      "id": 15,
+      "text": "كَلَّا لَئِن لَّمۡ يَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ",
+      "translation": "निःसंदेह यदि त्यसले मानेन भने हामीले उसलाई उसको टाउकोको (निधारको) कपाल समातेर घिसार्ने छौं ।",
+      "transliteration": "Kalla lain lam yantahi lanasfaAAan bialnnasiyati"
+    },
+    {
+      "id": 16,
+      "text": "نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ",
+      "translation": "यस्तो टाउको जो झूठो अपराधी छ ।",
+      "transliteration": "Nasiyatin kathibatin khatiatin"
+    },
+    {
+      "id": 17,
+      "text": "فَلۡيَدۡعُ نَادِيَهُۥ",
+      "translation": "यिनीहरू आफ्ना साथीहरूको परिषद्लाई बोलाऊन् ।",
+      "transliteration": "FalyadAAu nadiyahu"
+    },
+    {
+      "id": 18,
+      "text": "سَنَدۡعُ ٱلزَّبَانِيَةَ",
+      "translation": "हामीले पनि आफ्नो सजायका दूतहरूलाई बोलाउनेछौं ।",
+      "transliteration": "SanadAAu alzzabaniyata"
+    },
+    {
+      "id": 19,
+      "text": "كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
+      "translation": "खबरदार ! उसको भनाई कदापि नमान्नु र सजदा गर्नु र (अल्लाहको) निकटता प्राप्त गर्दैरहुन् ।",
+      "transliteration": "Kalla la tutiAAhu waosjud waiqtarib"
+    }
+  ]
+}

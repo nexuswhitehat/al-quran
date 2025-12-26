@@ -1,0 +1,190 @@
+{
+  "id": 89,
+  "name": "الفجر",
+  "transliteration": "Al-Fajr",
+  "translation": "The Dawn",
+  "type": "meccan",
+  "total_verses": 30,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَٱلۡفَجۡرِ",
+      "translation": "क़सम है फ़ज्र (उषाकाल) की!",
+      "transliteration": "Waalfajri"
+    },
+    {
+      "id": 2,
+      "text": "وَلَيَالٍ عَشۡرٖ",
+      "translation": "तथा दस रातों की!",
+      "transliteration": "Walayalin AAashrin"
+    },
+    {
+      "id": 3,
+      "text": "وَٱلشَّفۡعِ وَٱلۡوَتۡرِ",
+      "translation": "और सम (जोड़े) और विषम (अकेले) की!",
+      "transliteration": "WaalshshafAAi waalwatri"
+    },
+    {
+      "id": 4,
+      "text": "وَٱلَّيۡلِ إِذَا يَسۡرِ",
+      "translation": "और रात की, जब वह चलती है!",
+      "transliteration": "Waallayli itha yasri"
+    },
+    {
+      "id": 5,
+      "text": "هَلۡ فِي ذَٰلِكَ قَسَمٞ لِّذِي حِجۡرٍ",
+      "translation": "निश्चय इसमें बुद्धिमान के लिए बड़ी क़सम है?",
+      "transliteration": "Hal fee thalika qasamun lithee hijrin"
+    },
+    {
+      "id": 6,
+      "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "translation": "क्या तुमने नहीं देखा कि तुम्हारे पालनहार ने \"आद\" के साथ किस तरह किया?",
+      "transliteration": "Alam tara kayfa faAAala rabbuka biAAadin"
+    },
+    {
+      "id": 7,
+      "text": "إِرَمَ ذَاتِ ٱلۡعِمَادِ",
+      "translation": "(वे आद) जो स्तंभों वाले 'इरम' (गोत्र के लोग) थे।",
+      "transliteration": "Irama thati alAAimadi"
+    },
+    {
+      "id": 8,
+      "text": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ",
+      "translation": "जिनके समान (दुनिया के) शहरों में कोई पैदा नहीं किया गया।",
+      "transliteration": "Allatee lam yukhlaq mithluha fee albiladi"
+    },
+    {
+      "id": 9,
+      "text": "وَثَمُودَ ٱلَّذِينَ جَابُواْ ٱلصَّخۡرَ بِٱلۡوَادِ",
+      "translation": "तथा 'समूद' के साथ (किस तरह किया) जिन्होंने वादी में चट्टानों को तराशा।",
+      "transliteration": "Wathamooda allatheena jaboo alssakhra bialwadi"
+    },
+    {
+      "id": 10,
+      "text": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ",
+      "translation": "और मेखों वाले फ़िरऔन के साथ (किस तरह किया)।",
+      "transliteration": "WafirAAawna thee alawtadi"
+    },
+    {
+      "id": 11,
+      "text": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ",
+      "translation": "वे लोग, जो नगरों में हद से बढ़ गए।",
+      "transliteration": "Allatheena taghaw fee albiladi"
+    },
+    {
+      "id": 12,
+      "text": "فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ",
+      "translation": "और उनमें बहुत अधिक उपद्रव फैलाया।",
+      "transliteration": "Faaktharoo feeha alfasada"
+    },
+    {
+      "id": 13,
+      "text": "فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ",
+      "translation": "तो तेरे पालनहार ने उनपर यातना का कोड़ा बरसाया।",
+      "transliteration": "Fasabba AAalayhim rabbuka sawta AAathabin"
+    },
+    {
+      "id": 14,
+      "text": "إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ",
+      "translation": "निःसंदेह तेरा पालनहार निश्चय घात में है।",
+      "transliteration": "Inna rabbaka labialmirsadi"
+    },
+    {
+      "id": 15,
+      "text": "فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ",
+      "translation": "लेकिन मनुष्य (का हाल यह है कि) जब उसका पालनहार उसका परीक्षण करे, फिर उसे सम्मानित करे और नेमत प्रदान करे, तो कहता है कि मेरे पालनहार ने मुझे सम्मानित किया।",
+      "transliteration": "Faamma alinsanu itha ma ibtalahu rabbuhu faakramahu wanaAAAAamahu fayaqoolu rabbee akramani"
+    },
+    {
+      "id": 16,
+      "text": "وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ رَبِّيٓ أَهَٰنَنِ",
+      "translation": "लेकिन जब वह उसका परीक्षण करे, फिर उसपर उसकी रोज़ी तंग कर दे, तो कहता कि मेरे पालनहार ने मुझे अपमानित किया।",
+      "transliteration": "Waamma itha ma ibtalahu faqadara AAalayhi rizqahu fayaqoolu rabbee ahanani"
+    },
+    {
+      "id": 17,
+      "text": "كَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ",
+      "translation": "हरगिज़ ऐसा नहीं, बल्कि तुम अनाथ का सम्मान नहीं करते।",
+      "transliteration": "Kalla bal la tukrimoona alyateema"
+    },
+    {
+      "id": 18,
+      "text": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+      "translation": "तथा तुम एक-दूसरे को ग़रीब को खाना खिलाने के लिए प्रोत्साहित नहीं करते हो।",
+      "transliteration": "Wala tahaddoona AAala taAAami almiskeeni"
+    },
+    {
+      "id": 19,
+      "text": "وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلٗا لَّمّٗا",
+      "translation": "और तुम मीरास का सारा धन समेटकर खा जाते हो।",
+      "transliteration": "Watakuloona altturatha aklan lamman"
+    },
+    {
+      "id": 20,
+      "text": "وَتُحِبُّونَ ٱلۡمَالَ حُبّٗا جَمّٗا",
+      "translation": "और तुम धन से बहुत अधिक प्रेम करते हो।",
+      "transliteration": "Watuhibboona almala hubban jamman"
+    },
+    {
+      "id": 21,
+      "text": "كَلَّآۖ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكّٗا دَكّٗا",
+      "translation": "हरगिज़ नहीं! जब धरती कूट-कूटकर चूर्ण-विचूर्ण कर दी जाएगी।",
+      "transliteration": "Kalla itha dukkati alardu dakkan dakkan"
+    },
+    {
+      "id": 22,
+      "text": "وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفّٗا صَفّٗا",
+      "translation": "और तेरा पालनहार आएगा और फ़रिश्ते जो पंक्तियों में होंगे।",
+      "transliteration": "Wajaa rabbuka waalmalaku saffan saffan"
+    },
+    {
+      "id": 23,
+      "text": "وَجِاْيٓءَ يَوۡمَئِذِۭ بِجَهَنَّمَۚ يَوۡمَئِذٖ يَتَذَكَّرُ ٱلۡإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ",
+      "translation": "और उस दिन नरक लाई जाएगी। उस दिन इनसान याद करेगा। लेकिन उस दिन याद करना उसे कहाँ से लाभ देगा।",
+      "transliteration": "Wajeea yawmaithin bijahannama yawmaithin yatathakkaru alinsanu waanna lahu alththikra"
+    },
+    {
+      "id": 24,
+      "text": "يَقُولُ يَٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي",
+      "translation": "वह कहेगा : ऐ काश! मैंने अपने (इस) जीवन के लिए कुछ आगे भेजा होता।",
+      "transliteration": "Yaqoolu ya laytanee qaddamtu lihayatee"
+    },
+    {
+      "id": 25,
+      "text": "فَيَوۡمَئِذٖ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٞ",
+      "translation": "चुनाँचे उस दिन उस (अल्लाह) के दंड जैसा दंड कोई नहीं देगा।",
+      "transliteration": "Fayawmaithin la yuAAaththibu AAathabahu ahadun"
+    },
+    {
+      "id": 26,
+      "text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٞ",
+      "translation": "और न उसके बाँधने जैसा कोई बाँधेगा।",
+      "transliteration": "Wala yoothiqu wathaqahu ahadun"
+    },
+    {
+      "id": 27,
+      "text": "يَـٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ",
+      "translation": "ऐ संतुष्ट आत्मा!",
+      "transliteration": "Ya ayyatuha alnnafsu almutmainnatu"
+    },
+    {
+      "id": 28,
+      "text": "ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ",
+      "translation": "अपने पालनहार की ओर लौट चल, इस हाल में कि तू उससे प्रसन्न है, उसके निकट पसंदीदा है।",
+      "transliteration": "IrjiAAee ila rabbiki radiyatan mardiyyatan"
+    },
+    {
+      "id": 29,
+      "text": "فَٱدۡخُلِي فِي عِبَٰدِي",
+      "translation": "अतः तू मेरे बंदों में प्रवेश कर जा।",
+      "transliteration": "Faodkhulee fee AAibadee"
+    },
+    {
+      "id": 30,
+      "text": "وَٱدۡخُلِي جَنَّتِي",
+      "translation": "और मेरी जन्नत में प्रवेश कर जा।",
+      "transliteration": "Waodkhulee jannatee"
+    }
+  ]
+}

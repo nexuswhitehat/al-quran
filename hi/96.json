@@ -1,0 +1,124 @@
+{
+  "id": 96,
+  "name": "العلق",
+  "transliteration": "Al-'Alaq",
+  "translation": "The Clot",
+  "type": "meccan",
+  "total_verses": 19,
+  "verses": [
+    {
+      "id": 1,
+      "text": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ",
+      "translation": "अपने पालनहार के नाम से पढ़, जिसने पैदा किया।",
+      "transliteration": "Iqra biismi rabbika allathee khalaqa"
+    },
+    {
+      "id": 2,
+      "text": "خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ",
+      "translation": "जिसने मनुष्य को रक्त के लोथड़े से पैदा किया।",
+      "transliteration": "Khalaqa alinsana min AAalaqin"
+    },
+    {
+      "id": 3,
+      "text": "ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ",
+      "translation": "पढ़ और तेरा पालनहार बड़े करम (उदारता) वाला है।",
+      "transliteration": "Iqra warabbuka alakramu"
+    },
+    {
+      "id": 4,
+      "text": "ٱلَّذِي عَلَّمَ بِٱلۡقَلَمِ",
+      "translation": "जिसने क़लम के द्वारा सिखाया।",
+      "transliteration": "Allathee AAallama bialqalami"
+    },
+    {
+      "id": 5,
+      "text": "عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ",
+      "translation": "उसने इनसान को वह सिखाया, जो वह नहीं जानता था।",
+      "transliteration": "AAallama alinsana ma lam yaAAlam"
+    },
+    {
+      "id": 6,
+      "text": "كَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ",
+      "translation": "कदापि नहीं, निःसंदेह मनुष्य सीमा पार कर जाता है।",
+      "transliteration": "Kalla inna alinsana layatgha"
+    },
+    {
+      "id": 7,
+      "text": "أَن رَّءَاهُ ٱسۡتَغۡنَىٰٓ",
+      "translation": "इसलिए कि वह स्वयं को बेनियाज़ (धनवान्) देखता है।",
+      "transliteration": "An raahu istaghna"
+    },
+    {
+      "id": 8,
+      "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ",
+      "translation": "निःसंदेह, तेरे पालनहार ही की ओर वापस लौटना है।",
+      "transliteration": "Inna ila rabbika alrrujAAa"
+    },
+    {
+      "id": 9,
+      "text": "أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ",
+      "translation": "क्या आपने उस व्यक्ति को देखा, जो रोकता है।",
+      "transliteration": "Araayta allathee yanha"
+    },
+    {
+      "id": 10,
+      "text": "عَبۡدًا إِذَا صَلَّىٰٓ",
+      "translation": "एक बंदे को, जब वह नमाज़ अदा करता है।",
+      "transliteration": "AAabdan itha salla"
+    },
+    {
+      "id": 11,
+      "text": "أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ",
+      "translation": "क्या आपने देखा यदि वह सीधे मार्ग पर हो।",
+      "transliteration": "Araayta in kana AAala alhuda"
+    },
+    {
+      "id": 12,
+      "text": "أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ",
+      "translation": "या अल्लाह से डरने का आदेश देता हो?",
+      "transliteration": "Aw amara bialttaqwa"
+    },
+    {
+      "id": 13,
+      "text": "أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "translation": "क्या आपने देखा यदि उसने झुठलाया तथा मुँह फेरा?",
+      "transliteration": "Araayta in kaththaba watawalla"
+    },
+    {
+      "id": 14,
+      "text": "أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "translation": "क्या उसने नहीं जाना कि अल्लाह देख रहा है?",
+      "transliteration": "Alam yaAAlam bianna Allaha yara"
+    },
+    {
+      "id": 15,
+      "text": "كَلَّا لَئِن لَّمۡ يَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ",
+      "translation": "कदापि नहीं, निश्चय यदि वह नहीं माना, तो हम अवश्य उसे माथे की लट पकड़कर घसीटेंगे।",
+      "transliteration": "Kalla lain lam yantahi lanasfaAAan bialnnasiyati"
+    },
+    {
+      "id": 16,
+      "text": "نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ",
+      "translation": "ऐसे माथे की लट जो झूठा और पापी है।",
+      "transliteration": "Nasiyatin kathibatin khatiatin"
+    },
+    {
+      "id": 17,
+      "text": "فَلۡيَدۡعُ نَادِيَهُۥ",
+      "translation": "तो वह अपनी सभा को बुला ले।",
+      "transliteration": "FalyadAAu nadiyahu"
+    },
+    {
+      "id": 18,
+      "text": "سَنَدۡعُ ٱلزَّبَانِيَةَ",
+      "translation": "हम भी जहन्नम के फ़रिश्तों को बुला लेंगे।",
+      "transliteration": "SanadAAu alzzabaniyata"
+    },
+    {
+      "id": 19,
+      "text": "كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
+      "translation": "कदापि नहीं, आप उसकी बात न मानें, (बल्कि) सजदा करें और (अल्लाह के) निकट हो जाएँ।",
+      "transliteration": "Kalla la tutiAAhu waosjud waiqtarib"
+    }
+  ]
+}

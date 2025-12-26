@@ -1,0 +1,190 @@
+{
+  "id": 89,
+  "name": "الفجر",
+  "transliteration": "Al-Fajr",
+  "translation": "The Dawn",
+  "type": "meccan",
+  "total_verses": 30,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَٱلۡفَجۡرِ",
+      "translation": "फज्र (उषाकाल) को कसम ।",
+      "transliteration": "Waalfajri"
+    },
+    {
+      "id": 2,
+      "text": "وَلَيَالٍ عَشۡرٖ",
+      "translation": "र दश रातहरूको कसम ।",
+      "transliteration": "Walayalin AAashrin"
+    },
+    {
+      "id": 3,
+      "text": "وَٱلشَّفۡعِ وَٱلۡوَتۡرِ",
+      "translation": "र जोड तथा बिजोड (सम–विसम) को कसम ।",
+      "transliteration": "WaalshshafAAi waalwatri"
+    },
+    {
+      "id": 4,
+      "text": "وَٱلَّيۡلِ إِذَا يَسۡرِ",
+      "translation": "र रातको कसम, जब यो जान थाल्छ ।",
+      "transliteration": "Waallayli itha yasri"
+    },
+    {
+      "id": 5,
+      "text": "هَلۡ فِي ذَٰلِكَ قَسَمٞ لِّذِي حِجۡرٍ",
+      "translation": "के यी कुराहरूको कसम बुद्धिमानीहरूको लागि पर्याप्त छन् ?",
+      "transliteration": "Hal fee thalika qasamun lithee hijrin"
+    },
+    {
+      "id": 6,
+      "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "translation": "के तपाईले देख्नु भएन कि तपाईको पालनकर्ताले आदहरूसँग के गर्यो ?",
+      "transliteration": "Alam tara kayfa faAAala rabbuka biAAadin"
+    },
+    {
+      "id": 7,
+      "text": "إِرَمَ ذَاتِ ٱلۡعِمَادِ",
+      "translation": "स्तम्भजस्ता ‘‘इरम’’ लामो कदवालाको साथ ।",
+      "transliteration": "Irama thati alAAimadi"
+    },
+    {
+      "id": 8,
+      "text": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ",
+      "translation": "यी सम्पूर्ण सृष्टिमा यिनीहरूको सदृश कुनै समुदाय पैदा गरिएको थिएन् ।",
+      "transliteration": "Allatee lam yukhlaq mithluha fee albiladi"
+    },
+    {
+      "id": 9,
+      "text": "وَثَمُودَ ٱلَّذِينَ جَابُواْ ٱلصَّخۡرَ بِٱلۡوَادِ",
+      "translation": "र समूदहरूसँग (के गर्यो) जो बेसीमा ठूल ठूला ढुङ्गा काट्दथे ।",
+      "transliteration": "Wathamooda allatheena jaboo alssakhra bialwadi"
+    },
+    {
+      "id": 10,
+      "text": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ",
+      "translation": "र फिरऔनसँग जसले मेखहरू राख्दथ्यो ?",
+      "transliteration": "WafirAAawna thee alawtadi"
+    },
+    {
+      "id": 11,
+      "text": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ",
+      "translation": "यिनीहरू सबैले देशहरूमा अटेरीपना गरिराखेका थिए ।",
+      "transliteration": "Allatheena taghaw fee albiladi"
+    },
+    {
+      "id": 12,
+      "text": "فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ",
+      "translation": "र यहां धेरै उत्पातहरू मच्चाइराखेका थिए ।",
+      "transliteration": "Faaktharoo feeha alfasada"
+    },
+    {
+      "id": 13,
+      "text": "فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ",
+      "translation": "अन्ततः तिम्रो पालनकर्ताले उनीहरूमाथि यातनाको कोर्रा बर्सायो ।",
+      "transliteration": "Fasabba AAalayhim rabbuka sawta AAathabin"
+    },
+    {
+      "id": 14,
+      "text": "إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ",
+      "translation": "निःसन्देह तिम्रो पालनकर्ता हेरी घातमा छ ।",
+      "transliteration": "Inna rabbaka labialmirsadi"
+    },
+    {
+      "id": 15,
+      "text": "فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ",
+      "translation": "तर मानिसको अवस्था यो छ कि जब उसको रबले (पालनकर्ताले) उसको परीक्षा गर्दछ र उसलाई प्रतिष्ठा र अनुग्रह प्रदान गर्दछ तब त्यसले भन्दछ कि मेरो पालनकर्ताले मलाई प्रतिष्ठित गर्यो ।",
+      "transliteration": "Faamma alinsanu itha ma ibtalahu rabbuhu faakramahu wanaAAAAamahu fayaqoolu rabbee akramani"
+    },
+    {
+      "id": 16,
+      "text": "وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ رَبِّيٓ أَهَٰنَنِ",
+      "translation": "र जब उसले उसको परीक्षा यसप्रकार गर्दछ कि उसको जीविका संकुचित गरिदिन्छ । तब उसले भन्दछ कि मेरो रबले मलाई अपमानित गर्यो ।",
+      "transliteration": "Waamma itha ma ibtalahu faqadara AAalayhi rizqahu fayaqoolu rabbee ahanani"
+    },
+    {
+      "id": 17,
+      "text": "كَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ",
+      "translation": "यस्तो कदापि होइन, बरु तिमीहरूले नै अनाथको सम्मान गर्दैनौ ।",
+      "transliteration": "Kalla bal la tukrimoona alyateema"
+    },
+    {
+      "id": 18,
+      "text": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+      "translation": "र न गरिबलाई खुवाउनको लागि एक–अर्कालाई प्रोत्साहन गर्दछौ ।",
+      "transliteration": "Wala tahaddoona AAala taAAami almiskeeni"
+    },
+    {
+      "id": 19,
+      "text": "وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلٗا لَّمّٗا",
+      "translation": "र मृतकको सारा माल समेटी खाइदिन्छौ ।",
+      "transliteration": "Watakuloona altturatha aklan lamman"
+    },
+    {
+      "id": 20,
+      "text": "وَتُحِبُّونَ ٱلۡمَالَ حُبّٗا جَمّٗا",
+      "translation": "र धनसित अत्यन्त प्रेम गर्दछौ ।",
+      "transliteration": "Watuhibboona almala hubban jamman"
+    },
+    {
+      "id": 21,
+      "text": "كَلَّآۖ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكّٗا دَكّٗا",
+      "translation": "तसर्थ धरतीलाई जब फुटालेर चुर्ण चुर्ण गरी एक समान गरिनेछ ।",
+      "transliteration": "Kalla itha dukkati alardu dakkan dakkan"
+    },
+    {
+      "id": 22,
+      "text": "وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفّٗا صَفّٗا",
+      "translation": "र तिम्रो पालनकर्ता स्वयं आउने छ र फरिश्ताहरू एक–एक गरी पंक्तिबद्ध भएर आउनेछन् ।",
+      "transliteration": "Wajaa rabbuka waalmalaku saffan saffan"
+    },
+    {
+      "id": 23,
+      "text": "وَجِاْيٓءَ يَوۡمَئِذِۭ بِجَهَنَّمَۚ يَوۡمَئِذٖ يَتَذَكَّرُ ٱلۡإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ",
+      "translation": "र नर्कलाई त्यसदिन उपस्थित गराइनेछ, त्यसदिन मानिसले चेत्नेछ, तर त्यस दिन चेतेबाट पनि केही फाइदा हुनेछैन ।",
+      "transliteration": "Wajeea yawmaithin bijahannama yawmaithin yatathakkaru alinsanu waanna lahu alththikra"
+    },
+    {
+      "id": 24,
+      "text": "يَقُولُ يَٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي",
+      "translation": "उसले भन्नेछ, काश (हाय !) मैले आफ्नो (यस) जिन्दगीको निम्ति केही अगाडि पठाएको भए ।",
+      "transliteration": "Yaqoolu ya laytanee qaddamtu lihayatee"
+    },
+    {
+      "id": 25,
+      "text": "فَيَوۡمَئِذٖ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٞ",
+      "translation": "अनि त्यसदिन अल्लाहको सजाय जस्तो यातना कसैको हुनेछैन ।",
+      "transliteration": "Fayawmaithin la yuAAaththibu AAathabahu ahadun"
+    },
+    {
+      "id": 26,
+      "text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٞ",
+      "translation": "र कोही छैन जसले उसको जस्तो जकडेर बाँध्न सकोस् ।",
+      "transliteration": "Wala yoothiqu wathaqahu ahadun"
+    },
+    {
+      "id": 27,
+      "text": "يَـٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ",
+      "translation": "र हे सन्तुष्ट आत्मा ।",
+      "transliteration": "Ya ayyatuha alnnafsu almutmainnatu"
+    },
+    {
+      "id": 28,
+      "text": "ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ",
+      "translation": "आफ्नो पालनकर्तातिर तिमी यस किसिमले फर्क कि तिमी ऊसित प्रसन्न र ऊ तिमीसित प्रसन्न ।",
+      "transliteration": "IrjiAAee ila rabbiki radiyatan mardiyyatan"
+    },
+    {
+      "id": 29,
+      "text": "فَٱدۡخُلِي فِي عِبَٰدِي",
+      "translation": "अतः मेरा खास दासहरूमा शम्मिलित भइहाल ।",
+      "transliteration": "Faodkhulee fee AAibadee"
+    },
+    {
+      "id": 30,
+      "text": "وَٱدۡخُلِي جَنَّتِي",
+      "translation": "र प्रवेश गर मेरो स्वर्गमा ।",
+      "transliteration": "Waodkhulee jannatee"
+    }
+  ]
+}

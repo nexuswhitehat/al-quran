@@ -1,0 +1,82 @@
+{
+  "id": 66,
+  "name": "التحريم",
+  "transliteration": "At-Tahrim",
+  "translation": "The Prohibition",
+  "type": "medinan",
+  "total_verses": 12,
+  "verses": [
+    {
+      "id": 1,
+      "text": "يَـٰٓأَيُّهَا ٱلنَّبِيُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَۖ تَبۡتَغِي مَرۡضَاتَ أَزۡوَٰجِكَۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+      "translation": "हे नबी ! जुन कुरोलाई तपाईको निम्ति अल्लाहले बैध ठहराएको छ, त्यसलाई तपाईले किन अवैध गर्नु हुन्छ ? के तपाईले आफ्नो पत्नीहरूको सहमति लिन चाहनुहुन्छ ? र अल्लाह बडो क्षमाशील, अत्यन्त दयावान छ ।",
+      "transliteration": "Ya ayyuha alnnabiyyu lima tuharrimu ma ahalla Allahu laka tabtaghee mardata azwajika waAllahu ghafoorun raheemun"
+    },
+    {
+      "id": 2,
+      "text": "قَدۡ فَرَضَ ٱللَّهُ لَكُمۡ تَحِلَّةَ أَيۡمَٰنِكُمۡۚ وَٱللَّهُ مَوۡلَىٰكُمۡۖ وَهُوَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
+      "translation": "अल्लाहले तिमीहरूलाई तिम्रा शपथहरूको उम्कने उपाय निर्धारित गरिदिएको छ र अल्लाह नै संरक्षक छ र ऊ सर्वज्ञ र अत्यन्त तत्वदर्शी छ ।",
+      "transliteration": "Qad farada Allahu lakum tahillata aymanikum waAllahu mawlakum wahuwa alAAaleemu alhakeemu"
+    },
+    {
+      "id": 3,
+      "text": "وَإِذۡ أَسَرَّ ٱلنَّبِيُّ إِلَىٰ بَعۡضِ أَزۡوَٰجِهِۦ حَدِيثٗا فَلَمَّا نَبَّأَتۡ بِهِۦ وَأَظۡهَرَهُ ٱللَّهُ عَلَيۡهِ عَرَّفَ بَعۡضَهُۥ وَأَعۡرَضَ عَنۢ بَعۡضٖۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتۡ مَنۡ أَنۢبَأَكَ هَٰذَاۖ قَالَ نَبَّأَنِيَ ٱلۡعَلِيمُ ٱلۡخَبِيرُ",
+      "translation": "र स्मरण गर जब पैगम्बरले आफ्नो एउटी पत्नीसित एउटा रहस्यको कुरा गरे तर जब उसले उसलाई प्रचार गरिदियो, र अल्लाहले यसबाट नबीलाई सावधान गराइदियो तब नबीले यस पत्नीलाई त्यो कुरा आँशिक भने र केही भनेनन्, अनि जब उनले तिनलाई बताए त सोध्न थालिन् कि तपाईलाई यो कसले भन्यो । उनले भने कि ‘‘मलाई उसले खबर गरेको छ, जो सबै जान्नेवाला र खबर राख्नेवाला छ ।’’",
+      "transliteration": "Waith asarra alnnabiyyu ila baAAdi azwajihi hadeethan falamma nabbaat bihi waathharahu Allahu AAalayhi AAarrafa baAAdahu waaAArada AAan baAAdin falamma nabbaaha bihi qalat man anbaaka hatha qala nabbaaniya alAAaleemu alkhabeeru"
+    },
+    {
+      "id": 4,
+      "text": "إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدۡ صَغَتۡ قُلُوبُكُمَاۖ وَإِن تَظَٰهَرَا عَلَيۡهِ فَإِنَّ ٱللَّهَ هُوَ مَوۡلَىٰهُ وَجِبۡرِيلُ وَصَٰلِحُ ٱلۡمُؤۡمِنِينَۖ وَٱلۡمَلَـٰٓئِكَةُ بَعۡدَ ذَٰلِكَ ظَهِيرٌ",
+      "translation": "(हे नबीका दुवै पत्नीहरू) यदि तिमी दुवै अल्लाह सामु तौबा गर्दछौ, भने राम्रो छ किनकि निःसन्देह तिम्रा हृदयहरू झुकिसकेछन् र यदि पैगम्बर बिरुद्ध तिमीहरू एक आपसमा सहयोग गर्नेछौ भने अल्लाह उसको संरक्षक छ, र जिब्रील र नेक ईमानवालाहरू पनि, र फरिश्ताहरू पनि उसको सहायता गर्नेछन् ।",
+      "transliteration": "In tatooba ila Allahi faqad saghat quloobukuma wain tathahara AAalayhi fainna Allaha huwa mawlahu wajibreelu wasalihu almumineena waalmalaikatu baAAda thalika thaheerun"
+    },
+    {
+      "id": 5,
+      "text": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبۡدِلَهُۥٓ أَزۡوَٰجًا خَيۡرٗا مِّنكُنَّ مُسۡلِمَٰتٖ مُّؤۡمِنَٰتٖ قَٰنِتَٰتٖ تَـٰٓئِبَٰتٍ عَٰبِدَٰتٖ سَـٰٓئِحَٰتٖ ثَيِّبَٰتٖ وَأَبۡكَارٗا",
+      "translation": "र यदि पैगम्बरले तिमीलाई तलाक दिइहालुन् भने यस कुराको धेरै सम्भावना छ कि उनको पालनकर्ताले तिम्रो सट्टामा उनलाई तिमीभन्दा राम्री पत्नीहरू प्रदान गर्नेछ जो मुस्लिम ईमानवाली, आज्ञाकारीणी, तौबा गर्ने, इबादत (स्तुति) गर्नेवाली, व्रत बस्नेवाली, विधवा र कुमारीहरू पनि हुनेछिन् ।",
+      "transliteration": "AAasa rabbuhu in tallaqakunna an yubdilahu azwajan khayran minkunna muslimatin muminatin qanitatin taibatin AAabidatin saihatin thayyibatin waabkaran"
+    },
+    {
+      "id": 6,
+      "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ قُوٓاْ أَنفُسَكُمۡ وَأَهۡلِيكُمۡ نَارٗا وَقُودُهَا ٱلنَّاسُ وَٱلۡحِجَارَةُ عَلَيۡهَا مَلَـٰٓئِكَةٌ غِلَاظٞ شِدَادٞ لَّا يَعۡصُونَ ٱللَّهَ مَآ أَمَرَهُمۡ وَيَفۡعَلُونَ مَا يُؤۡمَرُونَ",
+      "translation": "हे मोमिनहरू ! स्वयं आफूलाई र आफ्ना घरवालाहरूलाई त्यस आगोबाट बचाऊ, जसको ईन्धन मुनष्य र पत्थर हुनेछन्, जसको लागि कठोर स्वभावका, यस्ता बलशाली फरिश्ताहरू नियुक्त हुनेछन् जसले त्यसमा अल्लाहको अवज्ञा गर्दैनन् बरु जे आदेश पनि दिइन्छ, त्यसलाई कार्यान्वित गर्दछन् ।",
+      "transliteration": "Ya ayyuha allatheena amanoo qoo anfusakum waahleekum naran waqooduha alnnasu waalhijaratu AAalayha malaikatun ghilathun shidadun la yaAAsoona Allaha ma amarahum wayafAAaloona ma yumaroona"
+    },
+    {
+      "id": 7,
+      "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ كَفَرُواْ لَا تَعۡتَذِرُواْ ٱلۡيَوۡمَۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ",
+      "translation": "काफिरहरू हो ! आज तिमीहरू बहानाहरू नबनाऊ । मात्र तिमीले गर्दै आएका कार्यहरूको प्रतिफल तिमीहरूलाई दिइँदैछ ।",
+      "transliteration": "Ya ayyuha allatheena kafaroo la taAAtathiroo alyawma innama tujzawna ma kuntum taAAmaloona"
+    },
+    {
+      "id": 8,
+      "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ تُوبُوٓاْ إِلَى ٱللَّهِ تَوۡبَةٗ نَّصُوحًا عَسَىٰ رَبُّكُمۡ أَن يُكَفِّرَ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَيُدۡخِلَكُمۡ جَنَّـٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ يَوۡمَ لَا يُخۡزِي ٱللَّهُ ٱلنَّبِيَّ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥۖ نُورُهُمۡ يَسۡعَىٰ بَيۡنَ أَيۡدِيهِمۡ وَبِأَيۡمَٰنِهِمۡ يَقُولُونَ رَبَّنَآ أَتۡمِمۡ لَنَا نُورَنَا وَٱغۡفِرۡ لَنَآۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+      "translation": "हे मोमिनहरू ! अल्लाहको अगाडि तिमीहरूले सत्य पवित्र हृदयले क्षमा याचना गर, आशा छ कि उसले तिम्रा पापहरू तिमीबाट हटाइदिनेछ र तिमीलाई स्वर्गका बागहरूमा, जसमुनि नहरहरू बगरिराखेका छन्, प्रविष्ट गराउनेछ । त्यसदिन अल्लाहले पैगम्बरलाई र ती मानिसहरूलाई, जसले उनको साथ दिएका छन्, निराश गर्नेछैन, (बरु) उनको चमक उनको अगाडि र दायाँतिर (प्रकाश पार्दै) हिंडिरहेको हुनेछ र उनीहरू अल्लाहसित विन्ती गर्नेछन् कि हे पालनकर्ता ! हाम्रो प्रकाश हाम्रो निम्ति पूरा गर र हामीलाई क्षमा गर । निःसन्देह तिमी, प्रत्येक कुरामाथि सामर्थ्यवान छौ ।",
+      "transliteration": "Ya ayyuha allatheena amanoo tooboo ila Allahi tawbatan nasoohan AAasa rabbukum an yukaffira AAankum sayyiatikum wayudkhilakum jannatin tajree min tahtiha alanharu yawma la yukhzee Allahu alnnabiyya waallatheena amanoo maAAahu nooruhum yasAAa bayna aydeehim wabiaymanihim yaqooloona rabbana atmim lana noorana waighfir lana innaka AAala kulli shayin qadeerun"
+    },
+    {
+      "id": 9,
+      "text": "يَـٰٓأَيُّهَا ٱلنَّبِيُّ جَٰهِدِ ٱلۡكُفَّارَ وَٱلۡمُنَٰفِقِينَ وَٱغۡلُظۡ عَلَيۡهِمۡۚ وَمَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+      "translation": "हे पैगम्बर ! काफिरहरू र मुनाफिकहरूसित लड र उनीहरूमाथि कडाई गर । उनीहरूको बास्स्थान नर्क हो र त्यो साह्रै नराम्रो ठाउँ हो ।",
+      "transliteration": "Ya ayyuha alnnabiyyu jahidi alkuffara waalmunafiqeena waoghluth AAalayhim wamawahum jahannamu wabisa almaseeru"
+    },
+    {
+      "id": 10,
+      "text": "ضَرَبَ ٱللَّهُ مَثَلٗا لِّلَّذِينَ كَفَرُواْ ٱمۡرَأَتَ نُوحٖ وَٱمۡرَأَتَ لُوطٖۖ كَانَتَا تَحۡتَ عَبۡدَيۡنِ مِنۡ عِبَادِنَا صَٰلِحَيۡنِ فَخَانَتَاهُمَا فَلَمۡ يُغۡنِيَا عَنۡهُمَا مِنَ ٱللَّهِ شَيۡـٔٗا وَقِيلَ ٱدۡخُلَا ٱلنَّارَ مَعَ ٱلدَّـٰخِلِينَ",
+      "translation": "अल्लाहले काफिरहरूको निम्ति ‘‘नूहकी’’ पत्नी र ‘‘लूतकी’’ पत्नीको उदाहरण वर्णन गरेको छ । दुवै हाम्रा असल भक्तहरूमध्ये दुईवटा भक्तहरूको घरमा थिइन्, र दुवैले उनीप्रति विश्वासघात गरिन्, तब ती असल भक्तहरूले उनीहरूलाई अल्लाहको सजायबाट बचाउन सकेनन्, र भनियो कि (हे स्त्रीहरू) प्रवेश गर्नेवालाको साथमा तिमी दुवै पनि नर्कमा प्रविष्ट भइहाल ।",
+      "transliteration": "Daraba Allahu mathalan lillatheena kafaroo imraata noohin waimraata lootin kanata tahta AAabdayni min AAibadina salihayni fakhanatahuma falam yughniya AAanhuma mina Allahi shayan waqeela odkhula alnnara maAAa alddakhileena"
+    },
+    {
+      "id": 11,
+      "text": "وَضَرَبَ ٱللَّهُ مَثَلٗا لِّلَّذِينَ ءَامَنُواْ ٱمۡرَأَتَ فِرۡعَوۡنَ إِذۡ قَالَتۡ رَبِّ ٱبۡنِ لِي عِندَكَ بَيۡتٗا فِي ٱلۡجَنَّةِ وَنَجِّنِي مِن فِرۡعَوۡنَ وَعَمَلِهِۦ وَنَجِّنِي مِنَ ٱلۡقَوۡمِ ٱلظَّـٰلِمِينَ",
+      "translation": "र मोमिनहरूको निम्ति अल्लाहले ‘‘फिरऔनकी’’ पत्नीको उदाहरण वर्णन गरेको छ, जब कि उनले अल्लाहसित प्रार्थना गरिन् कि हे मेरो पालनकर्ता ! मेरो निम्ति स्वर्गमा आफ्नो नजिक एउटा घर बनाऊ र मलाई फिरऔन र उसको कर्मबाट छुटकारा देऊ, र अत्याचारीहरूबाट मलाई मुक्त गर ।",
+      "transliteration": "Wadaraba Allahu mathalan lillatheena amanoo imraata firAAawna ith qalat rabbi ibni lee AAindaka baytan fee aljannati wanajjinee min firAAawna waAAamalihi wanajjinee mina alqawmi alththalimeena"
+    },
+    {
+      "id": 12,
+      "text": "وَمَرۡيَمَ ٱبۡنَتَ عِمۡرَٰنَ ٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتۡ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتۡ مِنَ ٱلۡقَٰنِتِينَ",
+      "translation": "र (अर्को) इम्रानकि छोरी ‘‘मरियमको’’ दृष्टान्त बयान गर्यो जसले आफ्नो सतित्वको रक्षा गरिन्, फेरि हामीले त्यस स्त्रीभित्र आफ्नो तरफबाट रूह फूँकिदियौ, र त्यसले आफ्नो पालनकर्ताको कलाम(वाणी) र उसको किताबहरूलाई सत्य ठान्दथिइन्, र उनी उपासकहरूमध्येकी थिइन् ।",
+      "transliteration": "Wamaryama ibnata AAimrana allatee ahsanat farjaha fanafakhna feehi min roohina wasaddaqat bikalimati rabbiha wakutubihi wakanat mina alqaniteena"
+    }
+  ]
+}

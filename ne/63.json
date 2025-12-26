@@ -1,0 +1,76 @@
+{
+  "id": 63,
+  "name": "المنافقون",
+  "transliteration": "Al-Munafiqun",
+  "translation": "The Hypocrites",
+  "type": "medinan",
+  "total_verses": 11,
+  "verses": [
+    {
+      "id": 1,
+      "text": "إِذَا جَآءَكَ ٱلۡمُنَٰفِقُونَ قَالُواْ نَشۡهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِۗ وَٱللَّهُ يَعۡلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشۡهَدُ إِنَّ ٱلۡمُنَٰفِقِينَ لَكَٰذِبُونَ",
+      "translation": "हे मुहम्मद (सल्लल्लाहो अलैहे वसल्लम) ! जब मुनाफिकहरू तपाई सामु आउँदछन् तब भन्दछन् कि हामी साक्षी छौं कि निश्चय नै तपाई अल्लाहको रसूल हुनुहुन्छ । अल्लाह जान्दछ कि निश्चय नै तपाई उसको रसूल हुनुहुन्छ तर अल्लाह गवाही दिन्छ कि यी मुनाफिकहरू एकदमै झूठा छन् ।",
+      "transliteration": "Itha jaaka almunafiqoona qaloo nashhadu innaka larasoolu Allahi waAllahu yaAAlamu innaka larasooluhu waAllahu yashhadu inna almunafiqeena lakathiboona"
+    },
+    {
+      "id": 2,
+      "text": "ٱتَّخَذُوٓاْ أَيۡمَٰنَهُمۡ جُنَّةٗ فَصَدُّواْ عَن سَبِيلِ ٱللَّهِۚ إِنَّهُمۡ سَآءَ مَا كَانُواْ يَعۡمَلُونَ",
+      "translation": "उनीहरूले आफ्नो शपथहरूलाई कवच बनाइसकेका छन् । यसप्रकार उनीहरूले अल्लाहको मार्गबाट रोकिए । निश्चय नै त्यो नराम्रो काम छ जुन यिनीहरूले गरिराखेका छन् ।",
+      "transliteration": "Ittakhathoo aymanahum junnatan fasaddoo AAan sabeeli Allahi innahum saa ma kanoo yaAAmaloona"
+    },
+    {
+      "id": 3,
+      "text": "ذَٰلِكَ بِأَنَّهُمۡ ءَامَنُواْ ثُمَّ كَفَرُواْ فَطُبِعَ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ لَا يَفۡقَهُونَ",
+      "translation": "यो यसकारण कि यिनीहरूले ईमान ल्याएपछि फेरि काफिर भइहाले, तसर्थ उनीहरूको हृदयमा छाप लगाइदिइयो अब यिनीहरूले बुझ्दैनन् ।",
+      "transliteration": "Thalika biannahum amanoo thumma kafaroo fatubiAAa AAala quloobihim fahum la yafqahoona"
+    },
+    {
+      "id": 4,
+      "text": "۞وَإِذَا رَأَيۡتَهُمۡ تُعۡجِبُكَ أَجۡسَامُهُمۡۖ وَإِن يَقُولُواْ تَسۡمَعۡ لِقَوۡلِهِمۡۖ كَأَنَّهُمۡ خُشُبٞ مُّسَنَّدَةٞۖ يَحۡسَبُونَ كُلَّ صَيۡحَةٍ عَلَيۡهِمۡۚ هُمُ ٱلۡعَدُوُّ فَٱحۡذَرۡهُمۡۚ قَٰتَلَهُمُ ٱللَّهُۖ أَنَّىٰ يُؤۡفَكُونَ",
+      "translation": "तपाईले उनीहरूलाई जब देख्नुहुन्छ त उनका शरीर तपाईलाई राम्रो लाग्दछन् र यदि तिनीहरूले कुरा गर्दछन् त उनका कुरा तपाई सुनिराख्नुहुन्छ । यसरी जस्तो कि उनीहरू काठहरू (थाम) हुन् जसलाई भित्ताको सहारामा उभ्याइएको छ । प्रत्येक ठूलो स्वरलाई उनीहरूले आफ्नै विरुद्धमा ठान्दछन् । तिनै वास्तविक शत्रु हुन् । अतः उनीहरूबाट पन्छिएर बस, अल्लाह उनीहरूलाई समाप्त गरोस् । उनीहरू विमुख भई कहाँ गइराखेका छन् ।",
+      "transliteration": "Waitha raaytahum tuAAjibuka ajsamuhum wain yaqooloo tasmaAA liqawlihim kaannahum khushubun musannadatun yahsaboona kulla sayhatin AAalayhim humu alAAaduwwu faihtharhum qatalahumu Allahu anna yufakoona"
+    },
+    {
+      "id": 5,
+      "text": "وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ يَسۡتَغۡفِرۡ لَكُمۡ رَسُولُ ٱللَّهِ لَوَّوۡاْ رُءُوسَهُمۡ وَرَأَيۡتَهُمۡ يَصُدُّونَ وَهُم مُّسۡتَكۡبِرُونَ",
+      "translation": "जब उनीसित भनिन्छ कि आऊ अल्लाहका रसूल तिम्रो निम्ति क्षमा माँगुन्, त टाउको हल्लाइदिन्छन् र तपाईले देख्नुहुनेछ कि घमण्ड गर्दै मुख फर्काइहाल्दछन् ।",
+      "transliteration": "Waitha qeela lahum taAAalaw yastaghfir lakum rasoolu Allahi lawwaw ruoosahum waraaytahum yasuddoona wahum mustakbiroona"
+    },
+    {
+      "id": 6,
+      "text": "سَوَآءٌ عَلَيۡهِمۡ أَسۡتَغۡفَرۡتَ لَهُمۡ أَمۡ لَمۡ تَسۡتَغۡفِرۡ لَهُمۡ لَن يَغۡفِرَ ٱللَّهُ لَهُمۡۚ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+      "translation": "तपाईले उनको निम्ति क्षमा माँग्नु वा नमाँग्नु, दुवै समान छ । अल्लाहले उनलाई कहिल्यै क्षमा गर्दैन । निःसन्देह अल्लाहले यस्ता अवज्ञाकारीहरूलाई मार्गदर्शन प्रदान गर्दैन ।",
+      "transliteration": "Sawaon AAalayhim astaghfarta lahum am lam tastaghfir lahum lan yaghfira Allahu lahum inna Allaha la yahdee alqawma alfasiqeena"
+    },
+    {
+      "id": 7,
+      "text": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنۡ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّواْۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَٰكِنَّ ٱلۡمُنَٰفِقِينَ لَا يَفۡقَهُونَ",
+      "translation": "यिनै मानिस हुन् जसले भन्दछन्ः कि जो अल्लाहको रसूलको साथमा रहन्छन्, उनीमाथि खर्च नगर, ताकि उनीहरू स्वयं यताउता छरिउन् । जबकि आकाशहरू र धरतीका सबै खजाना अल्लाहकै हुन् तर मुनाफिकहरू बुझ्दैनन् ।",
+      "transliteration": "Humu allatheena yaqooloona la tunfiqoo AAala man AAinda rasooli Allahi hatta yanfaddoo walillahi khazainu alssamawati waalardi walakinna almunafiqeena la yafqahoona"
+    },
+    {
+      "id": 8,
+      "text": "يَقُولُونَ لَئِن رَّجَعۡنَآ إِلَى ٱلۡمَدِينَةِ لَيُخۡرِجَنَّ ٱلۡأَعَزُّ مِنۡهَا ٱلۡأَذَلَّۚ وَلِلَّهِ ٱلۡعِزَّةُ وَلِرَسُولِهِۦ وَلِلۡمُؤۡمِنِينَ وَلَٰكِنَّ ٱلۡمُنَٰفِقِينَ لَا يَعۡلَمُونَ",
+      "translation": "उनीहरू भन्दछन्ः कि यदि हामीले फर्केर मदिना जान्छौं भने अधिक मर्यादावालाहरूले अपमानितलाई त्यहाँबाट निकालिदिनेछन् हेर इज्जत र प्रतिष्ठा त अल्लाह र उसको रसूल र मोमिनहरूको निम्ति छ, तर ती मुनाफिकहरूले जान्दैनन् ।",
+      "transliteration": "Yaqooloona lain rajaAAna ila almadeenati layukhrijanna alaAAazzu minha alathalla walillahi alAAizzatu walirasoolihi walilmumineena walakinna almunafiqeena la yaAAlamoona"
+    },
+    {
+      "id": 9,
+      "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُلۡهِكُمۡ أَمۡوَٰلُكُمۡ وَلَآ أَوۡلَٰدُكُمۡ عَن ذِكۡرِ ٱللَّهِۚ وَمَن يَفۡعَلۡ ذَٰلِكَ فَأُوْلَـٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+      "translation": "हे मोमिनहरू ! तिम्रा माल, सम्पत्ति र सन्तानले तिमीलाई अल्लाहको स्मरणबाट गाफिल (अचेत) नबनाइदेओस् र जसले यस्तो गर्नेछ त्यसले घाटा बेहोर्ने छ ।",
+      "transliteration": "Ya ayyuha allatheena amanoo la tulhikum amwalukum wala awladukum AAan thikri Allahi waman yafAAal thalika faolaika humu alkhasiroona"
+    },
+    {
+      "id": 10,
+      "text": "وَأَنفِقُواْ مِن مَّا رَزَقۡنَٰكُم مِّن قَبۡلِ أَن يَأۡتِيَ أَحَدَكُمُ ٱلۡمَوۡتُ فَيَقُولَ رَبِّ لَوۡلَآ أَخَّرۡتَنِيٓ إِلَىٰٓ أَجَلٖ قَرِيبٖ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّـٰلِحِينَ",
+      "translation": "र जे हामीले तिमीलाई प्रदान गरेका छौं, त्यसबाट खर्चगर यसभन्दा अगाडि कि तिमीहरूमध्ये कसैको मृत्यु आइहालोस् र (त्यसबेला) भन्न थालोस् कि हे मेरो पालनकर्ता अरु समय किन दिएनौ ? म दान गर्दथें र असल मानिसहरूमा शम्मिलित भइहाल्थें ।",
+      "transliteration": "Waanfiqoo min ma razaqnakum min qabli an yatiya ahadakumu almawtu fayaqoola rabbi lawla akhkhartanee ila ajalin qareebin faassaddaqa waakun mina alssaliheena"
+    },
+    {
+      "id": 11,
+      "text": "وَلَن يُؤَخِّرَ ٱللَّهُ نَفۡسًا إِذَا جَآءَ أَجَلُهَاۚ وَٱللَّهُ خَبِيرُۢ بِمَا تَعۡمَلُونَ",
+      "translation": "तर अल्लाहले कुनै व्यक्तिलाई जब उसको निर्धारित समय आइपुग्दछ तब कदापि मोहलत दिंदैन । र जे तिमीले गर्दछौ अल्लाह त्यो सबैबाट अवगत छ ।",
+      "transliteration": "Walan yuakhkhira Allahu nafsan itha jaa ajaluha waAllahu khabeerun bima taAAmaloona"
+    }
+  ]
+}

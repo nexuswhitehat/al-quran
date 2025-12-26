@@ -1,0 +1,28 @@
+{
+  "id": 110,
+  "name": "النصر",
+  "transliteration": "An-Nasr",
+  "translation": "The Divine Support",
+  "type": "medinan",
+  "total_verses": 3,
+  "verses": [
+    {
+      "id": 1,
+      "text": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+      "translation": "जब अल्लाहको सहायता र विजय प्राप्त भइहालोस् ।",
+      "transliteration": "Itha jaa nasru Allahi waalfathu"
+    },
+    {
+      "id": 2,
+      "text": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا",
+      "translation": "र तिमीले मानिसहरुको समूहमाथि समूह अल्लाहको दीन (धर्म) मा प्रवेश गरिराखेको देखिहाल्छौ ।",
+      "transliteration": "Waraayta alnnasa yadkhuloona fee deeni Allahi afwajan"
+    },
+    {
+      "id": 3,
+      "text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
+      "translation": "तब आफ्नो पालनकर्ताको प्रशंसाका साथ गुणगान गर र ऊसित क्षमायाचना गर । निश्चय नै ऊ क्षमायाचना स्वीकार गर्नेवाला छ ।",
+      "transliteration": "Fasabbih bihamdi rabbika waistaghfirhu innahu kana tawwaban"
+    }
+  ]
+}

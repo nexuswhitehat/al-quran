@@ -1,0 +1,46 @@
+{
+  "id": 109,
+  "name": "الكافرون",
+  "transliteration": "Al-Kafirun",
+  "translation": "The Disbelievers",
+  "type": "meccan",
+  "total_verses": 6,
+  "verses": [
+    {
+      "id": 1,
+      "text": "قُلۡ يَـٰٓأَيُّهَا ٱلۡكَٰفِرُونَ",
+      "translation": "(हे मुहम्मद सल्लल्लाहो अलैहे वसल्लम !) भनिदिनुस् कि हे काफिरहरू !",
+      "transliteration": "Qul ya ayyuha alkafiroona"
+    },
+    {
+      "id": 2,
+      "text": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ",
+      "translation": "जसनलाई तिमीले पूज्दछौ, उनीहरूको म पूजा गर्दिनं ।",
+      "transliteration": "La aAAbudu ma taAAbudoona"
+    },
+    {
+      "id": 3,
+      "text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+      "translation": "र जसको उपासना म गर्दछु, उसको तिमीले उपासना गर्दैनौ ।",
+      "transliteration": "Wala antum AAabidoona ma aAAbudu"
+    },
+    {
+      "id": 4,
+      "text": "وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ",
+      "translation": "र जसलाई तिमीले पूज्दछौ, तिनीहरुको म पूजा गर्नेवाला छैन।",
+      "transliteration": "Wala ana AAabidun ma AAabadtum"
+    },
+    {
+      "id": 5,
+      "text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+      "translation": "र न तिमी उसको उपासना गर्नेवाला छौ, जसको कि म उपासना गर्दछु ।",
+      "transliteration": "Wala antum AAabidoona ma aAAbudu"
+    },
+    {
+      "id": 6,
+      "text": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
+      "translation": "तिमीहरूको निम्ति तिम्रो धर्म छ र मेरो निम्ति मेरो धर्म ।",
+      "transliteration": "Lakum deenukum waliya deeni"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 1,
+  "name": "الفاتحة",
+  "transliteration": "Al-Fatihah",
+  "translation": "The Opener",
+  "type": "meccan",
+  "total_verses": 7,
+  "verses": [
+    {
+      "id": 1,
+      "text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "translation": "शुर गर्दछु अल्लाहको नामबाट जो अत्यन्त दयालु र अति कृपालु छ ।",
+      "transliteration": "Bismi Allahi alrrahmani alrraheemi"
+    },
+    {
+      "id": 2,
+      "text": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+      "translation": "समस्त प्रशंसा अल्लाहकै लागि छन्, जो सम्पूर्ण ब्रह्माण्डको पालनकर्ता हो ।",
+      "transliteration": "Alhamdu lillahi rabbi alAAalameena"
+    },
+    {
+      "id": 3,
+      "text": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "translation": "अत्यन्त दयालु अति कृपालु छ ।",
+      "transliteration": "Alrrahmani alrraheemi"
+    },
+    {
+      "id": 4,
+      "text": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+      "translation": "प्रतिफल (कयामत) को दिनको स्वामी (मालिक) हो ।",
+      "transliteration": "Maliki yawmi alddeeni"
+    },
+    {
+      "id": 5,
+      "text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+      "translation": "हामी मात्र तिम्रै उपासना गर्दछौं र तिमीसंग मात्र मद्दत चाहन्छौं ।",
+      "transliteration": "Iyyaka naAAbudu waiyyaka nastaAAeenu"
+    },
+    {
+      "id": 6,
+      "text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+      "translation": "हामीलाई सोझो (सच्चा) बाटो देखाऊ ।",
+      "transliteration": "Ihdina alssirata almustaqeema"
+    },
+    {
+      "id": 7,
+      "text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+      "translation": "उनीहरूको बाटो जसलाई तिमीले पुरस्कृत गर्यौ न कि तिनीहरूको जसमाथि तिम्रो क्रोध भयो, र न पथभ्रष्टहरूको (बाटो) ।",
+      "transliteration": "Sirata allatheena anAAamta AAalayhim ghayri almaghdoobi AAalayhim wala alddalleena"
+    }
+  ]
+}

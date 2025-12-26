@@ -1,0 +1,28 @@
+{
+  "id": 103,
+  "name": "العصر",
+  "transliteration": "Al-'Asr",
+  "translation": "The Declining Day",
+  "type": "meccan",
+  "total_verses": 3,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَٱلۡعَصۡرِ",
+      "translation": "अस्र के समय की क़सम!",
+      "transliteration": "WaalAAasri"
+    },
+    {
+      "id": 2,
+      "text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
+      "translation": "निःसंदेह इनसान घाटे में है।",
+      "transliteration": "Inna alinsana lafee khusrin"
+    },
+    {
+      "id": 3,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
+      "translation": "सिवाय उन लोगों के जो ईमान लाए तथा उन्होंने सत्कर्म किए और एक-दूसरे को सत्य की ताकीद की और एक-दूसरे को धैर्य की ताकीद की।",
+      "transliteration": "Illa allatheena amanoo waAAamiloo alssalihati watawasaw bialhaqqi watawasaw bialssabri"
+    }
+  ]
+}

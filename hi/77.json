@@ -1,0 +1,310 @@
+{
+  "id": 77,
+  "name": "المرسلات",
+  "transliteration": "Al-Mursalat",
+  "translation": "The Emissaries",
+  "type": "meccan",
+  "total_verses": 50,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَٱلۡمُرۡسَلَٰتِ عُرۡفٗا",
+      "translation": "क़सम है उन हवाओं की जो निरंतर भेजी जाती हैं!",
+      "transliteration": "Waalmursalati AAurfan"
+    },
+    {
+      "id": 2,
+      "text": "فَٱلۡعَٰصِفَٰتِ عَصۡفٗا",
+      "translation": "फिर बहुत तेज़ चलने वाली हवाओं की क़सम!",
+      "transliteration": "FaalAAasifati AAasfan"
+    },
+    {
+      "id": 3,
+      "text": "وَٱلنَّـٰشِرَٰتِ نَشۡرٗا",
+      "translation": "और बादलों को फैलाने वाली हवाओं की क़सम!",
+      "transliteration": "Waalnnashirati nashran"
+    },
+    {
+      "id": 4,
+      "text": "فَٱلۡفَٰرِقَٰتِ فَرۡقٗا",
+      "translation": "फिर सत्य और असत्य के बीच अंतर करने वाली चीज़ के साथ उतरने वाले फ़रिश्तों की क़सम!",
+      "transliteration": "Faalfariqati farqan"
+    },
+    {
+      "id": 5,
+      "text": "فَٱلۡمُلۡقِيَٰتِ ذِكۡرًا",
+      "translation": "फिर वह़्य लेकर उतरने वाले फ़रिश्तों की क़सम!",
+      "transliteration": "Faalmulqiyati thikran"
+    },
+    {
+      "id": 6,
+      "text": "عُذۡرًا أَوۡ نُذۡرًا",
+      "translation": "उज़्र (बहाना) समाप्त करने या डराने के लिए।",
+      "transliteration": "AAuthran aw nuthran"
+    },
+    {
+      "id": 7,
+      "text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٞ",
+      "translation": "निःसंदेह तुमसे जिस चीज़ का वादा किया जाता है, निश्चय वह होकर रहने वाली है।",
+      "transliteration": "Innama tooAAadoona lawaqiAAun"
+    },
+    {
+      "id": 8,
+      "text": "فَإِذَا ٱلنُّجُومُ طُمِسَتۡ",
+      "translation": "फिर जब तारे मिटा दिए जाएँगे।",
+      "transliteration": "Faitha alnnujoomu tumisat"
+    },
+    {
+      "id": 9,
+      "text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتۡ",
+      "translation": "और जब आकाश फाड़ दिया जाएगा।",
+      "transliteration": "Waitha alssamao furijat"
+    },
+    {
+      "id": 10,
+      "text": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ",
+      "translation": "और जब पर्वत उड़ा दिए जाएँगे।",
+      "transliteration": "Waitha aljibalu nusifat"
+    },
+    {
+      "id": 11,
+      "text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ",
+      "translation": "और जब रसूलों को निर्धारित समय पर एकत्र किया जाएगा।",
+      "transliteration": "Waitha alrrusulu oqqitat"
+    },
+    {
+      "id": 12,
+      "text": "لِأَيِّ يَوۡمٍ أُجِّلَتۡ",
+      "translation": "किस दिन के लिए वे विलंबित किए गए हैं?",
+      "transliteration": "Liayyi yawmin ojjilat"
+    },
+    {
+      "id": 13,
+      "text": "لِيَوۡمِ ٱلۡفَصۡلِ",
+      "translation": "निर्णय के दिन के लिए।",
+      "transliteration": "Liyawmi alfasli"
+    },
+    {
+      "id": 14,
+      "text": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلۡفَصۡلِ",
+      "translation": "और आपको किस चीज़ ने अवगत कराया कि निर्णय का दिन क्या है?",
+      "transliteration": "Wama adraka ma yawmu alfasli"
+    },
+    {
+      "id": 15,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "id": 16,
+      "text": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِينَ",
+      "translation": "क्या हमने पहलों को विनष्ट नहीं किया?",
+      "transliteration": "Alam nuhliki alawwaleena"
+    },
+    {
+      "id": 17,
+      "text": "ثُمَّ نُتۡبِعُهُمُ ٱلۡأٓخِرِينَ",
+      "translation": "फिर हम उनके पीछे बाद वालों को भेजेंगे।",
+      "transliteration": "Thumma nutbiAAuhumu alakhireena"
+    },
+    {
+      "id": 18,
+      "text": "كَذَٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ",
+      "translation": "हम अपराधियों के साथ ऐसा ही करते हैं।",
+      "transliteration": "Kathalika nafAAalu bialmujrimeena"
+    },
+    {
+      "id": 19,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "id": 20,
+      "text": "أَلَمۡ نَخۡلُقكُّم مِّن مَّآءٖ مَّهِينٖ",
+      "translation": "क्या हमने तुम्हें एक तुच्छ पानी से पैदा नहीं किया?",
+      "transliteration": "Alam nakhluqkum min main maheenin"
+    },
+    {
+      "id": 21,
+      "text": "فَجَعَلۡنَٰهُ فِي قَرَارٖ مَّكِينٍ",
+      "translation": "फिर हमने उसे एक सुरक्षित ठिकाने में रखा।",
+      "transliteration": "FajaAAalnahu fee qararin makeenin"
+    },
+    {
+      "id": 22,
+      "text": "إِلَىٰ قَدَرٖ مَّعۡلُومٖ",
+      "translation": "एक ज्ञात अवधि तक।",
+      "transliteration": "Ila qadarin maAAloomin"
+    },
+    {
+      "id": 23,
+      "text": "فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَٰدِرُونَ",
+      "translation": "फिर हमने अनुमान लगाया, तो हम क्या ही अच्छा अनुमान लगाने वाले हैं।",
+      "transliteration": "Faqadarna faniAAma alqadiroona"
+    },
+    {
+      "id": 24,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "id": 25,
+      "text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا",
+      "translation": "क्या हमने धरती को समेटने वाली नहीं बनाया?",
+      "transliteration": "Alam najAAali alarda kifatan"
+    },
+    {
+      "id": 26,
+      "text": "أَحۡيَآءٗ وَأَمۡوَٰتٗا",
+      "translation": "जीवित और मृत लोगों को।",
+      "transliteration": "Ahyaan waamwatan"
+    },
+    {
+      "id": 27,
+      "text": "وَجَعَلۡنَا فِيهَا رَوَٰسِيَ شَٰمِخَٰتٖ وَأَسۡقَيۡنَٰكُم مَّآءٗ فُرَاتٗا",
+      "translation": "तथा हमने उसमें ऊँचे पर्वत बनाए और हमने तुम्हें मीठा पानी पिलाया।",
+      "transliteration": "WajaAAalna feeha rawasiya shamikhatin waasqaynakum maan furatan"
+    },
+    {
+      "id": 28,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "id": 29,
+      "text": "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "translation": "(कहा जाएगा :) उस चीज़ की ओर चलो, जिसे तुम झुठलाते थे।",
+      "transliteration": "Intaliqoo ila ma kuntum bihi tukaththiboona"
+    },
+    {
+      "id": 30,
+      "text": "ٱنطَلِقُوٓاْ إِلَىٰ ظِلّٖ ذِي ثَلَٰثِ شُعَبٖ",
+      "translation": "एक छाया की ओर चलो, जो तीन शाखाओं वाली है।",
+      "transliteration": "Intaliqoo ila thillin thee thalathi shuAAabin"
+    },
+    {
+      "id": 31,
+      "text": "لَّا ظَلِيلٖ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ",
+      "translation": "जो न छाया देगी और न ज्वाला से बचाएगी।",
+      "transliteration": "La thaleelin wala yughnee mina allahabi"
+    },
+    {
+      "id": 32,
+      "text": "إِنَّهَا تَرۡمِي بِشَرَرٖ كَٱلۡقَصۡرِ",
+      "translation": "निःसंदेह वह (आग) भवन के समान चिंगारियाँ फेंकेगी।",
+      "transliteration": "Innaha tarmee bishararin kaalqasri"
+    },
+    {
+      "id": 33,
+      "text": "كَأَنَّهُۥ جِمَٰلَتٞ صُفۡرٞ",
+      "translation": "जैसे वे पीले ऊँट हों।",
+      "transliteration": "Kaannahu jimalatun sufrun"
+    },
+    {
+      "id": 34,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "id": 35,
+      "text": "هَٰذَا يَوۡمُ لَا يَنطِقُونَ",
+      "translation": "यह वह दिन है कि वे बोल नहीं सकेंगे।",
+      "transliteration": "Hatha yawmu la yantiqoona"
+    },
+    {
+      "id": 36,
+      "text": "وَلَا يُؤۡذَنُ لَهُمۡ فَيَعۡتَذِرُونَ",
+      "translation": "और न उन्हें अनुमति दी जाएगी कि वे उज़्र (कारण) पेश करें।",
+      "transliteration": "Wala yuthanu lahum fayaAAtathiroona"
+    },
+    {
+      "id": 37,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "id": 38,
+      "text": "هَٰذَا يَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَٰكُمۡ وَٱلۡأَوَّلِينَ",
+      "translation": "यह निर्णय का दिन है। हमने तुम्हें और पहलों को एकत्र कर दिया है।",
+      "transliteration": "Hatha yawmu alfasli jamaAAnakum waalawwaleena"
+    },
+    {
+      "id": 39,
+      "text": "فَإِن كَانَ لَكُمۡ كَيۡدٞ فَكِيدُونِ",
+      "translation": "तो यदि तुम्हारे पास कोई चाल हो, तो मेरे विरुद्ध चलो।",
+      "transliteration": "Fain kana lakum kaydun fakeedooni"
+    },
+    {
+      "id": 40,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "id": 41,
+      "text": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلٖ وَعُيُونٖ",
+      "translation": "निश्चय डरने वाले लोग छाँवों तथा स्रोतों में होंगे।",
+      "transliteration": "Inna almuttaqeena fee thilalin waAAuyoonin"
+    },
+    {
+      "id": 42,
+      "text": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ",
+      "translation": "तथा फलों में, जिसमें से वे चाहेंगे।",
+      "transliteration": "Wafawakiha mimma yashtahoona"
+    },
+    {
+      "id": 43,
+      "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+      "translation": "(तथा उनसे कहा जाएगा :) मज़े से खाओ और पियो, उसके बदले जो तुम किया करते थे।",
+      "transliteration": "Kuloo waishraboo haneean bima kuntum taAAmaloona"
+    },
+    {
+      "id": 44,
+      "text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+      "translation": "हम सदाचारियों को इसी तरह बदला प्रदान करते हैं।",
+      "transliteration": "Inna kathalika najzee almuhsineena"
+    },
+    {
+      "id": 45,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "id": 46,
+      "text": "كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ",
+      "translation": "(ऐ झुठलाने वालो!) तुम खा लो तथा थोड़ा-सा आनंद ले लो। निश्चय तुम अपराधी हो।",
+      "transliteration": "Kuloo watamattaAAoo qaleelan innakum mujrimoona"
+    },
+    {
+      "id": 47,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "id": 48,
+      "text": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ",
+      "translation": "तथा जब उनसे कहा जाता है कि (अल्लाह के आगे) झुको, तो वे नहीं झुकते।",
+      "transliteration": "Waitha qeela lahumu irkaAAoo la yarkaAAoona"
+    },
+    {
+      "id": 49,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "id": 50,
+      "text": "فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ",
+      "translation": "फिर इस (क़ुरआन) के बाद वे किस बात पर ईमान लाएँगे?",
+      "transliteration": "Fabiayyi hadeethin baAAdahu yuminoona"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": 90,
+  "name": "البلد",
+  "transliteration": "Al-Balad",
+  "translation": "The City",
+  "type": "meccan",
+  "total_verses": 20,
+  "verses": [
+    {
+      "id": 1,
+      "text": "لَآ أُقۡسِمُ بِهَٰذَا ٱلۡبَلَدِ",
+      "translation": "हामीलाई यस नगर (मक्का) को कसम ।",
+      "transliteration": "La oqsimu bihatha albaladi"
+    },
+    {
+      "id": 2,
+      "text": "وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ",
+      "translation": "र तपाई यसै नगरमा त बस्नुहुन्छ ।",
+      "transliteration": "Waanta hillun bihatha albaladi"
+    },
+    {
+      "id": 3,
+      "text": "وَوَالِدٖ وَمَا وَلَدَ",
+      "translation": "र मानवीय बाबु र उसको सन्तानको कसम ।",
+      "transliteration": "Wawalidin wama walada"
+    },
+    {
+      "id": 4,
+      "text": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِي كَبَدٍ",
+      "translation": "निःसन्देह हामीले मानिसलाई धेरै दुःखमा पैदा गरेका छौं ।",
+      "transliteration": "Laqad khalaqna alinsana fee kabadin"
+    },
+    {
+      "id": 5,
+      "text": "أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدٞ",
+      "translation": "के उसले यो ठान्दछ कि उसमाथि कसैको नियन्त्रण छैन ।",
+      "transliteration": "Ayahsabu an lan yaqdira AAalayhi ahadun"
+    },
+    {
+      "id": 6,
+      "text": "يَقُولُ أَهۡلَكۡتُ مَالٗا لُّبَدًا",
+      "translation": "भन्दछ कि मैले धेरै माल सम्पत्ति खर्च गरिदिएँ ।",
+      "transliteration": "Yaqoolu ahlaktu malan lubadan"
+    },
+    {
+      "id": 7,
+      "text": "أَيَحۡسَبُ أَن لَّمۡ يَرَهُۥٓ أَحَدٌ",
+      "translation": "के उसलाई यो लाग्दछ कि कसैले उसलाई देखेन ।",
+      "transliteration": "Ayahsabu an lam yarahu ahadun"
+    },
+    {
+      "id": 8,
+      "text": "أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ",
+      "translation": "के हामीले उसलाई दुईटा आँखा दिएनौं ।",
+      "transliteration": "Alam najAAal lahu AAaynayni"
+    },
+    {
+      "id": 9,
+      "text": "وَلِسَانٗا وَشَفَتَيۡنِ",
+      "translation": "र एउटा जिब्रो र दुईटा ओठ (दिएनौं) ?",
+      "transliteration": "Walisanan washafatayni"
+    },
+    {
+      "id": 10,
+      "text": "وَهَدَيۡنَٰهُ ٱلنَّجۡدَيۡنِ",
+      "translation": "र उसलाई दुर्इटै मार्ग पनि देखायौं ।",
+      "transliteration": "Wahadaynahu alnnajdayni"
+    },
+    {
+      "id": 11,
+      "text": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ",
+      "translation": "त उसले त्यो घाटीमा पस्न सकेन,",
+      "transliteration": "Fala iqtahama alAAaqabata"
+    },
+    {
+      "id": 12,
+      "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ",
+      "translation": "र तिमीलाई के थाहा कि त्यो घाटी के हो ?",
+      "transliteration": "Wama adraka ma alAAaqabatu"
+    },
+    {
+      "id": 13,
+      "text": "فَكُّ رَقَبَةٍ",
+      "translation": "(कसैको) गर्दनलाई (दासत्वबाट) मुक्ति दिलाउनु ।",
+      "transliteration": "Fakku raqabatin"
+    },
+    {
+      "id": 14,
+      "text": "أَوۡ إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ",
+      "translation": "वा भोकको दिन खाना खुवाउनु ।",
+      "transliteration": "Aw itAAamun fee yawmin thee masghabatin"
+    },
+    {
+      "id": 15,
+      "text": "يَتِيمٗا ذَا مَقۡرَبَةٍ",
+      "translation": "कुनै नातेदार अनाथलाई,",
+      "transliteration": "Yateeman tha maqrabatin"
+    },
+    {
+      "id": 16,
+      "text": "أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ",
+      "translation": "वा धूलधूसरित (फकिर) भिक्षुलाई ।",
+      "transliteration": "Aw miskeenan tha matrabatin"
+    },
+    {
+      "id": 17,
+      "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ بِٱلۡمَرۡحَمَةِ",
+      "translation": "अनि ती मानिसहरूमा शम्मिलित हुन सक्थ्यौ जसले ईमान ल्याउँछन् र एक अर्कालाई धैर्य राख्न र दया गर्नुको निम्ति शिक्षा दिन्छन् ।",
+      "transliteration": "Thumma kana mina allatheena amanoo watawasaw bialssabri watawasaw bialmarhamati"
+    },
+    {
+      "id": 18,
+      "text": "أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+      "translation": "यी मानिसहरू नै दायाँ हातवाला (स्वर्ग प्राप्त गर्नेवाला) हुन् ।",
+      "transliteration": "Olaika ashabu almaymanati"
+    },
+    {
+      "id": 19,
+      "text": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمۡ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "translation": "र जसले हाम्रा आयतहरूलाई मानेनन् उनीहरू बायाँ हातवाला (नर्क प्राप्त गर्नेवाला) हुन् ।",
+      "transliteration": "Waallatheena kafaroo biayatina hum ashabu almashamati"
+    },
+    {
+      "id": 20,
+      "text": "عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ",
+      "translation": "यिनीहरूमाथि नै आगो हुनेछ जो चारैतिरबाट घेरेको हुनेछ ।",
+      "transliteration": "AAalayhim narun musadatun"
+    }
+  ]
+}

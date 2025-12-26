@@ -1,0 +1,40 @@
+{
+  "id": 113,
+  "name": "الفلق",
+  "transliteration": "Al-Falaq",
+  "translation": "The Daybreak",
+  "type": "meccan",
+  "total_verses": 5,
+  "verses": [
+    {
+      "id": 1,
+      "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ",
+      "translation": "तपाई भन्नुस् कि म प्रातःकालको स्वामीको शरण माग्दछु ।",
+      "transliteration": "Qul aAAoothu birabbi alfalaqi"
+    },
+    {
+      "id": 2,
+      "text": "مِن شَرِّ مَا خَلَقَ",
+      "translation": "हरेक कुराको नराम्रो कार्यबाट, जुन उसले सृष्टि गरेको छ ।",
+      "transliteration": "Min sharri ma khalaqa"
+    },
+    {
+      "id": 3,
+      "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "translation": "र अँध्यारो रात्रीको अन्धकारबाट, जबकि त्यसको अँध्यारोले ढाँकिहाल्छ ।",
+      "transliteration": "Wamin sharri ghasiqin itha waqaba"
+    },
+    {
+      "id": 4,
+      "text": "وَمِن شَرِّ ٱلنَّفَّـٰثَٰتِ فِي ٱلۡعُقَدِ",
+      "translation": "र गाँठोमा फूँक मार्नेहरू (जादू) को नराम्रो कार्यबाट ।",
+      "transliteration": "Wamin sharri alnnaffathati fee alAAuqadi"
+    },
+    {
+      "id": 5,
+      "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "translation": "र ईष्र्यालुको नराम्रो कार्यबाट पनि जबकि त्यसले डाह गर्दछ ।",
+      "transliteration": "Wamin sharri hasidin itha hasada"
+    }
+  ]
+}

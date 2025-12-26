@@ -1,0 +1,34 @@
+{
+  "id": 106,
+  "name": "قريش",
+  "transliteration": "Quraysh",
+  "translation": "Quraysh",
+  "type": "meccan",
+  "total_verses": 4,
+  "verses": [
+    {
+      "id": 1,
+      "text": "لِإِيلَٰفِ قُرَيۡشٍ",
+      "translation": "क़ुरैश को मानूस कर देने के कारण।",
+      "transliteration": "Lieelafi qurayshin"
+    },
+    {
+      "id": 2,
+      "text": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
+      "translation": "उन्हें जाड़े तथा गर्मी की यात्रा से मानूस कर देने के कारण।",
+      "transliteration": "Eelafihim rihlata alshshitai waalssayfi"
+    },
+    {
+      "id": 3,
+      "text": "فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ",
+      "translation": "अतः उन्हें चाहिए कि इस घर (काबा) के मालिक की इबादत करें।",
+      "transliteration": "FalyaAAbudoo rabba hatha albayti"
+    },
+    {
+      "id": 4,
+      "text": "ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعٖ وَءَامَنَهُم مِّنۡ خَوۡفِۭ",
+      "translation": "जिसने उन्हें भूख में खिलाया तथा उन्हें भय से सुरक्षित किया।",
+      "transliteration": "Allathee atAAamahum min jooAAin waamanahum min khawfin"
+    }
+  ]
+}

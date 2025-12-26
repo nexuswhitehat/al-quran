@@ -1,0 +1,274 @@
+{
+  "id": 70,
+  "name": "المعارج",
+  "transliteration": "Al-Ma'arij",
+  "translation": "The Ascending Stairways",
+  "type": "meccan",
+  "total_verses": 44,
+  "verses": [
+    {
+      "id": 1,
+      "text": "سَأَلَ سَآئِلُۢ بِعَذَابٖ وَاقِعٖ",
+      "translation": "एउटा माँग्नेवालाले (रसूलसित) त्यो यातना माँग्यो, जुन घटित हुनेवाला छ ।",
+      "transliteration": "Saala sailun biAAathabin waqiAAin"
+    },
+    {
+      "id": 2,
+      "text": "لِّلۡكَٰفِرِينَ لَيۡسَ لَهُۥ دَافِعٞ",
+      "translation": "काफिरहरूबाट कसैले त्यसलाई टाल्न सक्नेछैन ।",
+      "transliteration": "Lilkafireena laysa lahu dafiAAun"
+    },
+    {
+      "id": 3,
+      "text": "مِّنَ ٱللَّهِ ذِي ٱلۡمَعَارِجِ",
+      "translation": "अल्लाहको तर्फबाट हुनेछ, जुन (चढ्नको लागि) भर्याग्ङहरूको मालिक हो ।",
+      "transliteration": "Mina Allahi thee almaAAariji"
+    },
+    {
+      "id": 4,
+      "text": "تَعۡرُجُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةٖ",
+      "translation": "जसतिर फरिश्ताहरू र ‘‘रूह’’ चढ्छन् एक दिनमा त्यसको अनुमानित अवधि ५० हजार वर्षको हुनेछ ।",
+      "transliteration": "TaAAruju almalaikatu waalrroohu ilayhi fee yawmin kana miqdaruhu khamseena alfa sanatin"
+    },
+    {
+      "id": 5,
+      "text": "فَٱصۡبِرۡ صَبۡرٗا جَمِيلًا",
+      "translation": "अर्थात् तिमी राम्रो सँग धैर्य गर ।",
+      "transliteration": "Faisbir sabran jameelan"
+    },
+    {
+      "id": 6,
+      "text": "إِنَّهُمۡ يَرَوۡنَهُۥ بَعِيدٗا",
+      "translation": "निःसन्देह उनीहरूको दृष्टिमा त्यो अजाब (यातना) टाढा छ ।",
+      "transliteration": "Innahum yarawnahu baAAeedan"
+    },
+    {
+      "id": 7,
+      "text": "وَنَرَىٰهُ قَرِيبٗا",
+      "translation": "र हाम्रो दृष्टिमा नजीक छ ।",
+      "transliteration": "Wanarahu qareeban"
+    },
+    {
+      "id": 8,
+      "text": "يَوۡمَ تَكُونُ ٱلسَّمَآءُ كَٱلۡمُهۡلِ",
+      "translation": "जुन दिन आकाश जलेको तेल जस्तो भइहाल्नेछ ।",
+      "transliteration": "Yawma takoonu alssamao kaalmuhli"
+    },
+    {
+      "id": 9,
+      "text": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ",
+      "translation": "र पहाडहरू रंगीन ऊनको जस्ता हुनेछन् !",
+      "transliteration": "Watakoonu aljibalu kaalAAihni"
+    },
+    {
+      "id": 10,
+      "text": "وَلَا يَسۡـَٔلُ حَمِيمٌ حَمِيمٗا",
+      "translation": "र कुनै मित्रले कुनै मित्रलाई सोध्नेछैन ।",
+      "transliteration": "Wala yasalu hameemun hameeman"
+    },
+    {
+      "id": 11,
+      "text": "يُبَصَّرُونَهُمۡۚ يَوَدُّ ٱلۡمُجۡرِمُ لَوۡ يَفۡتَدِي مِنۡ عَذَابِ يَوۡمِئِذِۭ بِبَنِيهِ",
+      "translation": "(जबकि) एक अर्कालाई अगाडि देखिराखेका हुनेछन् । (त्यस दिन) अपराधीले इच्छा गर्नेछ कि (यातनाको सट्टामा) आफ्ना छोराहरू (देओस्) ।",
+      "transliteration": "Yubassaroonahum yawaddu almujrimu law yaftadee min AAathabi yawmiithin bibaneehi"
+    },
+    {
+      "id": 12,
+      "text": "وَصَٰحِبَتِهِۦ وَأَخِيهِ",
+      "translation": "र आफ्नो पत्नी र आफ्नो भाइ,",
+      "transliteration": "Wasahibatihi waakheehi"
+    },
+    {
+      "id": 13,
+      "text": "وَفَصِيلَتِهِ ٱلَّتِي تُـٔۡوِيهِ",
+      "translation": "र आफ्नो परिवार जसले उसलाई शरण दिन्थ्यो ।",
+      "transliteration": "Wafaseelatihi allatee tuweehi"
+    },
+    {
+      "id": 14,
+      "text": "وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗا ثُمَّ يُنجِيهِ",
+      "translation": "र जति मानिसहरू धरतीमा छन् सबै कुरा दिन चाहनेछ जसले उसलाई यातनाबाट मुक्त गराइहालोस् ।",
+      "transliteration": "Waman fee alardi jameeAAan thumma yunjeehi"
+    },
+    {
+      "id": 15,
+      "text": "كَلَّآۖ إِنَّهَا لَظَىٰ",
+      "translation": "(तर) यस्तो कहिल्यै हुनेछैन, निःसंदेह त्यो प्रज्वलित आगो हो,",
+      "transliteration": "Kalla innaha latha"
+    },
+    {
+      "id": 16,
+      "text": "نَزَّاعَةٗ لِّلشَّوَىٰ",
+      "translation": "जसले अनुहार र टाउकोको छाला उप्काइदिनेछ,",
+      "transliteration": "NazzaAAatan lilshshawa"
+    },
+    {
+      "id": 17,
+      "text": "تَدۡعُواْ مَنۡ أَدۡبَرَ وَتَوَلَّىٰ",
+      "translation": "उसले त्यस्तो प्रत्येक मानिसलाई आफूतिर बोलाउनेछ (जसले सत्य धर्मबाट) पिठ्युँ फर्काएर विमुख भए,",
+      "transliteration": "TadAAoo man adbara watawalla"
+    },
+    {
+      "id": 18,
+      "text": "وَجَمَعَ فَأَوۡعَىٰٓ",
+      "translation": "र धन एकत्रित गरेर थुपारेर राखे,",
+      "transliteration": "WajamaAAa faawAAa"
+    },
+    {
+      "id": 19,
+      "text": "۞إِنَّ ٱلۡإِنسَٰنَ خُلِقَ هَلُوعًا",
+      "translation": "निःसन्देह मानिस काँचो मुटुवाला बनाइएको छ ।",
+      "transliteration": "Inna alinsana khuliqa halooAAan"
+    },
+    {
+      "id": 20,
+      "text": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعٗا",
+      "translation": "जब उसलाई कष्ट पुग्छ त आत्तिन्छ ।",
+      "transliteration": "Itha massahu alshsharru jazooAAan"
+    },
+    {
+      "id": 21,
+      "text": "وَإِذَا مَسَّهُ ٱلۡخَيۡرُ مَنُوعًا",
+      "translation": "तर जब उसलाई राहत (सम्पन्नता) प्राप्त हुन्छ त उसले कन्जूसी देखाउँछ ।",
+      "transliteration": "Waitha massahu alkhayru manooAAan"
+    },
+    {
+      "id": 22,
+      "text": "إِلَّا ٱلۡمُصَلِّينَ",
+      "translation": "तर नमाज पढ्नेहरूको कुरा अर्कै छ ।",
+      "transliteration": "Illa almusalleena"
+    },
+    {
+      "id": 23,
+      "text": "ٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ دَآئِمُونَ",
+      "translation": "जसले नमाज नियमितताकासाथ पढ्दछन्,",
+      "transliteration": "Allatheena hum AAala salatihim daimoona"
+    },
+    {
+      "id": 24,
+      "text": "وَٱلَّذِينَ فِيٓ أَمۡوَٰلِهِمۡ حَقّٞ مَّعۡلُومٞ",
+      "translation": "र जसको सम्पत्तिमा(अरुको) हक निश्चित छ,",
+      "transliteration": "Waallatheena fee amwalihim haqqun maAAloomun"
+    },
+    {
+      "id": 25,
+      "text": "لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
+      "translation": "(अर्थात्) माँग्नेवालाको र नमाँग्नेवालाको पनि,",
+      "transliteration": "Lilssaili waalmahroomi"
+    },
+    {
+      "id": 26,
+      "text": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوۡمِ ٱلدِّينِ",
+      "translation": "जसले न्यायको दिन (कियामत) माथि ईमान राख्दछ ।",
+      "transliteration": "Waallatheena yusaddiqoona biyawmi alddeeni"
+    },
+    {
+      "id": 27,
+      "text": "وَٱلَّذِينَ هُم مِّنۡ عَذَابِ رَبِّهِم مُّشۡفِقُونَ",
+      "translation": "र जो आफ्नो पालनकर्ताको यातनाबाट डराउँछन्,",
+      "transliteration": "Waallatheena hum min AAathabi rabbihim mushfiqoona"
+    },
+    {
+      "id": 28,
+      "text": "إِنَّ عَذَابَ رَبِّهِمۡ غَيۡرُ مَأۡمُونٖ",
+      "translation": "निःसन्देह उनीहरूको पालनकर्ताको यातना यस्तो छैन जसबाट निश्चिन्त रहन सकियोस् ।",
+      "transliteration": "Inna AAathaba rabbihim ghayru mamoonin"
+    },
+    {
+      "id": 29,
+      "text": "وَٱلَّذِينَ هُمۡ لِفُرُوجِهِمۡ حَٰفِظُونَ",
+      "translation": "र जो आफ्नो गुप्ताङ्गहरूको रक्षा गर्दछन्,",
+      "transliteration": "Waallatheena hum lifuroojihim hafithoona"
+    },
+    {
+      "id": 30,
+      "text": "إِلَّا عَلَىٰٓ أَزۡوَٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَإِنَّهُمۡ غَيۡرُ مَلُومِينَ",
+      "translation": "तर आफ्ना पत्नीहरू वा दासीहरू बाहेक जुन उनको अधीनस्थ छन् त उनको लागि कुनै अफशोच छैन,",
+      "transliteration": "Illa AAala azwajihim aw ma malakat aymanuhum fainnahum ghayru maloomeena"
+    },
+    {
+      "id": 31,
+      "text": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَـٰٓئِكَ هُمُ ٱلۡعَادُونَ",
+      "translation": "जसले यो बाहेक अरु चाहन्छन् उनीहरू सीमा उल्लंघन गर्नेवाला हुन् ।",
+      "transliteration": "Famani ibtagha waraa thalika faolaika humu alAAadoona"
+    },
+    {
+      "id": 32,
+      "text": "وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ",
+      "translation": "र जसले आफूमाथि गरिएका विश्वासहरू र आफूले गरेको वचन र करारको पालना गर्दछन्,",
+      "transliteration": "Waallatheena hum liamanatihim waAAahdihim raAAoona"
+    },
+    {
+      "id": 33,
+      "text": "وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمۡ قَآئِمُونَ",
+      "translation": "र जो आफ्नो गवाहीमा दृढ रहन्छन्,",
+      "transliteration": "Waallatheena hum bishahadatihim qaimoona"
+    },
+    {
+      "id": 34,
+      "text": "وَٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ يُحَافِظُونَ",
+      "translation": "र जो आफ्नो नमाजको रक्षा गर्दछन्,",
+      "transliteration": "Waallatheena hum AAala salatihim yuhafithoona"
+    },
+    {
+      "id": 35,
+      "text": "أُوْلَـٰٓئِكَ فِي جَنَّـٰتٖ مُّكۡرَمُونَ",
+      "translation": "यिनै मानिसहरू स्वर्गहरूमा सम्मानपूर्वक रहनेछन्,",
+      "transliteration": "Olaika fee jannatin mukramoona"
+    },
+    {
+      "id": 36,
+      "text": "فَمَالِ ٱلَّذِينَ كَفَرُواْ قِبَلَكَ مُهۡطِعِينَ",
+      "translation": "फेरि इन्कार गर्नेवालालाई के भएको छ कि दौड्दै आइरहेका छन्,",
+      "transliteration": "Famali allatheena kafaroo qibalaka muhtiAAeena"
+    },
+    {
+      "id": 37,
+      "text": "عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+      "translation": "दायाँ र बायाँबाट समुहको रूपमा ।",
+      "transliteration": "AAani alyameeni waAAani alshshimali AAizeena"
+    },
+    {
+      "id": 38,
+      "text": "أَيَطۡمَعُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُدۡخَلَ جَنَّةَ نَعِيمٖ",
+      "translation": "के उनीहरूमध्ये प्रत्येक व्यक्ति, यो लालसा राख्दैछ कि उनी अनुकम्पाबाट परिपूर्ण स्वर्गमा प्रवेश गर्नेछन् ?",
+      "transliteration": "AyatmaAAu kullu imriin minhum an yudkhala jannata naAAeemin"
+    },
+    {
+      "id": 39,
+      "text": "كَلَّآۖ إِنَّا خَلَقۡنَٰهُم مِّمَّا يَعۡلَمُونَ",
+      "translation": "त्यस्तो कदापि हुनेछैन । बरु हामीले उनीहरूलाई जुन चिजबाट सृष्टि गरेका छौं, त्यसलाई उनीहरू जान्दछन् ।",
+      "transliteration": "Kalla inna khalaqnahum mimma yaAAlamoona"
+    },
+    {
+      "id": 40,
+      "text": "فَلَآ أُقۡسِمُ بِرَبِّ ٱلۡمَشَٰرِقِ وَٱلۡمَغَٰرِبِ إِنَّا لَقَٰدِرُونَ",
+      "translation": "अतः केही छैन, म पूर्व र पश्चिमको पलनकर्ताको शपथ लिन्छु कि हामीलाई सामर्थ्य प्राप्त छ ।",
+      "transliteration": "Fala oqsimu birabbi almashariqi waalmagharibi inna laqadiroona"
+    },
+    {
+      "id": 41,
+      "text": "عَلَىٰٓ أَن نُّبَدِّلَ خَيۡرٗا مِّنۡهُمۡ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+      "translation": "कि उनीहरूको ठाउँमा उनीहरूभन्दा राम्रो मानिसहरू ल्याऊँ र हामी परास्त हुनेवाला छैनौं ।",
+      "transliteration": "AAala an nubaddila khayran minhum wama nahnu bimasbooqeena"
+    },
+    {
+      "id": 42,
+      "text": "فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ",
+      "translation": "अतः उनीहरूलाई लडाई–भिडाई गरेको अवस्थामा छाडिदिनुस् । यहाँसम्म कि आफ्नो त्यस दिनसम्म पुगी जाउन् । जसको वाचा उनीहरूसित गरिएको छ ।",
+      "transliteration": "Fatharhum yakhoodoo wayalAAaboo hatta yulaqoo yawmahumu allathee yooAAadoona"
+    },
+    {
+      "id": 43,
+      "text": "يَوۡمَ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ سِرَاعٗا كَأَنَّهُمۡ إِلَىٰ نُصُبٖ يُوفِضُونَ",
+      "translation": "जुनदिन उनीहरू चिहानबाट तीव्रताको साथ दौड्दै निस्कनेछन् । मानौं कि, कुनै (विशेष) ठाउँतिर दौड्दै गइरहेका छन् ।",
+      "transliteration": "Yawma yakhrujoona mina alajdathi siraAAan kaannahum ila nusubin yoofidoona"
+    },
+    {
+      "id": 44,
+      "text": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۚ ذَٰلِكَ ٱلۡيَوۡمُ ٱلَّذِي كَانُواْ يُوعَدُونَ",
+      "translation": "उनीहरूको आँखा लज्जाले झुकिरहने छन् र अपमान उनीहरूमाथि घेरिराख्नेछ । यो नै त्यो दिन हो, जसको उनीरुसँग वाचा गरिदै थियो ।",
+      "transliteration": "KhashiAAatan absaruhum tarhaquhum thillatun thalika alyawmu allathee kanoo yooAAadoona"
+    }
+  ]
+}

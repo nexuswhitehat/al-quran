@@ -1,0 +1,676 @@
+{
+  "id": 17,
+  "name": "الإسراء",
+  "transliteration": "Al-Isra",
+  "translation": "The Night Journey",
+  "type": "meccan",
+  "total_verses": 111,
+  "verses": [
+    {
+      "id": 1,
+      "text": "سُبۡحَٰنَ ٱلَّذِيٓ أَسۡرَىٰ بِعَبۡدِهِۦ لَيۡلٗا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ إِلَى ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا ٱلَّذِي بَٰرَكۡنَا حَوۡلَهُۥ لِنُرِيَهُۥ مِنۡ ءَايَٰتِنَآۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ",
+      "translation": "त्यो अल्लाह अत्यन्त पवित्र छ, जसले एकै रातमा आफ्नो भक्तलाई मस्जिदुल हराम (कअ्बा) बाट मस्जिदे अक्सा (बैतुल मुकद्दस) सम्म लिएर गयो, जसको चारैतिर मैले बरकत (कल्याण) दिइराखेको छु यसका लागि कि हामीले उसलाई आफ्नो केही निशानीहरू देखाउन सकौं । निःसन्देह अल्लाह नै धेरै सुन्नेवाला र देख्नेवाला हो ।",
+      "transliteration": "Subhana allathee asra biAAabdihi laylan mina almasjidi alharami ila almasjidi alaqsa allathee barakna hawlahu linuriyahu min ayatina innahu huwa alssameeAAu albaseeru"
+    },
+    {
+      "id": 2,
+      "text": "وَءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَجَعَلۡنَٰهُ هُدٗى لِّبَنِيٓ إِسۡرَـٰٓءِيلَ أَلَّا تَتَّخِذُواْ مِن دُونِي وَكِيلٗا",
+      "translation": "र हामीले मूसालाई किताब प्रदान गरेका थियौं र उसलाई बनी इस्राईलको निम्ति पथपदर्शक बनाएका थियौं, कि म बाहेक अरू कसैलाई कार्यसाधक नठहराउनु ।",
+      "transliteration": "Waatayna moosa alkitaba wajaAAalnahu hudan libanee israeela alla tattakhithoo min doonee wakeelan"
+    },
+    {
+      "id": 3,
+      "text": "ذُرِّيَّةَ مَنۡ حَمَلۡنَا مَعَ نُوحٍۚ إِنَّهُۥ كَانَ عَبۡدٗا شَكُورٗا",
+      "translation": "हे ती मानिसहरूका सन्तति जसलाई हामीले नूहको साथ (डुङ्गामा) सवार गरेका थियौं, निःसन्देह नूह (हाम्रा) आभारी भक्त थिए ।",
+      "transliteration": "Thurriyyata man hamalna maAAa noohin innahu kana AAabdan shakooran"
+    },
+    {
+      "id": 4,
+      "text": "وَقَضَيۡنَآ إِلَىٰ بَنِيٓ إِسۡرَـٰٓءِيلَ فِي ٱلۡكِتَٰبِ لَتُفۡسِدُنَّ فِي ٱلۡأَرۡضِ مَرَّتَيۡنِ وَلَتَعۡلُنَّ عُلُوّٗا كَبِيرٗا",
+      "translation": "हामीले बनी इस्राईलको लागि उनको किताबमा स्पष्ट फैसला गरेका थियौं, कि तिमीले पृथ्वीमा दुई पटक उपद्रव मच्चाउने छौ र ठूलो उदण्डता गर्नेछौ ।",
+      "transliteration": "Waqadayna ila banee israeela fee alkitabi latufsidunna fee alardi marratayni walataAAlunna AAuluwwan kabeeran"
+    },
+    {
+      "id": 5,
+      "text": "فَإِذَا جَآءَ وَعۡدُ أُولَىٰهُمَا بَعَثۡنَا عَلَيۡكُمۡ عِبَادٗا لَّنَآ أُوْلِي بَأۡسٖ شَدِيدٖ فَجَاسُواْ خِلَٰلَ ٱلدِّيَارِۚ وَكَانَ وَعۡدٗا مَّفۡعُولٗا",
+      "translation": "तसर्थ यी दुईमध्ये जब पहिलो (वचन) को समय आयो त हामीले आफ्ना भीषण युद्ध गर्ने दासहरू तिम्रो मुकाबिलामा पठायौं र तिनीहरू तिम्रा घरका भित्रि भागमा पनि फैलिहाले र अल्लाहको त्यो वचन पूरा हुने नै थियो ।",
+      "transliteration": "Faitha jaa waAAdu oolahuma baAAathna AAalaykum AAibadan lana olee basin shadeedin fajasoo khilala alddiyari wakana waAAdan mafAAoolan"
+    },
+    {
+      "id": 6,
+      "text": "ثُمَّ رَدَدۡنَا لَكُمُ ٱلۡكَرَّةَ عَلَيۡهِمۡ وَأَمۡدَدۡنَٰكُم بِأَمۡوَٰلٖ وَبَنِينَ وَجَعَلۡنَٰكُمۡ أَكۡثَرَ نَفِيرًا",
+      "translation": "फेरि हामीले तिमीलाई तिनीहरूमाथि अधिपत्य प्रदान गरेर तिम्रो दिन फेर्यौं र छोराहरूमा र धन सम्पत्तिमा वृद्धि गरी मद्दत गर्यौं र तिमीलाई ठूलो जथ्थावाला बनाइदियौं ।",
+      "transliteration": "Thumma radadna lakumu alkarrata AAalayhim waamdadnakum biamwalin wabaneena wajaAAalnakum akthara nafeeran"
+    },
+    {
+      "id": 7,
+      "text": "إِنۡ أَحۡسَنتُمۡ أَحۡسَنتُمۡ لِأَنفُسِكُمۡۖ وَإِنۡ أَسَأۡتُمۡ فَلَهَاۚ فَإِذَا جَآءَ وَعۡدُ ٱلۡأٓخِرَةِ لِيَسُـُٔواْ وُجُوهَكُمۡ وَلِيَدۡخُلُواْ ٱلۡمَسۡجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٖ وَلِيُتَبِّرُواْ مَا عَلَوۡاْ تَتۡبِيرًا",
+      "translation": "यदि तिमीले असल कर्म गर्छौ भने आफ्नै फाइदाको लागि र यदि दुष्कर्म गर्दछौ भने तिनको परिणाम पनि तिमीले नै भोग्नु पर्नेछ । अनि जब दोस्रो वचनको (समय) आयो, (त अर्का भक्त पठायौं) ताकि तिम्रा अनुहार बिगारिदेउन् र पहिलो चोटी जस्तै त्यस मस्जिद (बैतुल मुकद्दस) मा प्रवेश गरिहालुन् । र जुन–जुन कुरामाथि नियन्त्रण गरुन्, तोड फोड गरी त्यसलाई नष्ट गरिहालुन् ।",
+      "transliteration": "In ahsantum ahsantum lianfusikum wain asatum falaha faitha jaa waAAdu alakhirati liyasoooo wujoohakum waliyadkhuloo almasjida kama dakhaloohu awwala marratin waliyutabbiroo ma AAalaw tatbeeran"
+    },
+    {
+      "id": 8,
+      "text": "عَسَىٰ رَبُّكُمۡ أَن يَرۡحَمَكُمۡۚ وَإِنۡ عُدتُّمۡ عُدۡنَاۚ وَجَعَلۡنَا جَهَنَّمَ لِلۡكَٰفِرِينَ حَصِيرًا",
+      "translation": "आशा छ, कि तिम्रो पालनकर्ताले तिमीमाथि दया गरोस्, र यदि तिमी पुनः गर्न थाल्छौ भने हामीले पनि त्यही (पहिला जस्तो व्यवहार) गर्नेछौं, र हामीले नर्कलाई इन्कार गर्नेहरूको निम्ति कारागारको रूपमा राखेका छौं ।",
+      "transliteration": "AAasa rabbukum an yarhamakum wain AAudtum AAudna wajaAAalna jahannama lilkafireena haseeran"
+    },
+    {
+      "id": 9,
+      "text": "إِنَّ هَٰذَا ٱلۡقُرۡءَانَ يَهۡدِي لِلَّتِي هِيَ أَقۡوَمُ وَيُبَشِّرُ ٱلۡمُؤۡمِنِينَ ٱلَّذِينَ يَعۡمَلُونَ ٱلصَّـٰلِحَٰتِ أَنَّ لَهُمۡ أَجۡرٗا كَبِيرٗا",
+      "translation": "निःसन्देह यस कुरआनले त्यो बाटो देखाउँछ जो सबैभन्दा सोझो छ, र मोमिनहरूलाई जसले सत्कर्म गर्दछन्, शुभसन्देश दिन्छ कि तिनीहरूको निम्ति ठूलो पुरस्कार छ ।",
+      "transliteration": "Inna hatha alqurana yahdee lillatee hiya aqwamu wayubashshiru almumineena allatheena yaAAmaloona alssalihati anna lahum ajran kabeeran"
+    },
+    {
+      "id": 10,
+      "text": "وَأَنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ أَعۡتَدۡنَا لَهُمۡ عَذَابًا أَلِيمٗا",
+      "translation": "र यो कि जो आखिरतमाथि ईमान राख्दैनन्, तिनीहरूको निम्ति हामीले कष्टदायक सजाय तयार गरिराखेका छौं ।",
+      "transliteration": "Waanna allatheena la yuminoona bialakhirati aAAtadna lahum AAathaban aleeman"
+    },
+    {
+      "id": 11,
+      "text": "وَيَدۡعُ ٱلۡإِنسَٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلۡخَيۡرِۖ وَكَانَ ٱلۡإِنسَٰنُ عَجُولٗا",
+      "translation": "र मानिसले नराम्रो कुरोको लागि प्रार्थना गर्नथाल्छ एकदमै आफनो भलोको लागि गरेको प्रार्थना जस्तै । र मानिस छदैछ हतार गर्ने प्राणी ।",
+      "transliteration": "WayadAAu alinsanu bialshsharri duAAaahu bialkhayri wakana alinsanu AAajoolan"
+    },
+    {
+      "id": 12,
+      "text": "وَجَعَلۡنَا ٱلَّيۡلَ وَٱلنَّهَارَ ءَايَتَيۡنِۖ فَمَحَوۡنَآ ءَايَةَ ٱلَّيۡلِ وَجَعَلۡنَآ ءَايَةَ ٱلنَّهَارِ مُبۡصِرَةٗ لِّتَبۡتَغُواْ فَضۡلٗا مِّن رَّبِّكُمۡ وَلِتَعۡلَمُواْ عَدَدَ ٱلسِّنِينَ وَٱلۡحِسَابَۚ وَكُلَّ شَيۡءٖ فَصَّلۡنَٰهُ تَفۡصِيلٗا",
+      "translation": "हामीले दिन, रातलाई निशानीहरू बनाएका छौं, रातको निशानीलाई त हामीले प्रकाशरहित बनाएका छौं र दिनको निशानीलाई उज्यालो, ताकि तिमीले आफ्नो पालनकर्ताको कृपा (जीविका) खोज र वर्षहरूका गिन्ती र हिसाब जान्न सक र हामीले प्रत्येक कुरालाई सविस्तार वर्णन गरेका छौं ।",
+      "transliteration": "WajaAAalna allayla waalnnahara ayatayni famahawna ayata allayli wajaAAalna ayata alnnahari mubsiratan litabtaghoo fadlan min rabbikum walitaAAlamoo AAadada alssineena waalhisaba wakulla shayin fassalnahu tafseelan"
+    },
+    {
+      "id": 13,
+      "text": "وَكُلَّ إِنسَٰنٍ أَلۡزَمۡنَٰهُ طَـٰٓئِرَهُۥ فِي عُنُقِهِۦۖ وَنُخۡرِجُ لَهُۥ يَوۡمَ ٱلۡقِيَٰمَةِ كِتَٰبٗا يَلۡقَىٰهُ مَنشُورًا",
+      "translation": "हामीले प्रत्येक मानिसको राम्रो, नराम्रो कार्यलाई उसको घाँटीमा झुण्डाइदिएका छौं, र कियामतको दिन (त्यो) हिसाब उसलाई झिकेर देखाउने छौं, जसलाई उसले खुलारूपमा पाउने छ ।",
+      "transliteration": "Wakulla insanin alzamnahu tairahu fee AAunuqihi wanukhriju lahu yawma alqiyamati kitaban yalqahu manshooran"
+    },
+    {
+      "id": 14,
+      "text": "ٱقۡرَأۡ كِتَٰبَكَ كَفَىٰ بِنَفۡسِكَ ٱلۡيَوۡمَ عَلَيۡكَ حَسِيبٗا",
+      "translation": "(भनिने छः कि) ल आफ्नो किताब आफैं पढिहाल, तिमी आज आफ्नो हिसाब आफैं लिन पर्याप्त छौ ।",
+      "transliteration": "Iqra kitabaka kafa binafsika alyawma AAalayka haseeban"
+    },
+    {
+      "id": 15,
+      "text": "مَّنِ ٱهۡتَدَىٰ فَإِنَّمَا يَهۡتَدِي لِنَفۡسِهِۦۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيۡهَاۚ وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۗ وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبۡعَثَ رَسُولٗا",
+      "translation": "जसले सही बाटो अपनाउँछ ऊ आफ्नो निम्ति अपनाउँछ, र जो मार्गविचलित हुन्छ त पथभ्रष्टताको भारी पनि उसैलाई हुनेछ, र कसैले अर्काको भारी उठाउने छैन, र जबसम्म हामीले पैगम्बर पठाउँदैनौं, तबसम्म सजाय दिने गर्दैनौं ।",
+      "transliteration": "Mani ihtada fainnama yahtadee linafsihi waman dalla fainnama yadillu AAalayha wala taziru waziratun wizra okhra wama kunna muAAaththibeena hatta nabAAatha rasoolan"
+    },
+    {
+      "id": 16,
+      "text": "وَإِذَآ أَرَدۡنَآ أَن نُّهۡلِكَ قَرۡيَةً أَمَرۡنَا مُتۡرَفِيهَا فَفَسَقُواْ فِيهَا فَحَقَّ عَلَيۡهَا ٱلۡقَوۡلُ فَدَمَّرۡنَٰهَا تَدۡمِيرٗا",
+      "translation": "र जब हाम्रो इच्छा कुनै बस्तीलाई ध्वस्त पार्ने हुन्छ भने त्यहाँका सम्पन्न मानिसहरूलाई केही आदेश दिन्छौं र तिनीहरूले त्यस बस्तीमा उल्लंघनकारी काम गर्न थाल्छन् अनि तिनीहरूमाथि सजायको कुरा प्रमाणित भइहाल्छ फेरि हामीले उनीहरूलाई नष्ट गरिहाल्छौं ।",
+      "transliteration": "Waitha aradna an nuhlika qaryatan amarna mutrafeeha fafasaqoo feeha fahaqqa AAalayha alqawlu fadammarnaha tadmeeran"
+    },
+    {
+      "id": 17,
+      "text": "وَكَمۡ أَهۡلَكۡنَا مِنَ ٱلۡقُرُونِ مِنۢ بَعۡدِ نُوحٖۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِيرَۢا بَصِيرٗا",
+      "translation": "हामीले नूह पश्चात पनि धेरै पुस्ताहरूलाई खतम गरिहाल्यौं । र तिम्रो पालनकर्ता आफ्नो भक्तहरूका पापहरूहरूलाई जान्ने र देख्नेवाला पर्याप्त छ ।",
+      "transliteration": "Wakam ahlakna mina alqurooni min baAAdi noohin wakafa birabbika bithunoobi AAibadihi khabeeran baseeran"
+    },
+    {
+      "id": 18,
+      "text": "مَّن كَانَ يُرِيدُ ٱلۡعَاجِلَةَ عَجَّلۡنَا لَهُۥ فِيهَا مَا نَشَآءُ لِمَن نُّرِيدُ ثُمَّ جَعَلۡنَا لَهُۥ جَهَنَّمَ يَصۡلَىٰهَا مَذۡمُومٗا مَّدۡحُورٗا",
+      "translation": "जो मानिस सांसारिक फाइदाको इच्छुक हुन्छ, उसलाई हामीले जसलाई र जति चाहन्छौं छिट्टै दिन्छौं, अनि अन्तिममा उसको निम्ति हामीले नर्कको बास निर्धारित गर्दछौं जहाँ तिनीहरू त्यसमा अपमानित र तिरस्कृत भई प्रवेश गर्नेछन् ।",
+      "transliteration": "Man kana yureedu alAAajilata AAajjalna lahu feeha ma nashao liman nureedu thumma jaAAalna lahu jahannama yaslaha mathmooman madhooran"
+    },
+    {
+      "id": 19,
+      "text": "وَمَنۡ أَرَادَ ٱلۡأٓخِرَةَ وَسَعَىٰ لَهَا سَعۡيَهَا وَهُوَ مُؤۡمِنٞ فَأُوْلَـٰٓئِكَ كَانَ سَعۡيُهُم مَّشۡكُورٗا",
+      "translation": "र जुन मानिसले आखिरतको इच्छा गर्दछ र त्यसमा यति प्रयास गर्दछ जति उसले गर्न सक्दछ र ऊ मोमिन पनि छ भने त्यस्ता मानिसहरूको प्रयास अल्लाहले पूरै स्वीकार गर्दछ ।",
+      "transliteration": "Waman arada alakhirata wasaAAa laha saAAyaha wahuwa muminun faolaika kana saAAyuhum mashkooran"
+    },
+    {
+      "id": 20,
+      "text": "كُلّٗا نُّمِدُّ هَـٰٓؤُلَآءِ وَهَـٰٓؤُلَآءِ مِنۡ عَطَآءِ رَبِّكَۚ وَمَا كَانَ عَطَآءُ رَبِّكَ مَحۡظُورًا",
+      "translation": "हरेकलाई हामीले (रोजी) पुर्याउँदै जान्छौं । यिनीहरूलाई र तिनीहरूलाई पनि, तिम्रो पालनकर्ताको उपहारबाट र तिम्रो पालनकर्ताको वरदान बन्द भएको छैन ।",
+      "transliteration": "Kullan numiddu haolai wahaolai min AAatai rabbika wama kana AAatao rabbika mahthooran"
+    },
+    {
+      "id": 21,
+      "text": "ٱنظُرۡ كَيۡفَ فَضَّلۡنَا بَعۡضَهُمۡ عَلَىٰ بَعۡضٖۚ وَلَلۡأٓخِرَةُ أَكۡبَرُ دَرَجَٰتٖ وَأَكۡبَرُ تَفۡضِيلٗا",
+      "translation": "हेर ! हामीले कसरी केहीलाई केहीमाथि प्रधानता प्रदान गरेका छौं र आखिरत (अन्तिममा) त श्रेणीहरूमा धेरै उच्च छ र महत्वमा निकै बढि छ ।",
+      "transliteration": "Onthur kayfa faddalna baAAdahum AAala baAAdin walalakhiratu akbaru darajatin waakbaru tafdeelan"
+    },
+    {
+      "id": 22,
+      "text": "لَّا تَجۡعَلۡ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَقۡعُدَ مَذۡمُومٗا مَّخۡذُولٗا",
+      "translation": "अल्लाहको साथमा अन्य कसैलाई पूजनीय नठान, अन्यथा तिमी अन्तमा अपमानित र निःसहाय भएर बस्ने छौ ।",
+      "transliteration": "La tajAAal maAAa Allahi ilahan akhara fataqAAuda mathmooman makhthoolan"
+    },
+    {
+      "id": 23,
+      "text": "۞وَقَضَىٰ رَبُّكَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَٰنًاۚ إِمَّا يَبۡلُغَنَّ عِندَكَ ٱلۡكِبَرَ أَحَدُهُمَآ أَوۡ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفّٖ وَلَا تَنۡهَرۡهُمَا وَقُل لَّهُمَا قَوۡلٗا كَرِيمٗا",
+      "translation": "र तिम्रो पालनकर्ताले स्पष्ट आदेश गरेको छ कि ऊ बाहेक तिमी कसैको पूजा नगर र आमा–बाबुको साथमा नम्र व्यवहार गर्दैगर यदि तिनीहरूमध्ये एउटा वा दुवै तिम्रो अगाडि वृद्ध अवस्थामा पुग्छन् भने तिनीहरूलाई तिरस्कृत नगर्नु नहप्काउनु अपितु तिनीहरूसँग सम्मानपूर्वक मर्यादित ढंगले कुराकानी गर्नु ।",
+      "transliteration": "Waqada rabbuka alla taAAbudoo illa iyyahu wabialwalidayni ihsanan imma yablughanna AAindaka alkibara ahaduhuma aw kilahuma fala taqul lahuma offin wala tanharhuma waqul lahuma qawlan kareeman"
+    },
+    {
+      "id": 24,
+      "text": "وَٱخۡفِضۡ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحۡمَةِ وَقُل رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّيَانِي صَغِيرٗا",
+      "translation": "र विनम्रतापूर्वक प्यारको साथ तिनीहरूको अगाडि सुशील भइराख र तिनीहरूको निम्ति प्रार्थना गर्नेगरः कि हे पालकर्ता जुन प्रकार कि तिनीहरूले मलाई बाल्यावस्थामा (मायाँले) पालनपोषण गरेका छन्, तिमीले पनि तिनीहरूमाथि त्यस्तै दया गर ।",
+      "transliteration": "Waikhfid lahuma janaha alththulli mina alrrahmati waqul rabbi irhamhuma kama rabbayanee sagheeran"
+    },
+    {
+      "id": 25,
+      "text": "رَّبُّكُمۡ أَعۡلَمُ بِمَا فِي نُفُوسِكُمۡۚ إِن تَكُونُواْ صَٰلِحِينَ فَإِنَّهُۥ كَانَ لِلۡأَوَّـٰبِينَ غَفُورٗا",
+      "translation": "जे जति तिम्रो हृदयहरूमा छ, तिम्रो पालनकर्ताले त्यसलाई राम्ररी जान्दछ । यदि तिमी असल कर्म गर्दछौ भने उसले त्यसतिर प्रवृत्त हुनेहरूलाई क्षमा गरिदिनेछ ।",
+      "transliteration": "Rabbukum aAAlamu bima fee nufoosikum in takoonoo saliheena fainnahu kana lilawwabeena ghafooran"
+    },
+    {
+      "id": 26,
+      "text": "وَءَاتِ ذَا ٱلۡقُرۡبَىٰ حَقَّهُۥ وَٱلۡمِسۡكِينَ وَٱبۡنَ ٱلسَّبِيلِ وَلَا تُبَذِّرۡ تَبۡذِيرًا",
+      "translation": "र नातेदारहरू र निमुखाहरू र बटुवाहरूलाई उनीहरूको हक प्रदान गर, र अपव्ययिताले धन खर्च नगर ।",
+      "transliteration": "Waati tha alqurba haqqahu waalmiskeena waibna alssabeeli wala tubaththir tabtheeran"
+    },
+    {
+      "id": 27,
+      "text": "إِنَّ ٱلۡمُبَذِّرِينَ كَانُوٓاْ إِخۡوَٰنَ ٱلشَّيَٰطِينِۖ وَكَانَ ٱلشَّيۡطَٰنُ لِرَبِّهِۦ كَفُورٗا",
+      "translation": "किन भने फाल्तू खर्च गर्नेहरू त शैतानका दाजुभाइहरू हुन् र शैतान आफ्नो पालनहारप्रति ठूलो कृतध्न छ ।",
+      "transliteration": "Inna almubaththireena kanoo ikhwana alshshayateeni wakana alshshaytanu lirabbihi kafooran"
+    },
+    {
+      "id": 28,
+      "text": "وَإِمَّا تُعۡرِضَنَّ عَنۡهُمُ ٱبۡتِغَآءَ رَحۡمَةٖ مِّن رَّبِّكَ تَرۡجُوهَا فَقُل لَّهُمۡ قَوۡلٗا مَّيۡسُورٗا",
+      "translation": "र यदि तिमी आफ्नो पालनकर्ताको रहमत् (वरदान) को प्रतीक्षामा, जसको कि तिमीलाई आशा छ, तिनीहरू (हकदारहरू) तिर ध्यान दिन सक्दैनौं भने तिनीहरूसित विनम्रतापूर्वक राम्रोसँग कुरा भन्ने गर ।",
+      "transliteration": "Waimma tuAAridanna AAanhumu ibtighaa rahmatin min rabbika tarjooha faqul lahum qawlan maysooran"
+    },
+    {
+      "id": 29,
+      "text": "وَلَا تَجۡعَلۡ يَدَكَ مَغۡلُولَةً إِلَىٰ عُنُقِكَ وَلَا تَبۡسُطۡهَا كُلَّ ٱلۡبَسۡطِ فَتَقۡعُدَ مَلُومٗا مَّحۡسُورًا",
+      "translation": "आफ्नो हातलाई आफ्नो गर्दनसित बाँधिएको जस्तो नराख । र नत बिल्कुलै खुल्ला गर्नु (कि सबै दिइहाल) र परिणाम यो होस् कि पश्चातापमा दोषी र असहाय हुनुपरोस् ।",
+      "transliteration": "Wala tajAAal yadaka maghloolatan ila AAunuqika wala tabsutha kulla albasti fataqAAuda malooman mahsooran"
+    },
+    {
+      "id": 30,
+      "text": "إِنَّ رَبَّكَ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرَۢا بَصِيرٗا",
+      "translation": "निःसन्देह तिम्रो पालनकर्ताले जसको जीविका चाहन्छ विस्तृत गरिदिन्छ, र जस्को चाहन्छ संकुचित पारिदिन्छ । निःसन्देह उसले आफ्ना भक्तहरूलाई बेस्सरी जान्दछ र राम्ररी हेरिराखेको हुन्छ ।",
+      "transliteration": "Inna rabbaka yabsutu alrrizqa liman yashao wayaqdiru innahu kana biAAibadihi khabeeran baseeran"
+    },
+    {
+      "id": 31,
+      "text": "وَلَا تَقۡتُلُوٓاْ أَوۡلَٰدَكُمۡ خَشۡيَةَ إِمۡلَٰقٖۖ نَّحۡنُ نَرۡزُقُهُمۡ وَإِيَّاكُمۡۚ إِنَّ قَتۡلَهُمۡ كَانَ خِطۡـٔٗا كَبِيرٗا",
+      "translation": "र आफ्ना सन्तानहरूलाई विपन्नताको डरले नमार (किनभने) उनीहरूलाई, र तिमीलाई हामीले नै जीविका प्रदान गर्दछौं । यसमा कुनै सन्देह छैन कि यिनीहरूलाई मार्नु गम्भीर पाप हो ।",
+      "transliteration": "Wala taqtuloo awladakum khashyata imlaqin nahnu narzuquhum waiyyakum inna qatlahum kana khitan kabeeran"
+    },
+    {
+      "id": 32,
+      "text": "وَلَا تَقۡرَبُواْ ٱلزِّنَىٰٓۖ إِنَّهُۥ كَانَ فَٰحِشَةٗ وَسَآءَ سَبِيلٗا",
+      "translation": "खबरदार व्यभिचारतिर कदापि नलाग, किनभने त्यो ठूलो निर्लज्जता र धेरै नराम्रो बाटो हो ।",
+      "transliteration": "Wala taqraboo alzzina innahu kana fahishatan wasaa sabeelan"
+    },
+    {
+      "id": 33,
+      "text": "وَلَا تَقۡتُلُواْ ٱلنَّفۡسَ ٱلَّتِي حَرَّمَ ٱللَّهُ إِلَّا بِٱلۡحَقِّۗ وَمَن قُتِلَ مَظۡلُومٗا فَقَدۡ جَعَلۡنَا لِوَلِيِّهِۦ سُلۡطَٰنٗا فَلَا يُسۡرِف فِّي ٱلۡقَتۡلِۖ إِنَّهُۥ كَانَ مَنصُورٗا",
+      "translation": "र जुन प्राणीलाई मार्नु अल्लाहले निषेध गरेको छ, त्यसलाई न्यायोचित कारण बिना नमार । र जुन मानिस अत्याचारले मारिएको छ, हामीले त्यसको वारिसलाई (बराबरको बदला लिन) अख्तियार दिएका छौं तसर्थ उसलाई आवश्यक छ कि हत्या (बदला) मा सीमा उल्लंघन नगरोस्, किनभने त्यसो भएमा उसलाई सहायता प्राप्त हुनेछ ।",
+      "transliteration": "Wala taqtuloo alnnafsa allatee harrama Allahu illa bialhaqqi waman qutila mathlooman faqad jaAAalna liwaliyyihi sultanan fala yusrif fee alqatli innahu kana mansooran"
+    },
+    {
+      "id": 34,
+      "text": "وَلَا تَقۡرَبُواْ مَالَ ٱلۡيَتِيمِ إِلَّا بِٱلَّتِي هِيَ أَحۡسَنُ حَتَّىٰ يَبۡلُغَ أَشُدَّهُۥۚ وَأَوۡفُواْ بِٱلۡعَهۡدِۖ إِنَّ ٱلۡعَهۡدَ كَانَ مَسۡـُٔولٗا",
+      "translation": "र अनाथको मालको नजिक पनि नजानु, तर यस्तो तरिकाले जुन उसको हकमा धेरै राम्रो होस् यहाँसम्म कि उसले उमेरको परिपक्कवता प्राप्त गरिसकोस्, र वचन पूरा गर, किनभने वाचाको बारेमा अवश्य सोधपूछ हुनेछ ।",
+      "transliteration": "Wala taqraboo mala alyateemi illa biallatee hiya ahsanu hatta yablugha ashuddahu waawfoo bialAAahdi inna alAAahda kana masoolan"
+    },
+    {
+      "id": 35,
+      "text": "وَأَوۡفُواْ ٱلۡكَيۡلَ إِذَا كِلۡتُمۡ وَزِنُواْ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِيمِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلٗا",
+      "translation": "र जब नापेर दिन्छौ त माप पूरा भरी देऊ र तराजु सीधा राखेर जोख्ने गर, यो अत्यन्तै राम्रो कुरा हो र परिणामको दृष्टिले पनि धेरै राम्रो छ ।",
+      "transliteration": "Waawfoo alkayla itha kiltum wazinoo bialqistasi almustaqeemi thalika khayrun waahsanu taweelan"
+    },
+    {
+      "id": 36,
+      "text": "وَلَا تَقۡفُ مَا لَيۡسَ لَكَ بِهِۦ عِلۡمٌۚ إِنَّ ٱلسَّمۡعَ وَٱلۡبَصَرَ وَٱلۡفُؤَادَ كُلُّ أُوْلَـٰٓئِكَ كَانَ عَنۡهُ مَسۡـُٔولٗا",
+      "translation": "जुन कुरोको तिमीलाई ज्ञानै छैन त्यसको पछि नपर्नु, किनभने कान र आँखा र हृदय यी सबैसित अवश्य सोधपूछ हुनेछ ।",
+      "transliteration": "Wala taqfu ma laysa laka bihi AAilmun inna alssamAAa waalbasara waalfuada kullu olaika kana AAanhu masoolan"
+    },
+    {
+      "id": 37,
+      "text": "وَلَا تَمۡشِ فِي ٱلۡأَرۡضِ مَرَحًاۖ إِنَّكَ لَن تَخۡرِقَ ٱلۡأَرۡضَ وَلَن تَبۡلُغَ ٱلۡجِبَالَ طُولٗا",
+      "translation": "र धर्तीमा घमण्ड गरी नहिड्नु किनभने तिमीले धर्तीलाई च्यात्न सक्दैनौं र नत अग्लो भएर पर्वतहरूका चुचुरासम्म पुग्न सक्नेछौ ।",
+      "transliteration": "Wala tamshi fee alardi marahan innaka lan takhriqa alarda walan tablugha aljibala toolan"
+    },
+    {
+      "id": 38,
+      "text": "كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُۥ عِندَ رَبِّكَ مَكۡرُوهٗا",
+      "translation": "यी सबै नराम्राकुराहरू तिम्रो पालनकर्तालाई धेरै अप्रिय छ ।",
+      "transliteration": "Kullu thalika kana sayyiohu AAinda rabbika makroohan"
+    },
+    {
+      "id": 39,
+      "text": "ذَٰلِكَ مِمَّآ أَوۡحَىٰٓ إِلَيۡكَ رَبُّكَ مِنَ ٱلۡحِكۡمَةِۗ وَلَا تَجۡعَلۡ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتُلۡقَىٰ فِي جَهَنَّمَ مَلُومٗا مَّدۡحُورًا",
+      "translation": "यो पनि ती समग्र मार्गदर्शनहरूमध्येका हुन् जुन अल्लाहले बुद्धिमत्ताका साथ वह्य मार्फत तिमीतिर उतारेको छ र तिमीले अल्लाहको साथमा अन्य कसैलाई पूजनीय नबनाउनु किनभने यस्तो गर्नाले धिक्कृत तिरस्कृत भई नर्कमा हालिनेछौ ।",
+      "transliteration": "Thalika mimma awha ilayka rabbuka mina alhikmati wala tajAAal maAAa Allahi ilahan akhara fatulqa fee jahannama malooman madhooran"
+    },
+    {
+      "id": 40,
+      "text": "أَفَأَصۡفَىٰكُمۡ رَبُّكُم بِٱلۡبَنِينَ وَٱتَّخَذَ مِنَ ٱلۡمَلَـٰٓئِكَةِ إِنَٰثًاۚ إِنَّكُمۡ لَتَقُولُونَ قَوۡلًا عَظِيمٗا",
+      "translation": "(मुश्रिकहरू) के तिम्रो पालनकर्ताले तिमीलाई त छोराहरूको लागि छुट्याइदिएको छ ? र आफ्नो लागि फरिश्ताहरूमध्ये छोरीहरू बनाएको छ ?। यसमा कुनै सन्देह छैन कि तिमीहरू ठूलो अनर्गल कुरा गर्दैछौ ।",
+      "transliteration": "Afaasfakum rabbukum bialbaneena waittakhatha mina almalaikati inathan innakum lataqooloona qawlan AAatheeman"
+    },
+    {
+      "id": 41,
+      "text": "وَلَقَدۡ صَرَّفۡنَا فِي هَٰذَا ٱلۡقُرۡءَانِ لِيَذَّكَّرُواْ وَمَا يَزِيدُهُمۡ إِلَّا نُفُورٗا",
+      "translation": "हामीले यस कुरआनमा थरी–थरीका कुराहरू वर्णन गरेका छौं, कि मानिसहरू शिक्षा प्राप्त गर्नसकुन्, तर यसबाट उनीहरूको उपेक्षा नै झन् बढ्दै जान्छ ।",
+      "transliteration": "Walaqad sarrafna fee hatha alqurani liyaththakkaroo wama yazeeduhum illa nufooran"
+    },
+    {
+      "id": 42,
+      "text": "قُل لَّوۡ كَانَ مَعَهُۥٓ ءَالِهَةٞ كَمَا يَقُولُونَ إِذٗا لَّٱبۡتَغَوۡاْ إِلَىٰ ذِي ٱلۡعَرۡشِ سَبِيلٗا",
+      "translation": "भनिदिनुस् कि यदि अल्लाहको साथमा अरु पूज्यहरू भएको भए, जस्तो कि उनीहरूले भन्छन्, त तिनीहरूले अहिलेसम्म अवश्य नै सिंहासनको मालिकतिर आफ्नोबाटो बनाउने थिए ।",
+      "transliteration": "Qul law kana maAAahu alihatun kama yaqooloona ithan laibtaghaw ila thee alAAarshi sabeelan"
+    },
+    {
+      "id": 43,
+      "text": "سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَقُولُونَ عُلُوّٗا كَبِيرٗا",
+      "translation": "जे जति यिनीहरूले भन्दछन् त्यसभन्दा ऊ धेरै टाढा पवित्र र (उसको मर्यादा) धेरै उच्च छ ।",
+      "transliteration": "Subhanahu wataAAala AAamma yaqooloona AAuluwwan kabeeran"
+    },
+    {
+      "id": 44,
+      "text": "تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبۡعُ وَٱلۡأَرۡضُ وَمَن فِيهِنَّۚ وَإِن مِّن شَيۡءٍ إِلَّا يُسَبِّحُ بِحَمۡدِهِۦ وَلَٰكِن لَّا تَفۡقَهُونَ تَسۡبِيحَهُمۡۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورٗا",
+      "translation": "सातवटै आकाशहरू र पृथ्वी र जे जति यिनमा छन् सबैले उसको गुणगान गर्दछन् र कुनै यस्तो कुरो छैन जसले कि प्रशंसा र पवित्रताका साथ उसलाई स्मरण गर्दैन, हो यो ठिक हो कि तिमी उसको गुणगान बुझ्न सक्दैनौ ऊ धेरै सहनशील र क्षमादाता छ ।",
+      "transliteration": "Tusabbihu lahu alssamawatu alssabAAu waalardu waman feehinna wain min shayin illa yusabbihu bihamdihi walakin la tafqahoona tasbeehahum innahu kana haleeman ghafooran"
+    },
+    {
+      "id": 45,
+      "text": "وَإِذَا قَرَأۡتَ ٱلۡقُرۡءَانَ جَعَلۡنَا بَيۡنَكَ وَبَيۡنَ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ حِجَابٗا مَّسۡتُورٗا",
+      "translation": "जब तिमीले कुरआन पढ्दछौ, त हामीले तिमी र उनीहरूको बीचमा जसले आखिरतमाथि आस्था राख्दैनन् गोप्य आवरण हालिदिन्छौं ।",
+      "transliteration": "Waitha qarata alqurana jaAAalna baynaka wabayna allatheena la yuminoona bialakhirati hijaban mastooran"
+    },
+    {
+      "id": 46,
+      "text": "وَجَعَلۡنَا عَلَىٰ قُلُوبِهِمۡ أَكِنَّةً أَن يَفۡقَهُوهُ وَفِيٓ ءَاذَانِهِمۡ وَقۡرٗاۚ وَإِذَا ذَكَرۡتَ رَبَّكَ فِي ٱلۡقُرۡءَانِ وَحۡدَهُۥ وَلَّوۡاْ عَلَىٰٓ أَدۡبَٰرِهِمۡ نُفُورٗا",
+      "translation": "र उनीहरूको हृदयमाथि हामीले नै परदा हालिदिएका छौं, कि उनी यसलाई सम्झुन् र उनको कानमा (बहिरोपना) बोझ । र जब तिमी यस कुरआनमा एकेश्वरवादको साथ मात्र अल्लाहको स्तुति गर्दछौ, तब उनीहरूले बेवास्ता गर्दै पिठ्युँ फर्काई भागिहाल्छन् ।",
+      "transliteration": "WajaAAalna AAala quloobihim akinnatan an yafqahoohu wafee athanihim waqran waitha thakarta rabbaka fee alqurani wahdahu wallaw AAala adbarihim nufooran"
+    },
+    {
+      "id": 47,
+      "text": "نَّحۡنُ أَعۡلَمُ بِمَا يَسۡتَمِعُونَ بِهِۦٓ إِذۡ يَسۡتَمِعُونَ إِلَيۡكَ وَإِذۡ هُمۡ نَجۡوَىٰٓ إِذۡ يَقُولُ ٱلظَّـٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلٗا مَّسۡحُورًا",
+      "translation": "जुन उद्देश्यले तिनीहरू यसलाई सुन्दछन्, उनको नीयतसँग हामी राम्ररी परिचित छौं । जब तिनीहरूले तपाईतर्फ कान थापिरहेका हुन्छन्, तब पनि र जब तिनीहरूले सर–सल्लाह गर्दछन् तब पनि जब यी अत्यचारीहरूले भन्दछन् कि तिमी उसको अनुकरण गरिरहेका छौ जसमाथि जादू गरिएको छ ।",
+      "transliteration": "Nahnu aAAlamu bima yastamiAAoona bihi ith yastamiAAoona ilayka waith hum najwa ith yaqoolu alththalimoona in tattabiAAoona illa rajulan mashooran"
+    },
+    {
+      "id": 48,
+      "text": "ٱنظُرۡ كَيۡفَ ضَرَبُواْ لَكَ ٱلۡأَمۡثَالَ فَضَلُّواْ فَلَا يَسۡتَطِيعُونَ سَبِيلٗا",
+      "translation": "हेरौ त, तपाईको लागि कस्ता–कस्ता उदाहरणहरू प्रस्तुत गर्दछन्, तिनीहरू बहकिरहेका छन् । अब त बाटो भेटाउनु उनीहरूको वशमा छैन ।",
+      "transliteration": "Onthur kayfa daraboo laka alamthala fadalloo fala yastateeAAoona sabeelan"
+    },
+    {
+      "id": 49,
+      "text": "وَقَالُوٓاْ أَءِذَا كُنَّا عِظَٰمٗا وَرُفَٰتًا أَءِنَّا لَمَبۡعُوثُونَ خَلۡقٗا جَدِيدٗا",
+      "translation": "उनीहरू भन्दछन कि के हामी हाड र माटो टुक्रा–टुक्रा भएर बिलीन भइसक्ने छौं त के हामी फेरि पैदा भएर अर्को चोटी उठाएर उभ्याइने छौं ।",
+      "transliteration": "Waqaloo aitha kunna AAithaman warufatan ainna lamabAAoothoona khalqan jadeedan"
+    },
+    {
+      "id": 50,
+      "text": "۞قُلۡ كُونُواْ حِجَارَةً أَوۡ حَدِيدًا",
+      "translation": "जवाफ दिनुस् कि तिमी ढुङ्गा बन अथवा फलाम बनिहाल ।",
+      "transliteration": "Qul koonoo hijaratan aw hadeedan"
+    },
+    {
+      "id": 51,
+      "text": "أَوۡ خَلۡقٗا مِّمَّا يَكۡبُرُ فِي صُدُورِكُمۡۚ فَسَيَقُولُونَ مَن يُعِيدُنَاۖ قُلِ ٱلَّذِي فَطَرَكُمۡ أَوَّلَ مَرَّةٖۚ فَسَيُنۡغِضُونَ إِلَيۡكَ رُءُوسَهُمۡ وَيَقُولُونَ مَتَىٰ هُوَۖ قُلۡ عَسَىٰٓ أَن يَكُونَ قَرِيبٗا",
+      "translation": "अथवा अन्य कुनै अरु वस्तु जो तिमीलाई अत्यन्त कठोर लाग्दछ । फेरि तिनीहरूले यो सोध्छन् कि को हो जसले पुनः हाम्रो जीवन फर्काउँछ ? तपाईले जवाफ दिनुस् कि उही अल्लाह हो जसले तिमीलाई पहिलो चोटी पैदा (सृष्टि) गरेको थियो । यसमा तिनीहरूले टाउको हल्लाई–हल्लाईकन् तपाईसँग सोध्नेछन् कि त्यसो भए यो कहिले हुनेछ ? अनि तपाईले जवाफ दिनुस् कि के थाह त्यो (घडी) चाँडै आउन लागेको छ ।",
+      "transliteration": "Aw khalqan mimma yakburu fee sudoorikum fasayaqooloona man yuAAeeduna quli allathee fatarakum awwala marratin fasayunghidoona ilayka ruoosahum wayaqooloona mata huwa qul AAasa an yakoona qareeban"
+    },
+    {
+      "id": 52,
+      "text": "يَوۡمَ يَدۡعُوكُمۡ فَتَسۡتَجِيبُونَ بِحَمۡدِهِۦ وَتَظُنُّونَ إِن لَّبِثۡتُمۡ إِلَّا قَلِيلٗا",
+      "translation": "जुन दिन त्यसले तिमीलाई बोलाउनेछ, त तिमीले उसको प्रशंसा गर्दै उसको आज्ञापालन गर्नेछौ र तिमी अनुभव गर्नेछौ कि तिम्रो बसाई एकदम थोरै छ ।",
+      "transliteration": "Yawma yadAAookum fatastajeeboona bihamdihi watathunnoona in labithtum illa qaleelan"
+    },
+    {
+      "id": 53,
+      "text": "وَقُل لِّعِبَادِي يَقُولُواْ ٱلَّتِي هِيَ أَحۡسَنُۚ إِنَّ ٱلشَّيۡطَٰنَ يَنزَغُ بَيۡنَهُمۡۚ إِنَّ ٱلشَّيۡطَٰنَ كَانَ لِلۡإِنسَٰنِ عَدُوّٗا مُّبِينٗا",
+      "translation": "र मेरा भक्तहरूलाई भनिदिनुस् कि तिनीहरूले धेरै राम्रो कुरा गर्नेगरुन् किनभने शैतानले तिनीहरूको बीचमा कलह सृजित गरिरहन्छ । निःसन्देह शैतान मानिसको खुल्ला शत्रु हो ।",
+      "transliteration": "Waqul liAAibadee yaqooloo allatee hiya ahsanu inna alshshaytana yanzaghu baynahum inna alshshaytana kana lilinsani AAaduwwan mubeenan"
+    },
+    {
+      "id": 54,
+      "text": "رَّبُّكُمۡ أَعۡلَمُ بِكُمۡۖ إِن يَشَأۡ يَرۡحَمۡكُمۡ أَوۡ إِن يَشَأۡ يُعَذِّبۡكُمۡۚ وَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ وَكِيلٗا",
+      "translation": "तिम्रो पालनकर्ता तिमीभन्दा धेरै जान्दछ । उसले चाहेको खण्डमा तिमीमाथि दया गर्दछ वा यदि चाहन्छ भने तिमीलाई दण्ड दिन्छ, हामीले तपाईलाई तिनीहरूको जिम्मेदार ठहर्याएर पठाएका होइनौं ।",
+      "transliteration": "Rabbukum aAAlamu bikum in yasha yarhamkum aw in yasha yuAAaththibkum wama arsalnaka AAalayhim wakeelan"
+    },
+    {
+      "id": 55,
+      "text": "وَرَبُّكَ أَعۡلَمُ بِمَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَلَقَدۡ فَضَّلۡنَا بَعۡضَ ٱلنَّبِيِّـۧنَ عَلَىٰ بَعۡضٖۖ وَءَاتَيۡنَا دَاوُۥدَ زَبُورٗا",
+      "translation": "आकाशहरू र पृथ्वीमा जे जति छन्, तिनीहरूबारे तपाईको पालनहारलाई सबै राम्ररी थाहा छ हामीले केही संदेष्टाहरूलाई केहीमाथि प्रधानता प्रदान गर्यौं र दाऊदलाई हामीले ‘‘जबूर’’ दियौं ।",
+      "transliteration": "Warabbuka aAAlamu biman fee alssamawati waalardi walaqad faddalna baAAda alnnabiyyeena AAala baAAdin waatayna dawooda zabooran"
+    },
+    {
+      "id": 56,
+      "text": "قُلِ ٱدۡعُواْ ٱلَّذِينَ زَعَمۡتُم مِّن دُونِهِۦ فَلَا يَمۡلِكُونَ كَشۡفَ ٱلضُّرِّ عَنكُمۡ وَلَا تَحۡوِيلًا",
+      "translation": "भनिदिनुस् कि अल्लाह बाहेक जसलाई तिमीहरू पूजनीय ठानेका छौ, तिनीहरूलाई पुकारेर हेर, तिनीहरूमा तिमीबाट कष्ट दूर गर्ने वा त्यसलाई परिवर्तन गरिदिने कुनै सामथ्र्य छैन ।",
+      "transliteration": "Quli odAAu allatheena zaAAamtum min doonihi fala yamlikoona kashfa alddurri AAankum wala tahweelan"
+    },
+    {
+      "id": 57,
+      "text": "أُوْلَـٰٓئِكَ ٱلَّذِينَ يَدۡعُونَ يَبۡتَغُونَ إِلَىٰ رَبِّهِمُ ٱلۡوَسِيلَةَ أَيُّهُمۡ أَقۡرَبُ وَيَرۡجُونَ رَحۡمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓۚ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحۡذُورٗا",
+      "translation": "उनीहरू, जसलाई पुकार्दछन् तिनीहरू स्वयम् आफ्नो पालनकर्ताकहाँ पहुँचको माध्यम खोज्दछन्, कि तिनीहरूमध्ये कुन धेरै नजिक हुन सक्दछ । उनीहरू स्वयम् उसको दयाको आशामा रहन्छन्, र उसको दण्डसित भयभीत रहन्छन् ? निःसन्देह तिम्रो पालनकर्ताको सजाय डर्नुपर्ने कुरो नै हो ।",
+      "transliteration": "Olaika allatheena yadAAoona yabtaghoona ila rabbihimu alwaseelata ayyuhum aqrabu wayarjoona rahmatahu wayakhafoona AAathabahu inna AAathaba rabbika kana mahthooran"
+    },
+    {
+      "id": 58,
+      "text": "وَإِن مِّن قَرۡيَةٍ إِلَّا نَحۡنُ مُهۡلِكُوهَا قَبۡلَ يَوۡمِ ٱلۡقِيَٰمَةِ أَوۡ مُعَذِّبُوهَا عَذَابٗا شَدِيدٗاۚ كَانَ ذَٰلِكَ فِي ٱلۡكِتَٰبِ مَسۡطُورٗا",
+      "translation": "जे जति अबादीहरू छन् हामीले कियामतको दिनभन्दा अगावै त्यसलाई नष्ट गरिदिन्छौं अथवा गम्भीर सजाय दिनेछौं । यो कुरा त किताबमा लेखिसकिएको छ ।",
+      "transliteration": "Wain min qaryatin illa nahnu muhlikooha qabla yawmi alqiyamati aw muAAaththibooha AAathaban shadeedan kana thalika fee alkitabi mastooran"
+    },
+    {
+      "id": 59,
+      "text": "وَمَا مَنَعَنَآ أَن نُّرۡسِلَ بِٱلۡأٓيَٰتِ إِلَّآ أَن كَذَّبَ بِهَا ٱلۡأَوَّلُونَۚ وَءَاتَيۡنَا ثَمُودَ ٱلنَّاقَةَ مُبۡصِرَةٗ فَظَلَمُواْ بِهَاۚ وَمَا نُرۡسِلُ بِٱلۡأٓيَٰتِ إِلَّا تَخۡوِيفٗا",
+      "translation": "हामीले निशानीहरू (वा चमत्कार) पठाउन यस कारणले बन्द गरिदियौं कि पहिलेका मानिसहरू तिनलाई झूठा भन्ने गर्थे । र हामीले समूदलाई चमत्कारको रूपमा ऊँटनी प्रदान गर्यौं तर तिनीहरूले त्यसमाथि अत्याचार गरे । र हामीले मानिसहरूलाई डराउनको लागि निशानीहरू पठाउने गर्दछौं ।",
+      "transliteration": "Wama manaAAana an nursila bialayati illa an kaththaba biha alawwaloona waatayna thamooda alnnaqata mubsiratan fathalamoo biha wama nursilu bialayati illa takhweefan"
+    },
+    {
+      "id": 60,
+      "text": "وَإِذۡ قُلۡنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِۚ وَمَا جَعَلۡنَا ٱلرُّءۡيَا ٱلَّتِيٓ أَرَيۡنَٰكَ إِلَّا فِتۡنَةٗ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلۡمَلۡعُونَةَ فِي ٱلۡقُرۡءَانِۚ وَنُخَوِّفُهُمۡ فَمَا يَزِيدُهُمۡ إِلَّا طُغۡيَٰنٗا كَبِيرٗا",
+      "translation": "र (स्मरण गर्नुस्) जब हामीले तपाईसित भन्यौं कि तपाईको पालनकर्ता मानिसहरूलाई घेरामा लिइसकेको छ, र जुन दृश्य हामीले तपाईलाई देखायौं त्यो मानिसहरूको परीक्षाको लागि थियो र यस्तै त्यो रुखलाई पनि, जसमाथि कुरआनमा घृणा भनिएको छ । हामीले तिनीहरूलाई डराइराखेकाछौं । तर यसले तिनीहरूको गम्भीर उद्दण्डता झन् बढ़ाइरहेछ ।",
+      "transliteration": "Waith qulna laka inna rabbaka ahata bialnnasi wama jaAAalna alrruya allatee araynaka illa fitnatan lilnnasi waalshshajarata almalAAoonata fee alqurani wanukhawwifuhum fama yazeeduhum illa tughyanan kabeeran"
+    },
+    {
+      "id": 61,
+      "text": "وَإِذۡ قُلۡنَا لِلۡمَلَـٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ قَالَ ءَأَسۡجُدُ لِمَنۡ خَلَقۡتَ طِينٗا",
+      "translation": "जब हामीले फरिश्ताहरूलाई भन्यौं कि आदमलाई ढोग, त इब्लीस बाहेक सबले ढोगे । उसले भन्यो कि के म यस्तो व्यक्तिलाई ढोगूँ, जसलाई तिमीले माटोबाट सृष्टि गरेका छौ ?",
+      "transliteration": "Waith qulna lilmalaikati osjudoo liadama fasajadoo illa ibleesa qala aasjudu liman khalaqta teenan"
+    },
+    {
+      "id": 62,
+      "text": "قَالَ أَرَءَيۡتَكَ هَٰذَا ٱلَّذِي كَرَّمۡتَ عَلَيَّ لَئِنۡ أَخَّرۡتَنِ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَأَحۡتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلٗا",
+      "translation": "(इब्लीस) भन्न थाल्योः कि हेर यहि हो जसलाई तिमीले ममाथि श्रेष्ठता प्रदान गरेका छौ, तर यदि तिमीले मलाई पनि कियामतको दिनसम्म मोहलत दिनेछौ भने म केही व्यक्तिहरू बाहेक उसको सन्ततिलाई आफ्नो अधीनमा गर्नेछु ।",
+      "transliteration": "Qala araaytaka hatha allathee karramta AAalayya lain akhkhartani ila yawmi alqiyamati laahtanikanna thurriyyatahu illa qaleelan"
+    },
+    {
+      "id": 63,
+      "text": "قَالَ ٱذۡهَبۡ فَمَن تَبِعَكَ مِنۡهُمۡ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمۡ جَزَآءٗ مَّوۡفُورٗا",
+      "translation": "अल्लाहबाट हुकुम भयो कि (यहाँबाट) गइहाल । यिनीहरूमध्ये जुन मानिसले तिम्रो अनुशरण गर्नेछन्, ती सबैको सजाय नर्क हो । जो पूरा–पूर बदला हो ।",
+      "transliteration": "Qala ithhab faman tabiAAaka minhum fainna jahannama jazaokum jazaan mawfooran"
+    },
+    {
+      "id": 64,
+      "text": "وَٱسۡتَفۡزِزۡ مَنِ ٱسۡتَطَعۡتَ مِنۡهُم بِصَوۡتِكَ وَأَجۡلِبۡ عَلَيۡهِم بِخَيۡلِكَ وَرَجِلِكَ وَشَارِكۡهُمۡ فِي ٱلۡأَمۡوَٰلِ وَٱلۡأَوۡلَٰدِ وَعِدۡهُمۡۚ وَمَا يَعِدُهُمُ ٱلشَّيۡطَٰنُ إِلَّا غُرُورًا",
+      "translation": "तिनीहरूमध्ये जसलाई तिमीले आफ्नो आवाजबाट बहकाउन सक्छौ, बहकाउँदै गर, र उनीहरूमाथि आफ्ना घोडसवार र पैदल सिपाहीहरूबाट आक्रमण गर्दैगर, र तिनीहरूको माल र सन्तानहरूमा पनि आफू शम्मिलित हुँदैगर, र तिनीहरूसित झूठा वाचा गर्दैगर । र शैतानले जतिपनि वाचा तिनीहरूसँग गर्नेगर्दछ त्यो सबै धोका हो ।",
+      "transliteration": "Waistafziz mani istataAAta minhum bisawtika waajlib AAalayhim bikhaylika warajlika washarikhum fee alamwali waalawladi waAAidhum wama yaAAiduhumu alshshaytanu illa ghurooran"
+    },
+    {
+      "id": 65,
+      "text": "إِنَّ عِبَادِي لَيۡسَ لَكَ عَلَيۡهِمۡ سُلۡطَٰنٞۚ وَكَفَىٰ بِرَبِّكَ وَكِيلٗا",
+      "translation": "मेरा सच्चा भक्तहरूहरूमाथि तिम्रो कुनै जोड लाग्दैन र तिम्रो पालनकर्ता सबै कुरा सम्पन्न गर्न पर्याप्त छ ।",
+      "transliteration": "Inna AAibadee laysa laka AAalayhim sultanun wakafa birabbika wakeelan"
+    },
+    {
+      "id": 66,
+      "text": "رَّبُّكُمُ ٱلَّذِي يُزۡجِي لَكُمُ ٱلۡفُلۡكَ فِي ٱلۡبَحۡرِ لِتَبۡتَغُواْ مِن فَضۡلِهِۦٓۚ إِنَّهُۥ كَانَ بِكُمۡ رَحِيمٗا",
+      "translation": "तिम्रो पालनकर्ता त्यो नै हो, जसले तिम्रो निम्ति समुद्रमा डुँङ्गा सञ्चालित गर्दछ, जसबाट तिमीले उसको कृपाले जीविका खोज्न सक, ऊ तिमीमाथि धेरै दयावान छ ।",
+      "transliteration": "Rabbukumu allathee yuzjee lakumu alfulka fee albahri litabtaghoo min fadlihi innahu kana bikum raheeman"
+    },
+    {
+      "id": 67,
+      "text": "وَإِذَا مَسَّكُمُ ٱلضُّرُّ فِي ٱلۡبَحۡرِ ضَلَّ مَن تَدۡعُونَ إِلَّآ إِيَّاهُۖ فَلَمَّا نَجَّىٰكُمۡ إِلَى ٱلۡبَرِّ أَعۡرَضۡتُمۡۚ وَكَانَ ٱلۡإِنسَٰنُ كَفُورًا",
+      "translation": "र जब तिमीलाई समुद्रमा बिपत्ति आइपुग्छ त जसलाई तिमीले पुकार्ने गर्दछौ उही अल्लाह बाहेक सबै हराइहाल्छन्, अनि हामीले जब तिमीलाई बचाएर स्थलतिर लैजान्छौं, त तिमी विमुख भइहाल्छौ र मानिस धेरै कृतघ्न छ ।",
+      "transliteration": "Waitha massakumu alddurru fee albahri dalla man tadAAoona illa iyyahu falamma najjakum ila albarri aAAradtum wakana alinsanu kafooran"
+    },
+    {
+      "id": 68,
+      "text": "أَفَأَمِنتُمۡ أَن يَخۡسِفَ بِكُمۡ جَانِبَ ٱلۡبَرِّ أَوۡ يُرۡسِلَ عَلَيۡكُمۡ حَاصِبٗا ثُمَّ لَا تَجِدُواْ لَكُمۡ وَكِيلًا",
+      "translation": "के तिमी आफूलाई सुरक्षित ठान्दछौ, कि अल्लाहले तिमीलाई स्थलतिर लगेर धर्तीमा धसाउन सक्दैन वा तिमीमाथि ढुङ्गाहरूको हुरीबतास चलाउन सक्दैन अनि तिमीले आफ्नो लागि कोही रक्षक पाउन नसक ।",
+      "transliteration": "Afaamintum an yakhsifa bikum janiba albarri aw yursila AAalaykum hasiban thumma la tajidoo lakum wakeelan"
+    },
+    {
+      "id": 69,
+      "text": "أَمۡ أَمِنتُمۡ أَن يُعِيدَكُمۡ فِيهِ تَارَةً أُخۡرَىٰ فَيُرۡسِلَ عَلَيۡكُمۡ قَاصِفٗا مِّنَ ٱلرِّيحِ فَيُغۡرِقَكُم بِمَا كَفَرۡتُمۡ ثُمَّ لَا تَجِدُواْ لَكُمۡ عَلَيۡنَا بِهِۦ تَبِيعٗا",
+      "translation": "के तिमी यस कुराबाट निर्भय छौ, कि तिमीलाई दोस्रो पटक अल्लाहले समुद्रमा लैजाने छैन र तिमीमाथि तीव्र हावा चलाउने र तिम्रो कुफ्रको कारणले तिमीलाई डुबाउन सक्दैन फेरि तिमी स्वयम्को लागि हामी विरुद्ध कोही सहयोगी पाउने छैनौ ।",
+      "transliteration": "Am amintum an yuAAeedakum feehi taratan okhra fayursila AAalaykum qasifan mina alrreehi fayughriqakum bima kafartum thumma la tajidoo lakum AAalayna bihi tabeeAAan"
+    },
+    {
+      "id": 70,
+      "text": "۞وَلَقَدۡ كَرَّمۡنَا بَنِيٓ ءَادَمَ وَحَمَلۡنَٰهُمۡ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِ وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَىٰ كَثِيرٖ مِّمَّنۡ خَلَقۡنَا تَفۡضِيلٗا",
+      "translation": "निश्चितरूपले हामी आदमको सन्तानलाई धेरै मर्यादा प्रदान गर्यौं, र उनलाई जंगल र समुंद्रमा सवारी दियौं र पवित्र आधार प्रदान गर्यौं, र आफ्ना धेरै प्राणीहरूमाथि श्रेष्ठता प्रदान गर्यौं ।",
+      "transliteration": "Walaqad karramna banee adama wahamalnahum fee albarri waalbahri warazaqnahum mina alttayyibati wafaddalnahum AAala katheerin mimman khalaqna tafdeelan"
+    },
+    {
+      "id": 71,
+      "text": "يَوۡمَ نَدۡعُواْ كُلَّ أُنَاسِۭ بِإِمَٰمِهِمۡۖ فَمَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَأُوْلَـٰٓئِكَ يَقۡرَءُونَ كِتَٰبَهُمۡ وَلَا يُظۡلَمُونَ فَتِيلٗا",
+      "translation": "जुनदिन हामी सबै समूहहरूलाई तिनीहरूका नाइकेसमेत बोलाउने छौं । अनि जसको (कर्मपत्र) किताब तिनीहरूका दाहिने हातमा दिइनेछ तिनीहरूले आफ्नो किताब खुशीको साथ पढ्नेछन् र तिनीहरूमाथि लेशमात्र पनि अत्याचार हुनेछैन ।",
+      "transliteration": "Yawma nadAAoo kulla onasin biimamihim faman ootiya kitabahu biyameenihi faolaika yaqraoona kitabahum wala yuthlamoona fateelan"
+    },
+    {
+      "id": 72,
+      "text": "وَمَن كَانَ فِي هَٰذِهِۦٓ أَعۡمَىٰ فَهُوَ فِي ٱلۡأٓخِرَةِ أَعۡمَىٰ وَأَضَلُّ سَبِيلٗا",
+      "translation": "र जो यस संसारमा अन्धा छ, ऊ आखिरतमा पनि अन्धा हुनेछ र (मुक्तिको) बाटोबाट धेरै टाढा हुनेछ ।",
+      "transliteration": "Waman kana fee hathihi aAAma fahuwa fee alakhirati aAAma waadallu sabeelan"
+    },
+    {
+      "id": 73,
+      "text": "وَإِن كَادُواْ لَيَفۡتِنُونَكَ عَنِ ٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ لِتَفۡتَرِيَ عَلَيۡنَا غَيۡرَهُۥۖ وَإِذٗا لَّٱتَّخَذُوكَ خَلِيلٗا",
+      "translation": "(हे पैगम्बर) जुन वह्य (सन्देश) हामीले तपाईतिर पठाएका छौं, यी (काफिरहरू) त्यसबाट तपाईलाई विचलित गराउन चाहन्छन्, ताकि तपाईले यस बाहेक अरु कुराहरू नै हाम्रो बारेमा बनाइहाल, र त्यतिखेर तिनीहरूले तपाईलाई घनिष्ट मित्र बनाउने थिए ।",
+      "transliteration": "Wain kadoo layaftinoonaka AAani allathee awhayna ilayka litaftariya AAalayna ghayrahu waithan laittakhathooka khaleelan"
+    },
+    {
+      "id": 74,
+      "text": "وَلَوۡلَآ أَن ثَبَّتۡنَٰكَ لَقَدۡ كِدتَّ تَرۡكَنُ إِلَيۡهِمۡ شَيۡـٔٗا قَلِيلًا",
+      "translation": "यदि हामीले तपाईको पाईला सुदृढ नराखेको भए, केही हदसम्म तपाई तिनीहरूतिर प्रवृत्त हुनसक्नु हुन्थ्यो ।",
+      "transliteration": "Walawla an thabbatnaka laqad kidta tarkanu ilayhim shayan qaleelan"
+    },
+    {
+      "id": 75,
+      "text": "إِذٗا لَّأَذَقۡنَٰكَ ضِعۡفَ ٱلۡحَيَوٰةِ وَضِعۡفَ ٱلۡمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَيۡنَا نَصِيرٗا",
+      "translation": "त्यसो भए हामीले तपाईलाई जिन्दगीमा पनि दुईगुणा सजाय र मृत्यु पश्चात पनि दुईगुणा सजायको स्वाद चखाउने थियौं, अनि तपाईले हामी विरुद्ध कसैलाई आफ्नो मद्दतगार पाउने थिएनौ ।",
+      "transliteration": "Ithan laathaqnaka diAAfa alhayati wadiAAfa almamati thumma la tajidu laka AAalayna naseeran"
+    },
+    {
+      "id": 76,
+      "text": "وَإِن كَادُواْ لَيَسۡتَفِزُّونَكَ مِنَ ٱلۡأَرۡضِ لِيُخۡرِجُوكَ مِنۡهَاۖ وَإِذٗا لَّا يَلۡبَثُونَ خِلَٰفَكَ إِلَّا قَلِيلٗا",
+      "translation": "यिनीहरूले त तपाईको पाइला यस जमिन(मक्का) बाट झण्डै हटाइसकेका थिए, ताकि तपाईलाई देश निकाला गरुन् । त्यसो भए तपाईपछि यिनीहरू पनि त्यहाँ थोरै दिनसम्म रहन पाउनेछन् ।",
+      "transliteration": "Wain kadoo layastafizzoonaka mina alardi liyukhrijooka minha waithan la yalbathoona khilafaka illa qaleelan"
+    },
+    {
+      "id": 77,
+      "text": "سُنَّةَ مَن قَدۡ أَرۡسَلۡنَا قَبۡلَكَ مِن رُّسُلِنَاۖ وَلَا تَجِدُ لِسُنَّتِنَا تَحۡوِيلًا",
+      "translation": "जुन पैगम्बरहरूलाई हामीले तपाईभन्दा अघि पठाएका थियौं तिनीहरूको हालत पनि यस्तै थियो । र तपाईले हाम्रो तरिकाहरूमा कहिल्यै पनि परिवर्तन पाउनुहुन्न ।",
+      "transliteration": "Sunnata man qad arsalna qablaka min rusulina wala tajidu lisunnatina tahweelan"
+    },
+    {
+      "id": 78,
+      "text": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمۡسِ إِلَىٰ غَسَقِ ٱلَّيۡلِ وَقُرۡءَانَ ٱلۡفَجۡرِۖ إِنَّ قُرۡءَانَ ٱلۡفَجۡرِ كَانَ مَشۡهُودٗا",
+      "translation": "अपरान्हदेखि रातीको अँध्यारोसम्म (जुहर, अस्र, मग्रिब, इशाका) नमाज पढनेगर । र विहान (फज्रको) कुरआन पढ्ने गर, किनभने विहान कुरआन पढ्न हाजिर गरिएको छ । (फरिश्ताहरू उपस्थितिको बेला हो यो)",
+      "transliteration": "Aqimi alssalata lidulooki alshshamsi ila ghasaqi allayli waqurana alfajri inna qurana alfajri kana mashhoodan"
+    },
+    {
+      "id": 79,
+      "text": "وَمِنَ ٱلَّيۡلِ فَتَهَجَّدۡ بِهِۦ نَافِلَةٗ لَّكَ عَسَىٰٓ أَن يَبۡعَثَكَ رَبُّكَ مَقَامٗا مَّحۡمُودٗا",
+      "translation": "रातका केही भागहरूमा तहज्जुदको नमाजमा कुरआनको पाठ गर्नेगर, यस अतिरिक्त प्रार्थना (नफिल) तपाईको निम्ति हो । छिट्टै तपाईको पालनहारले तपाईलाई मर्यादित स्थानमा पुर्याउने छ ।",
+      "transliteration": "Wamina allayli fatahajjad bihi nafilatan laka AAasa an yabAAathaka rabbuka maqaman mahmoodan"
+    },
+    {
+      "id": 80,
+      "text": "وَقُل رَّبِّ أَدۡخِلۡنِي مُدۡخَلَ صِدۡقٖ وَأَخۡرِجۡنِي مُخۡرَجَ صِدۡقٖ وَٱجۡعَل لِّي مِن لَّدُنكَ سُلۡطَٰنٗا نَّصِيرٗا",
+      "translation": "र प्रार्थनागर्ने गर्नुस् कि हे पालनकर्ता मलाई जहाँ लिएर जाऊ राम्रोसँग लिएर जाऊ र जहाँबाट निकाल राम्रोसँग निकाल र मलाई आफ्नो तर्फबाट शक्ति र मद्दत प्रदान गर ।",
+      "transliteration": "Waqul rabbi adkhilnee mudkhala sidqin waakhrijnee mukhraja sidqin waijAAal lee min ladunka sultanan naseeran"
+    },
+    {
+      "id": 81,
+      "text": "وَقُلۡ جَآءَ ٱلۡحَقُّ وَزَهَقَ ٱلۡبَٰطِلُۚ إِنَّ ٱلۡبَٰطِلَ كَانَ زَهُوقٗا",
+      "translation": "र घोषणा गर्नुस् कि सत्य आइपुगेको छ, र असत्यताको विनाश भइसकेको छ । निःसन्देह असत्यता विनाश हुने नै कुरा हो ।",
+      "transliteration": "Waqul jaa alhaqqu wazahaqa albatilu inna albatila kana zahooqan"
+    },
+    {
+      "id": 82,
+      "text": "وَنُنَزِّلُ مِنَ ٱلۡقُرۡءَانِ مَا هُوَ شِفَآءٞ وَرَحۡمَةٞ لِّلۡمُؤۡمِنِينَ وَلَا يَزِيدُ ٱلظَّـٰلِمِينَ إِلَّا خَسَارٗا",
+      "translation": "यो कुरआन जुन हामी उतार्दैछौं मोमिनहरूको लागि स्वस्थकर र दया हो, र अत्याचारीहरूको लागि त यसबाट हानिमा नै वृद्धि हुनेछ ।",
+      "transliteration": "Wanunazzilu mina alqurani ma huwa shifaon warahmatun lilmumineena wala yazeedu alththalimeena illa khasaran"
+    },
+    {
+      "id": 83,
+      "text": "وَإِذَآ أَنۡعَمۡنَا عَلَى ٱلۡإِنسَٰنِ أَعۡرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ يَـُٔوسٗا",
+      "translation": "र जब हामीले मानिसमाथि सुखद कृपा प्रदान गर्दछौं त उसले मुख फर्काई टाढा हुन पुग्छ, र जब उसलाई कुनै कष्ट पुग्दछ त निराश भइहाल्छ ।",
+      "transliteration": "Waitha anAAamna AAala alinsani aAArada wanaa bijanibihi waitha massahu alshsharru kana yaoosan"
+    },
+    {
+      "id": 84,
+      "text": "قُلۡ كُلّٞ يَعۡمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمۡ أَعۡلَمُ بِمَنۡ هُوَ أَهۡدَىٰ سَبِيلٗا",
+      "translation": "भनिदिनुस् कि हरेक व्यक्ति आफ्नो तरिका अनुसार काममा लागेको छ । जो पूरै सही बाटोमा लागेका छन् उनलाई तपाईको पालनकर्ताले राम्ररी जान्दछ ।",
+      "transliteration": "Qul kullun yaAAmalu AAala shakilatihi farabbukum aAAlamu biman huwa ahda sabeelan"
+    },
+    {
+      "id": 85,
+      "text": "وَيَسۡـَٔلُونَكَ عَنِ ٱلرُّوحِۖ قُلِ ٱلرُّوحُ مِنۡ أَمۡرِ رَبِّي وَمَآ أُوتِيتُم مِّنَ ٱلۡعِلۡمِ إِلَّا قَلِيلٗا",
+      "translation": "र तिमीसँग आत्माको (रूहको) बारेमा यिनीहरू प्रश्न गर्दछन् । भनिदिनुस् कि त्यो मेरो पालनकर्ताको हुक्मबाट छ । तिमीहरूलाई निकै कम ज्ञान प्रदान गरिएको छ ।",
+      "transliteration": "Wayasaloonaka AAani alrroohi quli alrroohu min amri rabbee wama ooteetum mina alAAilmi illa qaleelan"
+    },
+    {
+      "id": 86,
+      "text": "وَلَئِن شِئۡنَا لَنَذۡهَبَنَّ بِٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ ثُمَّ لَا تَجِدُ لَكَ بِهِۦ عَلَيۡنَا وَكِيلًا",
+      "translation": "र यदि हामीले चाहन्छौं भने जुन वह्य हामीले तपाइतिर पठाउँदछौं, त्यसलाई समाप्त गरिहालौं, अनि तपाईको लागि उसको निम्ति हाम्रो विरोधमा कोही मद्दतगार आउन सक्नेछैन ।",
+      "transliteration": "Walain shina lanathhabanna biallathee awhayna ilayka thumma la tajidu laka bihi AAalayna wakeelan"
+    },
+    {
+      "id": 87,
+      "text": "إِلَّا رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّ فَضۡلَهُۥ كَانَ عَلَيۡكَ كَبِيرٗا",
+      "translation": "तपाईको पालनकर्ताको दया मात्र हो । निःसन्देह तपाईमाथि उसको ठूलो कृपा छ ।",
+      "transliteration": "Illa rahmatan min rabbika inna fadlahu kana AAalayka kabeeran"
+    },
+    {
+      "id": 88,
+      "text": "قُل لَّئِنِ ٱجۡتَمَعَتِ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَىٰٓ أَن يَأۡتُواْ بِمِثۡلِ هَٰذَا ٱلۡقُرۡءَانِ لَا يَأۡتُونَ بِمِثۡلِهِۦ وَلَوۡ كَانَ بَعۡضُهُمۡ لِبَعۡضٖ ظَهِيرٗا",
+      "translation": "भनिदिनुस् कि यदि सबै मानिसहरू र सबै जिन्नहरू मिलेर यस कुरआन जस्तो ल्याउन चाहे पनि यस कुरआन जस्तो बनाई ल्याउन असम्भव छ । यद्यपि तिनीहरू एक अर्काको मद्दतगार किन नबनुन् ।",
+      "transliteration": "Qul laini ijtamaAAati alinsu waaljinnu AAala an yatoo bimithli hatha alqurani la yatoona bimithlihi walaw kana baAAduhum libaAAdin thaheeran"
+    },
+    {
+      "id": 89,
+      "text": "وَلَقَدۡ صَرَّفۡنَا لِلنَّاسِ فِي هَٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلٖ فَأَبَىٰٓ أَكۡثَرُ ٱلنَّاسِ إِلَّا كُفُورٗا",
+      "translation": "हामीले त यस कुरआनमा मानिसहरूलाई बुझ्नुको लागि सबै कुराहरू विभिन्न तरिकाले वर्णन गरिदिएका छौं, तर अधिकांश मानिसहरूले इन्कार गर्न छाड्दैनन् ।",
+      "transliteration": "Walaqad sarrafna lilnnasi fee hatha alqurani min kulli mathalin faaba aktharu alnnasi illa kufooran"
+    },
+    {
+      "id": 90,
+      "text": "وَقَالُواْ لَن نُّؤۡمِنَ لَكَ حَتَّىٰ تَفۡجُرَ لَنَا مِنَ ٱلۡأَرۡضِ يَنۢبُوعًا",
+      "translation": "उनीहरूले भन्नथाले कि हामीले तपाईमाथि ईमान ल्याउने छैनौं जबसम्म कि हाम्रो निम्ति तपाईले धर्तीबाट पानीको मुहान खोलिदिनुहुन्न ।",
+      "transliteration": "Waqaloo lan numina laka hatta tafjura lana mina alardi yanbooAAan"
+    },
+    {
+      "id": 91,
+      "text": "أَوۡ تَكُونَ لَكَ جَنَّةٞ مِّن نَّخِيلٖ وَعِنَبٖ فَتُفَجِّرَ ٱلۡأَنۡهَٰرَ خِلَٰلَهَا تَفۡجِيرًا",
+      "translation": "अथवा तपाईको लागि खजूरहरू र अंगूहरूको कुनै बगैंचा होस् र त्यसको मध्यमा तपाईले नहरहरू निकालिदिनुस् ।",
+      "transliteration": "Aw takoona laka jannatun min nakheelin waAAinabin fatufajjira alanhara khilalaha tafjeeran"
+    },
+    {
+      "id": 92,
+      "text": "أَوۡ تُسۡقِطَ ٱلسَّمَآءَ كَمَا زَعَمۡتَ عَلَيۡنَا كِسَفًا أَوۡ تَأۡتِيَ بِٱللَّهِ وَٱلۡمَلَـٰٓئِكَةِ قَبِيلًا",
+      "translation": "वा जस्तो कि तपाईले भन्ने गर्दछौ हामीमाथि स्वयम् आकाशका टुक्रा टुक्रा गरी खसालिदिनुस् वा अल्लाह र फरिश्ताहरूलाई तपाईले हाम्रो सामु ल्याएर उभ्याई दिनुस् ।",
+      "transliteration": "Aw tusqita alssamaa kama zaAAamta AAalayna kisafan aw tatiya biAllahi waalmalaikati qabeelan"
+    },
+    {
+      "id": 93,
+      "text": "أَوۡ يَكُونَ لَكَ بَيۡتٞ مِّن زُخۡرُفٍ أَوۡ تَرۡقَىٰ فِي ٱلسَّمَآءِ وَلَن نُّؤۡمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيۡنَا كِتَٰبٗا نَّقۡرَؤُهُۥۗ قُلۡ سُبۡحَانَ رَبِّي هَلۡ كُنتُ إِلَّا بَشَرٗا رَّسُولٗا",
+      "translation": "वा तपाईको लागि कुनै सुनको घर होस् वा तपाई आकशमाथि चढिहाल्नुस् र हामीले चढ्ने कुरोलाई पनि तबसम्म मान्ने छैनौं, जबसम्म कि तपाईले हाम्रो लागि कुनै किताब ल्याउँदैनौं जसलाई हामीले पढ्न सकौं । तपाई भनीदिनुस् कि मेरो पालनकर्ता पवित्र छ म त मात्र एउटा मानिस हूँ जसलाई रसूल बनाइएको छ ।",
+      "transliteration": "Aw yakoona laka baytun min zukhrufin aw tarqa fee alssamai walan numina liruqiyyika hatta tunazzila AAalayna kitaban naqraohu qul subhana rabbee hal kuntu illa basharan rasoolan"
+    },
+    {
+      "id": 94,
+      "text": "وَمَا مَنَعَ ٱلنَّاسَ أَن يُؤۡمِنُوٓاْ إِذۡ جَآءَهُمُ ٱلۡهُدَىٰٓ إِلَّآ أَن قَالُوٓاْ أَبَعَثَ ٱللَّهُ بَشَرٗا رَّسُولٗا",
+      "translation": "मानिसहरूको पासमा मार्गनिर्देशन आइपुगेपछि उनीहरूलाई ईमान ल्याउनुबाट यस बाहेक अरु कुनै कुराको रुकावट भएन कि तिनीहरूले भने कि के अल्लाहले एउटा मानिसलाई नै पैगम्बर बनाएर पठाएको छ ?",
+      "transliteration": "Wama manaAAa alnnasa an yuminoo ith jaahumu alhuda illa an qaloo abaAAatha Allahu basharan rasoolan"
+    },
+    {
+      "id": 95,
+      "text": "قُل لَّوۡ كَانَ فِي ٱلۡأَرۡضِ مَلَـٰٓئِكَةٞ يَمۡشُونَ مُطۡمَئِنِّينَ لَنَزَّلۡنَا عَلَيۡهِم مِّنَ ٱلسَّمَآءِ مَلَكٗا رَّسُولٗا",
+      "translation": "भनिदिनुस् कि यदि धर्तीमा फरिश्ताहरू बसोबास गरी घूम–फिर गरिराखेको भए हामीहरूले पनि तिनीहरूको पासमा एउटा फरिश्तालाई नै पैगम्बर बनाएर पठाउने थियौं ।",
+      "transliteration": "Qul law kana fee alardi malaikatun yamshoona mutmainneena lanazzalna AAalayhim mina alssamai malakan rasoolan"
+    },
+    {
+      "id": 96,
+      "text": "قُلۡ كَفَىٰ بِٱللَّهِ شَهِيدَۢا بَيۡنِي وَبَيۡنَكُمۡۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرَۢا بَصِيرٗا",
+      "translation": "भनिदिनुस् कि मेरो र तिम्रो बीचमा अल्लाह साक्षी हुनु पर्याप्त छ ऊ आफ्ना सेवकहरूबारे राम्ररी जान्दछ र देख्नेवाला छ ।",
+      "transliteration": "Qul kafa biAllahi shaheedan baynee wabaynakum innahu kana biAAibadihi khabeeran baseeran"
+    },
+    {
+      "id": 97,
+      "text": "وَمَن يَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِۖ وَمَن يُضۡلِلۡ فَلَن تَجِدَ لَهُمۡ أَوۡلِيَآءَ مِن دُونِهِۦۖ وَنَحۡشُرُهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ عَلَىٰ وُجُوهِهِمۡ عُمۡيٗا وَبُكۡمٗا وَصُمّٗاۖ مَّأۡوَىٰهُمۡ جَهَنَّمُۖ كُلَّمَا خَبَتۡ زِدۡنَٰهُمۡ سَعِيرٗا",
+      "translation": "जुन व्यक्तिलाई अल्लाहले पथप्रदर्शन गर्दछ उसले मार्गदर्शन प्राप्त गर्छ र जसलाई मार्गविचलित गर्दछ, तपाईले अल्लाह बाहेक अरु कसैलाई उसको मित्र पाउने छैनौ र हामीले त्यस्ता मानिसहरूलाई कियामतको दिन घोप्टेको अवस्थामा अन्धो, लाटो र बहिरो बनाएर एकत्रित गर्नेछौं । र तिनीहरूको बासस्थल नर्क हुनेछ । जब त्यसको निभ्ने अवस्था हुन्छ त हामीले त्यसलाई अरु प्रज्वलित गरिदिने छौं ।",
+      "transliteration": "Waman yahdi Allahu fahuwa almuhtadi waman yudlil falan tajida lahum awliyaa min doonihi wanahshuruhum yawma alqiyamati AAala wujoohihim AAumyan wabukman wasumman mawahum jahannamu kullama khabat zidnahum saAAeeran"
+    },
+    {
+      "id": 98,
+      "text": "ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمۡ كَفَرُواْ بِـَٔايَٰتِنَا وَقَالُوٓاْ أَءِذَا كُنَّا عِظَٰمٗا وَرُفَٰتًا أَءِنَّا لَمَبۡعُوثُونَ خَلۡقٗا جَدِيدًا",
+      "translation": "यो सबै तिनीहरूको सजाय हो । यस कारणले कि तिनीहरूले हाम्रो आयातहरूलाई नकार्दथे र भन्दथेः कि जब हामी (मरेर कुहेका) टुक्रा–टुक्रा हड्डीहरू भइहाल्छौं भने त के फेरि हामीलाई नयाँ जन्ममा उठाएर उभ्याइने छ ?",
+      "transliteration": "Thalika jazaohum biannahum kafaroo biayatina waqaloo aitha kunna AAithaman warufatan ainna lamabAAoothoona khalqan jadeedan"
+    },
+    {
+      "id": 99,
+      "text": "۞أَوَلَمۡ يَرَوۡاْ أَنَّ ٱللَّهَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ قَادِرٌ عَلَىٰٓ أَن يَخۡلُقَ مِثۡلَهُمۡ وَجَعَلَ لَهُمۡ أَجَلٗا لَّا رَيۡبَ فِيهِ فَأَبَى ٱلظَّـٰلِمُونَ إِلَّا كُفُورٗا",
+      "translation": "के तिनीहरूले देखेनन्, कि अल्लाह जसले आकाशहरू र धर्तीको सृष्टि गरेको छ, ऊ यस कुरामा सक्षम छ कि तिनीहरू जस्ता मानिसहरू सृष्टि गर्न सकोस् ? र उसैले तिनीहरूको निम्ति एक यस्तो समय निर्धारित गरिदिएको छ, जसमा कुनै पनि सन्देह छैन । तर अत्याचारीहरूले इन्कार नगरी रहन सक्तैनन् ।",
+      "transliteration": "Awalam yaraw anna Allaha allathee khalaqa alssamawati waalarda qadirun AAala an yakhluqa mithlahum wajaAAala lahum ajalan la rayba feehi faaba alththalimoona illa kufooran"
+    },
+    {
+      "id": 100,
+      "text": "قُل لَّوۡ أَنتُمۡ تَمۡلِكُونَ خَزَآئِنَ رَحۡمَةِ رَبِّيٓ إِذٗا لَّأَمۡسَكۡتُمۡ خَشۡيَةَ ٱلۡإِنفَاقِۚ وَكَانَ ٱلۡإِنسَٰنُ قَتُورٗا",
+      "translation": "भनिदिनुस् कि यदि मेरो पालनकर्ताको दयाका खजानाहरू तिम्रो हातमा भएको भए, त्यस बेला पनि तिमीले खर्च हुने डरले त्यसलाई रोकेर राख्थ्यौ र मानिसको हृदय हुन्छ नै ज्यादै संकुचित ।",
+      "transliteration": "Qul law antum tamlikoona khazaina rahmati rabbee ithan laamsaktum khashyata alinfaqi wakana alinsanu qatooran"
+    },
+    {
+      "id": 101,
+      "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ تِسۡعَ ءَايَٰتِۭ بَيِّنَٰتٖۖ فَسۡـَٔلۡ بَنِيٓ إِسۡرَـٰٓءِيلَ إِذۡ جَآءَهُمۡ فَقَالَ لَهُۥ فِرۡعَوۡنُ إِنِّي لَأَظُنُّكَ يَٰمُوسَىٰ مَسۡحُورٗا",
+      "translation": "हामीले मूसालाई नौवटा स्पष्ट चमत्कारहरू प्रदान गर्यौं, तिमी स्वयम् बनी इस्राईलसित सोध कि, जब उनी तिनीहरूको समक्ष आए त फिरऔनले उनीसित भन्यो कि हे मूसा मलाई लाग्छ कि, तिमीमाथि ठूलो जादू गरिएको छ ।",
+      "transliteration": "Walaqad atayna moosa tisAAa ayatin bayyinatin faisal banee israeela ith jaahum faqala lahu firAAawnu innee laathunnuka ya moosa mashooran"
+    },
+    {
+      "id": 102,
+      "text": "قَالَ لَقَدۡ عَلِمۡتَ مَآ أَنزَلَ هَـٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ بَصَآئِرَ وَإِنِّي لَأَظُنُّكَ يَٰفِرۡعَوۡنُ مَثۡبُورٗا",
+      "translation": "मूसाले भनेः कि यो त तिमीलाई थाहा भइसकेको छ कि आकाश र धर्तीको पालनकर्ताले नै तिमीहरूलाई देखाउन र सम्झाउनको निम्ति उतारेको छ र हे फिरऔन म ठान्दछु कि निःसन्देह तिमी नष्ट भइहाल्नेछौ ।",
+      "transliteration": "Qala laqad AAalimta ma anzala haolai illa rabbu alssamawati waalardi basaira wainnee laathunnuka ya firAAawnu mathbooran"
+    },
+    {
+      "id": 103,
+      "text": "فَأَرَادَ أَن يَسۡتَفِزَّهُم مِّنَ ٱلۡأَرۡضِ فَأَغۡرَقۡنَٰهُ وَمَن مَّعَهُۥ جَمِيعٗا",
+      "translation": "तब फिरऔनले पक्का पक्की नीयत गर्यो कि उनलाई (मिस्रको) भूमिबाट निष्कासित गरिदेओस्, त हामीले उसलाई र उसको सबै साथीलाई डुबाइदियौं ।",
+      "transliteration": "Faarada an yastafizzahum mina alardi faaghraqnahu waman maAAahu jameeAAan"
+    },
+    {
+      "id": 104,
+      "text": "وَقُلۡنَا مِنۢ بَعۡدِهِۦ لِبَنِيٓ إِسۡرَـٰٓءِيلَ ٱسۡكُنُواْ ٱلۡأَرۡضَ فَإِذَا جَآءَ وَعۡدُ ٱلۡأٓخِرَةِ جِئۡنَا بِكُمۡ لَفِيفٗا",
+      "translation": "यसपछि हामीले बनी इस्राईलसँग भन्यौं कि तिमी यस मुलुकमा बसोबास गर अनि जब आखिरतको वचन आउँछ, तब हामीले तिमी सबैलाई समेटेर एकत्रित गरिहाल्नेछौं ।",
+      "transliteration": "Waqulna min baAAdihi libanee israeela oskunoo alarda faitha jaa waAAdu alakhirati jina bikum lafeefan"
+    },
+    {
+      "id": 105,
+      "text": "وَبِٱلۡحَقِّ أَنزَلۡنَٰهُ وَبِٱلۡحَقِّ نَزَلَۗ وَمَآ أَرۡسَلۡنَٰكَ إِلَّا مُبَشِّرٗا وَنَذِيرٗا",
+      "translation": "र हामीले यस कुरआनलाई सत्यताको साथ उतारेका छौं र यो सत्यताको साथ अवतारित भयो । (हे मुहम्मद) हामीले तपाईलाई मात्र शुभसन्देश दिनेवाला र डर सुनाउनेवाला बनाएर पठाएका छौं ।",
+      "transliteration": "Wabialhaqqi anzalnahu wabialhaqqi nazala wama arsalnaka illa mubashshiran wanatheeran"
+    },
+    {
+      "id": 106,
+      "text": "وَقُرۡءَانٗا فَرَقۡنَٰهُ لِتَقۡرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكۡثٖ وَنَزَّلۡنَٰهُ تَنزِيلٗا",
+      "translation": "हामीले कुरआनलाई टुक्राटुक्रामा गरी यसकारण पठाएका छौं, ताकि तपाईले मानिसहरूलाई फुर्सदको साथ पढेर सुनाउनुस् र हामीले यसलाई चरणबद्ध रूपमा उतारेका छौं ।",
+      "transliteration": "Waquranan faraqnahu litaqraahu AAala alnnasi AAala mukthin wanazzalnahu tanzeelan"
+    },
+    {
+      "id": 107,
+      "text": "قُلۡ ءَامِنُواْ بِهِۦٓ أَوۡ لَا تُؤۡمِنُوٓاْۚ إِنَّ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ مِن قَبۡلِهِۦٓ إِذَا يُتۡلَىٰ عَلَيۡهِمۡ يَخِرُّونَۤ لِلۡأَذۡقَانِۤ سُجَّدٗاۤ",
+      "translation": "भनिदिनुस् कि तिमीहरूले यसमाथि ईमान ल्याऊ वा नल्याऊ जुन मानिसहरूलाई यसभन्दा अगाडि जानकारी प्रदान गरिएको छ, उनी समक्ष जब यो पढेर सुनाइन्छ, तब तिनीहरू चिउडोको बलले घोप्टो परी सिज्दामा झुकिहाल्छन् ।",
+      "transliteration": "Qul aminoo bihi aw la tuminoo inna allatheena ootoo alAAilma min qablihi itha yutla AAalayhim yakhirroona lilathqani sujjadan"
+    },
+    {
+      "id": 108,
+      "text": "وَيَقُولُونَ سُبۡحَٰنَ رَبِّنَآ إِن كَانَ وَعۡدُ رَبِّنَا لَمَفۡعُولٗا",
+      "translation": "र भन्दछन्ः कि हाम्रो पालनकर्ता पवित्र छ । निःसन्देह हाम्रो पालनकर्ताको वाचा पूरा भएरै छाड्नेछ ।",
+      "transliteration": "Wayaqooloona subhana rabbina in kana waAAdu rabbina lamafAAoolan"
+    },
+    {
+      "id": 109,
+      "text": "وَيَخِرُّونَ لِلۡأَذۡقَانِ يَبۡكُونَ وَيَزِيدُهُمۡ خُشُوعٗا۩",
+      "translation": "तिनीहरू चिउडोको बलले घोप्टो परेर रुँदै सिज्दामा जान्छन् र यस कुरआनले उनीहरूको व्याकुलता नम्रता र शीलता बढाइदिन्छ ।",
+      "transliteration": "Wayakhirroona lilathqani yabkoona wayazeeduhum khushooAAan"
+    },
+    {
+      "id": 110,
+      "text": "قُلِ ٱدۡعُواْ ٱللَّهَ أَوِ ٱدۡعُواْ ٱلرَّحۡمَٰنَۖ أَيّٗا مَّا تَدۡعُواْ فَلَهُ ٱلۡأَسۡمَآءُ ٱلۡحُسۡنَىٰۚ وَلَا تَجۡهَرۡ بِصَلَاتِكَ وَلَا تُخَافِتۡ بِهَا وَٱبۡتَغِ بَيۡنَ ذَٰلِكَ سَبِيلٗا",
+      "translation": "भनिदिनुस् कि तिमीले उसलाई अल्लाहको नामले पुकार वा रहमान भनेर । जुन नामले पुकारे पनि सबै राम्रा नामहरू उसैका लागि छन्, र नमाज न चर्को स्वरले पढ् र न धेरै मधुरो आवाजमा पढ बरु त्यसको बीचको तरीका अपनाऊ ।",
+      "transliteration": "Quli odAAoo Allaha awi odAAoo alrrahmana ayyan ma tadAAoo falahu alasmao alhusna wala tajhar bisalatika wala tukhafit biha waibtaghi bayna thalika sabeelan"
+    },
+    {
+      "id": 111,
+      "text": "وَقُلِ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي لَمۡ يَتَّخِذۡ وَلَدٗا وَلَمۡ يَكُن لَّهُۥ شَرِيكٞ فِي ٱلۡمُلۡكِ وَلَمۡ يَكُن لَّهُۥ وَلِيّٞ مِّنَ ٱلذُّلِّۖ وَكَبِّرۡهُ تَكۡبِيرَۢا",
+      "translation": "र यो भनिदिनुस् कि सबै प्रशंसा अल्लाहकै लागि हुन्, जसको नकुनै सन्तान छ र नत उसको सत्तामा कोही साझेदार छ, र न ऊ कमजोर छ, कि कसैले उसलाई सहयोग गरोस्, र तिमीहरूले उसको पूरापूर महानताको वर्णन गर्नेगर ।",
+      "transliteration": "Waquli alhamdu lillahi allathee lam yattakhith waladan walam yakun lahu shareekun fee almulki walam yakun lahu waliyyun mina alththulli wakabbirhu takbeeran"
+    }
+  ]
+}

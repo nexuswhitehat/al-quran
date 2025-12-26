@@ -1,0 +1,64 @@
+{
+  "id": 104,
+  "name": "الهمزة",
+  "transliteration": "Al-Humazah",
+  "translation": "The Traducer",
+  "type": "meccan",
+  "total_verses": 9,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ",
+      "translation": "बर्बादी छ, त्यस्तो प्रत्येक मानिसको जो अर्काको अवगुण खोज्ने गर्दछ र चुकुली (चुगुली) गरिरहन्छ ।",
+      "transliteration": "Waylun likulli humazatin lumazatin"
+    },
+    {
+      "id": 2,
+      "text": "ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ",
+      "translation": "जसले मालसम्पत्ति थुपार्दै जान्छ र त्यसलाई गन्दै राख्छ ।",
+      "transliteration": "Allathee jamaAAa malan waAAaddadahu"
+    },
+    {
+      "id": 3,
+      "text": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ",
+      "translation": "उसले ठान्छ कि उसको सम्पत्ति उससँग सधैं (अमर) रहनेछ ।",
+      "transliteration": "Yahsabu anna malahu akhladahu"
+    },
+    {
+      "id": 4,
+      "text": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ",
+      "translation": "कदापि होइन, यो त अवश्य टुक्रा–टुक्रा पारिदिने आगोमा फ्याँकिनेछ ।",
+      "transliteration": "Kalla layunbathanna fee alhutamati"
+    },
+    {
+      "id": 5,
+      "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ",
+      "translation": "र तिमीलाई के थाह कि यस्तो (आगो) हुतमह के हो ?",
+      "transliteration": "Wama adraka ma alhutamatu"
+    },
+    {
+      "id": 6,
+      "text": "نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ",
+      "translation": "त्यो अल्लाहद्वारा प्रज्वलित आगो हो ।",
+      "transliteration": "Naru Allahi almooqadatu"
+    },
+    {
+      "id": 7,
+      "text": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ",
+      "translation": "जो छातीमाथि चढ्दै जानेछ ।",
+      "transliteration": "Allatee tattaliAAu AAala alafidati"
+    },
+    {
+      "id": 8,
+      "text": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ",
+      "translation": "र (त्यो आगो) उनीमाथि,सबै दिशाबाट बन्द हुन्छ ।",
+      "transliteration": "lnnaha AAalayhim musadatun"
+    },
+    {
+      "id": 9,
+      "text": "فِي عَمَدٖ مُّمَدَّدَةِۭ",
+      "translation": "ठूलाठूला स्तम्भहरूमा ।",
+      "transliteration": "Fee AAamadin mumaddadatin"
+    }
+  ]
+}

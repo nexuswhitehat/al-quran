@@ -1,0 +1,250 @@
+{
+  "id": 75,
+  "name": "القيامة",
+  "transliteration": "Al-Qiyamah",
+  "translation": "The Resurrection",
+  "type": "meccan",
+  "total_verses": 40,
+  "verses": [
+    {
+      "id": 1,
+      "text": "لَآ أُقۡسِمُ بِيَوۡمِ ٱلۡقِيَٰمَةِ",
+      "translation": "मैं क़सम खाता हूँ क़ियामत के दिन की।",
+      "transliteration": "La oqsimu biyawmi alqiyamati"
+    },
+    {
+      "id": 2,
+      "text": "وَلَآ أُقۡسِمُ بِٱلنَّفۡسِ ٱللَّوَّامَةِ",
+      "translation": "तथा मैं क़सम खाता हूँ निंदा करने वाली अंतरात्मा की।",
+      "transliteration": "Wala oqsimu bialnnafsi allawwamati"
+    },
+    {
+      "id": 3,
+      "text": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَلَّن نَّجۡمَعَ عِظَامَهُۥ",
+      "translation": "क्या इनसान समझता है कि हम कभी उसकी हड्डियों को एकत्र नहीं करेंगे?",
+      "transliteration": "Ayahsabu alinsanu allan najmaAAa AAithamahu"
+    },
+    {
+      "id": 4,
+      "text": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّيَ بَنَانَهُۥ",
+      "translation": "क्यों नहीं? हम इस बता का भी सामर्थ्य रखते हैं कि उसकी उंगलियों की पोर-पोर सीधी कर दें।",
+      "transliteration": "Bala qadireena AAala an nusawwiya bananahu"
+    },
+    {
+      "id": 5,
+      "text": "بَلۡ يُرِيدُ ٱلۡإِنسَٰنُ لِيَفۡجُرَ أَمَامَهُۥ",
+      "translation": "बल्कि मनुष्य चाहता है कि अपने आगे भी गुनाह करता रहे।",
+      "transliteration": "Bal yureedu alinsanu liyafjura amamahu"
+    },
+    {
+      "id": 6,
+      "text": "يَسۡـَٔلُ أَيَّانَ يَوۡمُ ٱلۡقِيَٰمَةِ",
+      "translation": "वह पूछता है कि क़ियामत का दिन कब होगा?",
+      "transliteration": "Yasalu ayyana yawmu alqiyamati"
+    },
+    {
+      "id": 7,
+      "text": "فَإِذَا بَرِقَ ٱلۡبَصَرُ",
+      "translation": "तो जब आँख चौंधिया जाएगी।",
+      "transliteration": "Faitha bariqa albasaru"
+    },
+    {
+      "id": 8,
+      "text": "وَخَسَفَ ٱلۡقَمَرُ",
+      "translation": "और चाँद को ग्रहण लग जाएगा।",
+      "transliteration": "Wakhasafa alqamaru"
+    },
+    {
+      "id": 9,
+      "text": "وَجُمِعَ ٱلشَّمۡسُ وَٱلۡقَمَرُ",
+      "translation": "और सूर्य और चाँद एकत्र कर दिए जाएँगे।",
+      "transliteration": "WajumiAAa alshshamsu waalqamaru"
+    },
+    {
+      "id": 10,
+      "text": "يَقُولُ ٱلۡإِنسَٰنُ يَوۡمَئِذٍ أَيۡنَ ٱلۡمَفَرُّ",
+      "translation": "उस दिन मनुष्य कहेगा कि भागने का स्थान कहाँ है?",
+      "transliteration": "Yaqoolu alinsanu yawmaithin ayna almafarru"
+    },
+    {
+      "id": 11,
+      "text": "كَلَّا لَا وَزَرَ",
+      "translation": "कदापि नहीं, शरण लेने का स्थान कोई नहीं।",
+      "transliteration": "Kalla la wazara"
+    },
+    {
+      "id": 12,
+      "text": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمُسۡتَقَرُّ",
+      "translation": "उस दिन तेरे पालनहार ही की ओर लौटकर जाना है।",
+      "transliteration": "Ila rabbika yawmaithin almustaqarru"
+    },
+    {
+      "id": 13,
+      "text": "يُنَبَّؤُاْ ٱلۡإِنسَٰنُ يَوۡمَئِذِۭ بِمَا قَدَّمَ وَأَخَّرَ",
+      "translation": "उस दिन इनसान को बताया जाएगा जो उसने आगे भेजा और जो पीछे छोड़ा।",
+      "transliteration": "Yunabbao alinsanu yawmaithin bima qaddama waakhkhara"
+    },
+    {
+      "id": 14,
+      "text": "بَلِ ٱلۡإِنسَٰنُ عَلَىٰ نَفۡسِهِۦ بَصِيرَةٞ",
+      "translation": "बल्कि इनसान स्वयं अपने विरुद्ध गवाह है।",
+      "transliteration": "Bali alinsanu AAala nafsihi baseeratun"
+    },
+    {
+      "id": 15,
+      "text": "وَلَوۡ أَلۡقَىٰ مَعَاذِيرَهُۥ",
+      "translation": "अगरचे वह अपने बहाने पेश करे।",
+      "transliteration": "Walaw alqa maAAatheerahu"
+    },
+    {
+      "id": 16,
+      "text": "لَا تُحَرِّكۡ بِهِۦ لِسَانَكَ لِتَعۡجَلَ بِهِۦٓ",
+      "translation": "(ऐ नबी!) आप इसके साथ अपनी ज़ुबान न हिलाएँ, ताकि इसे शीघ्र याद कर लें।",
+      "transliteration": "La tuharrik bihi lisanaka litaAAjala bihi"
+    },
+    {
+      "id": 17,
+      "text": "إِنَّ عَلَيۡنَا جَمۡعَهُۥ وَقُرۡءَانَهُۥ",
+      "translation": "निःसंदेह उसको एकत्र करना और (आपका) उसे पढ़ना हमारे ज़िम्मे है।",
+      "transliteration": "Inna AAalayna jamAAahu waquranahu"
+    },
+    {
+      "id": 18,
+      "text": "فَإِذَا قَرَأۡنَٰهُ فَٱتَّبِعۡ قُرۡءَانَهُۥ",
+      "translation": "अतः जब हम उसे पढ़ लें, तो आप उसके पठन का अनुसरण करें।",
+      "transliteration": "Faitha qaranahu faittabiAA quranahu"
+    },
+    {
+      "id": 19,
+      "text": "ثُمَّ إِنَّ عَلَيۡنَا بَيَانَهُۥ",
+      "translation": "फिर निःसंदेह उसे स्पषट करना हमारे ही ज़िम्मे है।",
+      "transliteration": "Thumma inna AAalayna bayanahu"
+    },
+    {
+      "id": 20,
+      "text": "كَلَّا بَلۡ تُحِبُّونَ ٱلۡعَاجِلَةَ",
+      "translation": "कदापि नहीं, बल्कि तुम शीघ्र प्राप्त होने वाली चीज़ (संसार) से प्रेम करते हो।",
+      "transliteration": "Kalla bal tuhibboona alAAajilata"
+    },
+    {
+      "id": 21,
+      "text": "وَتَذَرُونَ ٱلۡأٓخِرَةَ",
+      "translation": "और बाद में आने वाली (आख़िरत) को छोड़ देते हो।",
+      "transliteration": "Watatharoona alakhirata"
+    },
+    {
+      "id": 22,
+      "text": "وُجُوهٞ يَوۡمَئِذٖ نَّاضِرَةٌ",
+      "translation": "उस दिन कई चेहरे तरो-ताज़ा होंगे।",
+      "transliteration": "Wujoohun yawmaithin nadiratun"
+    },
+    {
+      "id": 23,
+      "text": "إِلَىٰ رَبِّهَا نَاظِرَةٞ",
+      "translation": "अपने पालनहार की ओर देख रहे होंगे।",
+      "transliteration": "Ila rabbiha nathiratun"
+    },
+    {
+      "id": 24,
+      "text": "وَوُجُوهٞ يَوۡمَئِذِۭ بَاسِرَةٞ",
+      "translation": "और कई चेहरे उस दिन बिगड़े हुए होंगे।",
+      "transliteration": "Wawujoohun yawmaithin basiratun"
+    },
+    {
+      "id": 25,
+      "text": "تَظُنُّ أَن يُفۡعَلَ بِهَا فَاقِرَةٞ",
+      "translation": "उन्हें विश्वास होगा कि उनके साथ कमड़ तोड़ देने वाली सख्ती की जाएगी।",
+      "transliteration": "Tathunnu an yufAAala biha faqiratun"
+    },
+    {
+      "id": 26,
+      "text": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِيَ",
+      "translation": "कदापि नहीं, जब प्राण हँसलियों तक पहुँच जाएगा।",
+      "transliteration": "Kalla itha balaghati alttaraqiya"
+    },
+    {
+      "id": 27,
+      "text": "وَقِيلَ مَنۡۜ رَاقٖ",
+      "translation": "और कहा जाएगा : कौन है झाड़-फूँक करने वाला?",
+      "transliteration": "Waqeela man raqin"
+    },
+    {
+      "id": 28,
+      "text": "وَظَنَّ أَنَّهُ ٱلۡفِرَاقُ",
+      "translation": "और उसे विश्वास हो जाएगा कि यह (संसार से) जुदाई का समय है।",
+      "transliteration": "Wathanna annahu alfiraqu"
+    },
+    {
+      "id": 29,
+      "text": "وَٱلۡتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "translation": "और पिंडली, पिंडली के साथ लिपट जाएगी।",
+      "transliteration": "Wailtaffati alssaqu bialssaqi"
+    },
+    {
+      "id": 30,
+      "text": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمَسَاقُ",
+      "translation": "उस दिन तेरे पालनहार ही की ओर जाना है।",
+      "transliteration": "Ila rabbika yawmaithin almasaqu"
+    },
+    {
+      "id": 31,
+      "text": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "translation": "तो न उसने (सत्य को) माना और न नमाज़ पढ़ी।",
+      "transliteration": "Fala saddaqa wala salla"
+    },
+    {
+      "id": 32,
+      "text": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ",
+      "translation": "लेकिन उसने झुठलाया तथा मुँह फेरा।",
+      "transliteration": "Walakin kaththaba watawalla"
+    },
+    {
+      "id": 33,
+      "text": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهۡلِهِۦ يَتَمَطَّىٰٓ",
+      "translation": "फिर अकड़ता हुआ अपने परिजनों की ओर गया।",
+      "transliteration": "Thumma thahaba ila ahlihi yatamatta"
+    },
+    {
+      "id": 34,
+      "text": "أَوۡلَىٰ لَكَ فَأَوۡلَىٰ",
+      "translation": "तेरे लिए विनाश है, फिर तेरे लिए बर्बादी है।",
+      "transliteration": "Awla laka faawla"
+    },
+    {
+      "id": 35,
+      "text": "ثُمَّ أَوۡلَىٰ لَكَ فَأَوۡلَىٰٓ",
+      "translation": "फिर तेरे लिए विनाश है, फिर तेरे लिए बर्बादी है।",
+      "transliteration": "Thumma awla laka faawla"
+    },
+    {
+      "id": 36,
+      "text": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَن يُتۡرَكَ سُدًى",
+      "translation": "क्या इनसान समझता है कि उसे यूँ ही बेकार छोड़ दिया जायेगा?",
+      "transliteration": "Ayahsabu alinsanu an yutraka sudan"
+    },
+    {
+      "id": 37,
+      "text": "أَلَمۡ يَكُ نُطۡفَةٗ مِّن مَّنِيّٖ يُمۡنَىٰ",
+      "translation": "क्या वह वीर्य की एक बूंद नहीं था, जो (गर्भाशय में) गिराई जाती है?",
+      "transliteration": "Alam yaku nutfatan min manayyin yumna"
+    },
+    {
+      "id": 38,
+      "text": "ثُمَّ كَانَ عَلَقَةٗ فَخَلَقَ فَسَوَّىٰ",
+      "translation": "फिर वह जमे हुए रक्त का टुकड़ा हुआ, फिर अल्लाह ने पैदा किया और दुरुस्त बनाया।",
+      "transliteration": "Thumma kana AAalaqatan fakhalaqa fasawwa"
+    },
+    {
+      "id": 39,
+      "text": "فَجَعَلَ مِنۡهُ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
+      "translation": "फिर उसने उससे दो प्रकार : नर और मादा बनाए।",
+      "transliteration": "FajaAAala minhu alzzawjayni alththakara waalontha"
+    },
+    {
+      "id": 40,
+      "text": "أَلَيۡسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحۡـِۧيَ ٱلۡمَوۡتَىٰ",
+      "translation": "क्या वह इसमें समर्थ नहीं कि मुर्दों को जीवित कर दे?",
+      "transliteration": "Alaysa thalika biqadirin AAala an yuhyiya almawta"
+    }
+  ]
+}

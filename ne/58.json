@@ -1,0 +1,142 @@
+{
+  "id": 58,
+  "name": "المجادلة",
+  "transliteration": "Al-Mujadila",
+  "translation": "The Pleading Woman",
+  "type": "medinan",
+  "total_verses": 22,
+  "verses": [
+    {
+      "id": 1,
+      "text": "قَدۡ سَمِعَ ٱللَّهُ قَوۡلَ ٱلَّتِي تُجَٰدِلُكَ فِي زَوۡجِهَا وَتَشۡتَكِيٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسۡمَعُ تَحَاوُرَكُمَآۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٌ",
+      "translation": "(हे पैगम्बर !) अल्लाहले त्यस स्त्रीको कुरा सुन्यो, जसले आफ्नो पतिको विषयमा तपाईसित विवाद गरिराखेकी थिई र अल्लाहसित गुनासो गरिाखेकी थिई । अल्लाहले तिमी दुवैको प्रश्नोत्तर सुनिराखेको थियो । निश्चय नै अल्लाह सबै कुरा सुन्नेवाला, देख्नेवाला छ ।",
+      "transliteration": "Qad samiAAa Allahu qawla allatee tujadiluka fee zawjiha watashtakee ila Allahi waAllahu yasmaAAu tahawurakuma inna Allaha sameeAAun baseerun"
+    },
+    {
+      "id": 2,
+      "text": "ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمۡۖ إِنۡ أُمَّهَٰتُهُمۡ إِلَّا ٱلَّـٰٓـِٔي وَلَدۡنَهُمۡۚ وَإِنَّهُمۡ لَيَقُولُونَ مُنكَرٗا مِّنَ ٱلۡقَوۡلِ وَزُورٗاۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٞ",
+      "translation": "तिमीहरूमध्ये जसले आफ्ना स्त्रीहरूसंग जिहार गर्दछन् (अर्थात उनीहरूलाई आमा भनिहाल्छन्) तिनीहरू उनीहरूकी वास्तविक आमा भइहाल्दैनन् । उनीहरूकी आमा त ती नै हुन् जसको पेटबाट उनीहरू जन्मेका छन् । निश्चय नै उनीहरू एउटा अनुचित र असत्य कुरा भन्दछन् (र) अल्लाह धेरै दया गर्नेवाला र क्षमाशील छ ।",
+      "transliteration": "Allatheena yuthahiroona minkum min nisaihim ma hunna ommahatihim in ommahatuhum illa allaee waladnahum wainnahum layaqooloona munkaran mina alqawli wazooran wainna Allaha laAAafuwwun ghafoorun"
+    },
+    {
+      "id": 3,
+      "text": "وَٱلَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمۡ ثُمَّ يَعُودُونَ لِمَا قَالُواْ فَتَحۡرِيرُ رَقَبَةٖ مِّن قَبۡلِ أَن يَتَمَآسَّاۚ ذَٰلِكُمۡ تُوعَظُونَ بِهِۦۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
+      "translation": "जसले आफ्नो स्त्रीहरूलाई आमा भनिहाल्दछन्, अनि आफ्नो भनाईतिर पश्चाताप गर्छन् भने उनीहरू पुनः सहवास गर्नुभन्दा पहिला एउटा दास मुक्त गर्नु अनिवार्य छ । यसबाट तिमीलाई उपदेश गरिन्छ र तिमीले जे गर्दछौ, अल्लाहलाई सबै थाहा छ ।",
+      "transliteration": "Waallatheena yuthahiroona min nisaihim thumma yaAAoodoona lima qaloo fatahreeru raqabatin min qabli an yatamassa thalikum tooAAathoona bihi waAllahu bima taAAmaloona khabeerun"
+    },
+    {
+      "id": 4,
+      "text": "فَمَن لَّمۡ يَجِدۡ فَصِيَامُ شَهۡرَيۡنِ مُتَتَابِعَيۡنِ مِن قَبۡلِ أَن يَتَمَآسَّاۖ فَمَن لَّمۡ يَسۡتَطِعۡ فَإِطۡعَامُ سِتِّينَ مِسۡكِينٗاۚ ذَٰلِكَ لِتُؤۡمِنُواْ بِٱللَّهِ وَرَسُولِهِۦۚ وَتِلۡكَ حُدُودُ ٱللَّهِۗ وَلِلۡكَٰفِرِينَ عَذَابٌ أَلِيمٌ",
+      "translation": "हो, जसलाई दास प्राप्त हुँदैन, त्यसले सहवासभन्दा पहिला निरन्तर दुई महिनासम्म व्रत बसोस् र जसलाई यसको पनि सामथ्र्य छैन त, त्यसले साठी (गरिब) पराश्रितहरूलाई भोजन गराओस् । यो यसकारण हो ताकि तिमी अल्लाह र उसको रसूलको आज्ञाकारी बन । यी अल्लाहद्वारा निर्धारित सीमाहरू हुन् र नमान्नेहरूको निम्ति कष्टदायक यातना छ ।",
+      "transliteration": "Faman lam yajid fasiyamu shahrayni mutatabiAAayni min qabli an yatamassa faman lam yastatiAA faitAAamu sitteena miskeenan thalika lituminoo biAllahi warasoolihi watilka hudoodu Allahi walilkafireena AAathabun aleemun"
+    },
+    {
+      "id": 5,
+      "text": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥ كُبِتُواْ كَمَا كُبِتَ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ وَقَدۡ أَنزَلۡنَآ ءَايَٰتِۭ بَيِّنَٰتٖۚ وَلِلۡكَٰفِرِينَ عَذَابٞ مُّهِينٞ",
+      "translation": "निःसंदेह जुन मानिसहरूले अल्लाह र उसको रसूलको विरोध गर्दछन्, उनीहरू अपमानित गरिनेछन्, जुन तरिकाले कि उनीभन्दा पहिला अपमानित गरिएका थिए, र हामीले स्पष्ट र खुल्ला आयतहरू अवतरित गरिदिएका छौं । र जसले मान्दैनन् उनीहरूलाई अपमानजनक यातना छ ।",
+      "transliteration": "Inna allatheena yuhaddoona Allaha warasoolahu kubitoo kama kubita allatheena min qablihim waqad anzalna ayatin bayyinatin walilkafireena AAathabun muheenun"
+    },
+    {
+      "id": 6,
+      "text": "يَوۡمَ يَبۡعَثُهُمُ ٱللَّهُ جَمِيعٗا فَيُنَبِّئُهُم بِمَا عَمِلُوٓاْۚ أَحۡصَىٰهُ ٱللَّهُ وَنَسُوهُۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
+      "translation": "जुन दिन अल्लाहले उनीहरूलाई उठाउनेछ फेरि जुन काम उनीहरूले गर्दथे त्यसबाट उनीहरूलाई अवगत गराउनेछ । अल्लाहले ती सबैलाई गिनिराखको छ जुन यिनीहरूले बिर्सिसकेछन् र अल्लाह प्रत्येक कुरा जान्दछ ।",
+      "transliteration": "Yawma yabAAathuhumu Allahu jameeAAan fayunabbiohum bima AAamiloo ahsahu Allahu wanasoohu waAllahu AAala kulli shayin shaheedun"
+    },
+    {
+      "id": 7,
+      "text": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ مَا يَكُونُ مِن نَّجۡوَىٰ ثَلَٰثَةٍ إِلَّا هُوَ رَابِعُهُمۡ وَلَا خَمۡسَةٍ إِلَّا هُوَ سَادِسُهُمۡ وَلَآ أَدۡنَىٰ مِن ذَٰلِكَ وَلَآ أَكۡثَرَ إِلَّا هُوَ مَعَهُمۡ أَيۡنَ مَا كَانُواْۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُواْ يَوۡمَ ٱلۡقِيَٰمَةِۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٌ",
+      "translation": "के तिमीलाई थाहा छैन कि जे–जति आकाशहरूमा छ र जे–जति धरतीमा छ, अल्लाहलाई सबै थाहा छ । कुनै पनि तीनजना मानिसहरूको गुप्त वार्ता यस्तो हुँदैन जसमा चौथो अल्लाह नहोस् र न पाँचजना मानिसहरूको हुन्छ, जसमा छैठौं त्यो नहोस् । न यसभन्दा कमको न यसभन्दा बढिको किन्तु त्यो उनीहरूको साथमा हुन्छ, तिनीहरू जहाँ भएपनि, अनि जे–जति पनि उनीहरूले गरेका होलान्, प्रलयको दिन उसले उनीहरूलाई उनको कार्यबाट अवगत गराइहाल्नेछ । निश्चय नै अल्लाहलाई हरेक कुराको ज्ञान छ ।",
+      "transliteration": "Alam tara anna Allaha yaAAlamu ma fee alssamawati wama fee alardi ma yakoonu min najwa thalathatin illa huwa rabiAAuhum wala khamsatin illa huwa sadisuhum wala adna min thalika wala akthara illa huwa maAAahum ayna ma kanoo thumma yunabbiohum bima AAamiloo yawma alqiyamati inna Allaha bikulli shayin AAaleemun"
+    },
+    {
+      "id": 8,
+      "text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ نُهُواْ عَنِ ٱلنَّجۡوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُواْ عَنۡهُ وَيَتَنَٰجَوۡنَ بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَمَعۡصِيَتِ ٱلرَّسُولِۖ وَإِذَا جَآءُوكَ حَيَّوۡكَ بِمَا لَمۡ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِيٓ أَنفُسِهِمۡ لَوۡلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُۚ حَسۡبُهُمۡ جَهَنَّمُ يَصۡلَوۡنَهَاۖ فَبِئۡسَ ٱلۡمَصِيرُ",
+      "translation": "के तिमीले उनीहरूलाई देखेनौ ? जसलाई कानेखुसी गर्नुबाट मनाही गरिएको थियो । तैपनि उनीहरूले त्यो मनाही गरिएको कार्य गर्न थाले र परस्परमा पापको, अत्याचारको र रसूलको अवज्ञाको कानेखुसी गर्दछन् र जब तिम्रो नजिकमा आउँदछन्, त तिमीलाई ती शब्दमा सलाम गर्दछन् । जुन शब्द अल्लाहले तिम्रो अभिवादनको लागि भनेन, र आफ्नो मनमा भन्दछन् कि जे–जति हामीले भन्दछौं, त्यसमा अल्लाहले हामीलाई सजाय किन दिंदैन ? उनीहरूको निम्ति नर्क नै पर्याप्त सजाय हो, जसमा उनीहरू प्रविष्ट हुनेछन् । त्यो त साह्रै नराम्रो ठाउँ हो ।",
+      "transliteration": "Alam tara ila allatheena nuhoo AAani alnnajwa thumma yaAAoodoona lima nuhoo AAanhu wayatanajawna bialithmi waalAAudwani wamaAAsiyati alrrasooli waitha jaooka hayyawka bima lam yuhayyika bihi Allahu wayaqooloona fee anfusihim lawla yuAAaththibuna Allahu bima naqoolu hasbuhum jahannamu yaslawnaha fabisa almaseeru"
+    },
+    {
+      "id": 9,
+      "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا تَنَٰجَيۡتُمۡ فَلَا تَتَنَٰجَوۡاْ بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَمَعۡصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوۡاْ بِٱلۡبِرِّ وَٱلتَّقۡوَىٰۖ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِيٓ إِلَيۡهِ تُحۡشَرُونَ",
+      "translation": "हे मोमिनहरू ! जब तिमी आपसमा कानेखुसी गर्दछौ त यी कानेखुसीहरू गुनाह र अतिक्रमण र रसूलको अवज्ञाको लागी नहोउन् । बरु नेकी र सहनशीलताको विषयमा आपसमा एकान्तवार्ता गर र त्यस अल्लाहसित डर मानिराख जसको नजिक तिमी एकत्रित हुनेछौ ।",
+      "transliteration": "Ya ayyuha allatheena amanoo itha tanajaytum fala tatanajaw bialithmi waalAAudwani wamaAAsiyati alrrasooli watanajaw bialbirri waalttaqwa waittaqoo Allaha allathee ilayhi tuhsharoona"
+    },
+    {
+      "id": 10,
+      "text": "إِنَّمَا ٱلنَّجۡوَىٰ مِنَ ٱلشَّيۡطَٰنِ لِيَحۡزُنَ ٱلَّذِينَ ءَامَنُواْ وَلَيۡسَ بِضَآرِّهِمۡ شَيۡـًٔا إِلَّا بِإِذۡنِ ٱللَّهِۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ",
+      "translation": "नराम्रा कानेखुसीहरू त शैतानको काम हो । ताकि यसबाट मोमिनहरू दुःखी होउन्, यद्यपि अल्लाहको आदेश बिना उसले उनीहरूलाई केही हानि पुर्याउन सक्दैन । र आस्थावानहरूले अल्लाहमाथि नै भरोसा गर्नु उचित हो ।",
+      "transliteration": "Innama alnnajwa mina alshshaytani liyahzuna allatheena amanoo walaysa bidarrihim shayan illa biithni Allahi waAAala Allahi falyatawakkali almuminoona"
+    },
+    {
+      "id": 11,
+      "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا قِيلَ لَكُمۡ تَفَسَّحُواْ فِي ٱلۡمَجَٰلِسِ فَٱفۡسَحُواْ يَفۡسَحِ ٱللَّهُ لَكُمۡۖ وَإِذَا قِيلَ ٱنشُزُواْ فَٱنشُزُواْ يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتٖۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
+      "translation": "आस्थावानहरू ! जब तिमीहरूलाई भनिन्छ कि सभामा ठाउँ फराकिलो पार त फराकिलो गरी बस । अल्लाहले तिमीलाई फराकिलोपना प्रदान गर्नेछ र जब भनिन्छ कि उभिहाल्नु त उभिहाल । तिमीहरूमध्ये जसले ईमान ल्याएका छन् र जसलाई ज्ञान प्रदान गरिएको छ, अल्लाहले उनीहरूको दर्जा उच्च गर्नेछ, र अल्लाह तिम्रो सम्पूर्ण कामहरूलाई जान्दछ ।",
+      "transliteration": "Ya ayyuha allatheena amanoo itha qeela lakum tafassahoo fee almajalisi faifsahoo yafsahi Allahu lakum waitha qeela onshuzoo faonshuzoo yarfaAAi Allahu allatheena amanoo minkum waallatheena ootoo alAAilma darajatin waAllahu bima taAAmaloona khabeerun"
+    },
+    {
+      "id": 12,
+      "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَٰجَيۡتُمُ ٱلرَّسُولَ فَقَدِّمُواْ بَيۡنَ يَدَيۡ نَجۡوَىٰكُمۡ صَدَقَةٗۚ ذَٰلِكَ خَيۡرٞ لَّكُمۡ وَأَطۡهَرُۚ فَإِن لَّمۡ تَجِدُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
+      "translation": "हे मोमिनहरू ! जब तिमीले पैगम्बरको कानमा कुनै कुरा भन्न चाहन्छौ त त्यस कुरालाई भन्नुभन्दा पहिला केही दान गर्नेगर । यो तिम्रो निम्ति धेरै राम्रो र पवित्रताको कुरा हो र यदि दानको सामथ्र्य छैन भने त अल्लाह क्षमाशील र कृपालु छ ।",
+      "transliteration": "Ya ayyuha allatheena amanoo itha najaytumu alrrasoola faqaddimoo bayna yaday najwakum sadaqatan thalika khayrun lakum waatharu fain lam tajidoo fainna Allaha ghafoorun raheemun"
+    },
+    {
+      "id": 13,
+      "text": "ءَأَشۡفَقۡتُمۡ أَن تُقَدِّمُواْ بَيۡنَ يَدَيۡ نَجۡوَىٰكُمۡ صَدَقَٰتٖۚ فَإِذۡ لَمۡ تَفۡعَلُواْ وَتَابَ ٱللَّهُ عَلَيۡكُمۡ فَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥۚ وَٱللَّهُ خَبِيرُۢ بِمَا تَعۡمَلُونَ",
+      "translation": "के तिमी आफ्नो गुप्तवार्ताभन्दा अघि दान दिनुबाट तर्सिहाल्यौ ? अनि जब तिमीले यस्तो गरेनौ र अल्लाहले तिमीलाई क्षमा गरिदियो त नमाज पढ्ने गर र जकात (धर्मदाय) दिंदैगर र अल्लाह र उसको रसूलको आज्ञापालन गर्नेगर । र जे–जति तिमीले गर्दछौ, अल्लाहलाई त्यो सबै थाहा छ ।",
+      "transliteration": "Aashfaqtum an tuqaddimoo bayna yaday najwakum sadaqatin faith lam tafAAaloo wataba Allahu AAalaykum faaqeemoo alssalata waatoo alzzakata waateeAAoo Allaha warasoolahu waAllahu khabeerun bima taAAmaloona"
+    },
+    {
+      "id": 14,
+      "text": "۞أَلَمۡ تَرَ إِلَى ٱلَّذِينَ تَوَلَّوۡاْ قَوۡمًا غَضِبَ ٱللَّهُ عَلَيۡهِم مَّا هُم مِّنكُمۡ وَلَا مِنۡهُمۡ وَيَحۡلِفُونَ عَلَى ٱلۡكَذِبِ وَهُمۡ يَعۡلَمُونَ",
+      "translation": "के तिमीले ती मानिसहरूलाई देखेनौ ? जसले यस्ता मानिसहरूसित मित्रता गरे जसमाथि अल्लाहको प्रकोप भएको छ ? ती कपटीहरू न तिमीमध्येका हुन र न उनीहरूमध्येका, र उनीहरू जानी–जानी झूठो कुराको कसम खान्छन् ।",
+      "transliteration": "Alam tara ila allatheena tawallaw qawman ghadiba Allahu AAalayhim ma hum minkum wala minhum wayahlifoona AAala alkathibi wahum yaAAlamoona"
+    },
+    {
+      "id": 15,
+      "text": "أَعَدَّ ٱللَّهُ لَهُمۡ عَذَابٗا شَدِيدًاۖ إِنَّهُمۡ سَآءَ مَا كَانُواْ يَعۡمَلُونَ",
+      "translation": "अल्लाहले उनीहरूको निम्ति कठोर यातना तयार गरिसकेको छ । निश्चय नै उनीहरूले जे गरिराखेका छन् त्यो नराम्रो हो ।",
+      "transliteration": "aAAadda Allahu lahum AAathaban shadeedan innahum saa ma kanoo yaAAmaloona"
+    },
+    {
+      "id": 16,
+      "text": "ٱتَّخَذُوٓاْ أَيۡمَٰنَهُمۡ جُنَّةٗ فَصَدُّواْ عَن سَبِيلِ ٱللَّهِ فَلَهُمۡ عَذَابٞ مُّهِينٞ",
+      "translation": "उनीहरूले आफ्ना कसमहरूलाई सुरक्षा कवच बनाइराखेका छन् । अतः उनीहरू अल्लाहको मार्गबाट मानिसहरूलाई रोक्दछन् । तसर्थ उनीहरूका निमित्त तिरस्कारपूर्ण यातना छ ।",
+      "transliteration": "Ittakhathoo aymanahum junnatan fasaddoo AAan sabeeli Allahi falahum AAathabun muheenun"
+    },
+    {
+      "id": 17,
+      "text": "لَّن تُغۡنِيَ عَنۡهُمۡ أَمۡوَٰلُهُمۡ وَلَآ أَوۡلَٰدُهُم مِّنَ ٱللَّهِ شَيۡـًٔاۚ أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+      "translation": "अल्लाह को यातनाबाट बचाउनको निम्ति न उनीहरूको धन सम्पत्ति उनीहरूको काम आउनेछ र न उनीहरूका सन्तान । उनीहरू नर्कबासी हुन् । त्यसैमा उनीहरू सधै रहनेछन् ।",
+      "transliteration": "Lan tughniya AAanhum amwaluhum wala awladuhum mina Allahi shayan olaika ashabu alnnari hum feeha khalidoona"
+    },
+    {
+      "id": 18,
+      "text": "يَوۡمَ يَبۡعَثُهُمُ ٱللَّهُ جَمِيعٗا فَيَحۡلِفُونَ لَهُۥ كَمَا يَحۡلِفُونَ لَكُمۡ وَيَحۡسَبُونَ أَنَّهُمۡ عَلَىٰ شَيۡءٍۚ أَلَآ إِنَّهُمۡ هُمُ ٱلۡكَٰذِبُونَ",
+      "translation": "जुन दिन अल्लाहले ती सबैलाई जीवित पारी उठाउनेछ त उनीहरूले उसको सामु पनि यस्तै प्रकारले कसम खानेछन्, जुन प्रकारले तिम्रो अगाडि कसम खान्छन् र ठान्छन् कि उनीहरू पनि कुनै आधारमा छन् । हेर, निश्चय नै तिनीहरू नै झूठा हुन् ।",
+      "transliteration": "Yawma yabAAathuhumu Allahu jameeAAan fayahlifoona lahu kama yahlifoona lakum wayahsaboona annahum AAala shayin ala innahum humu alkathiboona"
+    },
+    {
+      "id": 19,
+      "text": "ٱسۡتَحۡوَذَ عَلَيۡهِمُ ٱلشَّيۡطَٰنُ فَأَنسَىٰهُمۡ ذِكۡرَ ٱللَّهِۚ أُوْلَـٰٓئِكَ حِزۡبُ ٱلشَّيۡطَٰنِۚ أَلَآ إِنَّ حِزۡبَ ٱلشَّيۡطَٰنِ هُمُ ٱلۡخَٰسِرُونَ",
+      "translation": "शैतानले उनीहरूलाई नियन्त्रणमा लिइसकेको छ । अतः उसले अल्लाहको स्मरणलाई उनीहरूबाट बिर्साइसकेको छ । यिनीहरू शैतानको समूह हुन् यसमा शंका छैन कि शैतानको समूह नै घाटामा पर्नेवाला छ ।",
+      "transliteration": "Istahwatha AAalayhimu alshshaytanu faansahum thikra Allahi olaika hizbu alshshaytani ala inna hizba alshshaytani humu alkhasiroona"
+    },
+    {
+      "id": 20,
+      "text": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥٓ أُوْلَـٰٓئِكَ فِي ٱلۡأَذَلِّينَ",
+      "translation": "निःसंदेह जसले अल्लाह र उसको रसूलको विरोध गर्दछन्, उनीहरू सबभन्दा बढी अपमानितहरूमध्येका हुन् ।",
+      "transliteration": "Inna allatheena yuhaddoona Allaha warasoolahu olaika fee alathalleena"
+    },
+    {
+      "id": 21,
+      "text": "كَتَبَ ٱللَّهُ لَأَغۡلِبَنَّ أَنَا۠ وَرُسُلِيٓۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ",
+      "translation": "अल्लाहले लेखिसकेको छ कि निःसंदेह म र मेरा रसूल नै विजयी रहनेछौं । निःसन्देह अल्लाह शक्तिमान र अधिपत्यशाली छ ।",
+      "transliteration": "Kataba Allahu laaghlibanna ana warusulee inna Allaha qawiyyun AAazeezun"
+    },
+    {
+      "id": 22,
+      "text": "لَّا تَجِدُ قَوۡمٗا يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ يُوَآدُّونَ مَنۡ حَآدَّ ٱللَّهَ وَرَسُولَهُۥ وَلَوۡ كَانُوٓاْ ءَابَآءَهُمۡ أَوۡ أَبۡنَآءَهُمۡ أَوۡ إِخۡوَٰنَهُمۡ أَوۡ عَشِيرَتَهُمۡۚ أُوْلَـٰٓئِكَ كَتَبَ فِي قُلُوبِهِمُ ٱلۡإِيمَٰنَ وَأَيَّدَهُم بِرُوحٖ مِّنۡهُۖ وَيُدۡخِلُهُمۡ جَنَّـٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ رَضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ أُوْلَـٰٓئِكَ حِزۡبُ ٱللَّهِۚ أَلَآ إِنَّ حِزۡبَ ٱللَّهِ هُمُ ٱلۡمُفۡلِحُونَ",
+      "translation": "जसले अल्लाह र कियामतको दिनमाथि आस्था राख्दछन्, उनीहरूलाई अल्लाह र उसको रसूलका दुश्मनहरूसित मित्रता गरेको तपाईले पाउनुहुन्न । चाहे उनीहरू तिनीहरूका बाबु वा छोरा वा भाइ वा उनको खलककै मानिसहरू किन नहोउन् । यिनै ती मानिसहरू हुन्, जसको हृदयमा अल्लाहले ईमान लेखिदिएको छ र अदृश्य अनुकम्पाले उनीहरूको सहायता गरेको छ र उसले उनीहरूलाई त्यस्ता स्वर्गहरूमा जसमुनि नहरहरू बगिराखेका छन्, प्रवेश गराउने छ, यिनीहरू सधैं त्यसमा रहनेछन् । अल्लाह उनीहरूसित, र उनीहरू अल्लाहसित खुशी छन् । यही समूह अल्लाहको जमाअत (समूह) हो । र सुनिराख कि अल्लाहकै जमाअत नै सफल समूह हुनेछ ।",
+      "transliteration": "La tajidu qawman yuminoona biAllahi waalyawmi alakhiri yuwaddoona man hadda Allaha warasoolahu walaw kanoo abaahum aw abnaahum aw ikhwanahum aw AAasheeratahum olaika kataba fee quloobihimu aleemana waayyadahum biroohin minhu wayudkhiluhum jannatin tajree min tahtiha alanharu khalideena feeha radiya Allahu AAanhum waradoo AAanhu olaika hizbu Allahi ala inna hizba Allahi humu almuflihoona"
+    }
+  ]
+}

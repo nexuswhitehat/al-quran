@@ -1,0 +1,124 @@
+{
+  "id": 87,
+  "name": "الأعلى",
+  "transliteration": "Al-A'la",
+  "translation": "The Most High",
+  "type": "meccan",
+  "total_verses": 19,
+  "verses": [
+    {
+      "id": 1,
+      "text": "سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى",
+      "translation": "(हे पैगम्बर !) आफ्नो सर्वोच्च पालनकर्ताको नामको गुणगान गर ।",
+      "transliteration": "Sabbihi isma rabbika alaAAla"
+    },
+    {
+      "id": 2,
+      "text": "ٱلَّذِي خَلَقَ فَسَوَّىٰ",
+      "translation": "जसले (मानिसलाई) सृष्टि गर्यो अनि (त्यसका अङ्गहरूलाई) ठीक (क्रम र समानुपातमा) मिलायो ।",
+      "transliteration": "Allathee khalaqa fasawwa"
+    },
+    {
+      "id": 3,
+      "text": "وَٱلَّذِي قَدَّرَ فَهَدَىٰ",
+      "translation": "र जसले ठीक ठाक निर्धारित गर्यो, अनि मार्ग देखायो ।",
+      "transliteration": "Waallathee qaddara fahada"
+    },
+    {
+      "id": 4,
+      "text": "وَٱلَّذِيٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ",
+      "translation": "र जसले वनस्पति उमार्यो ।",
+      "transliteration": "Waallathee akhraja almarAAa"
+    },
+    {
+      "id": 5,
+      "text": "فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ",
+      "translation": "अनि त्यसलाई सुकाएर कालो रङ्गका ठुटाहरू बनाइदियो ।",
+      "transliteration": "FajaAAalahu ghuthaan ahwa"
+    },
+    {
+      "id": 6,
+      "text": "سَنُقۡرِئُكَ فَلَا تَنسَىٰٓ",
+      "translation": "हामीले तिमीलाई पढाइदिनेछौं, अनि तिमी बिर्सने छैनौ ।",
+      "transliteration": "Sanuqrioka fala tansa"
+    },
+    {
+      "id": 7,
+      "text": "إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ",
+      "translation": "तर जे अल्लाह चाहन्छ, ऊ प्रत्यक्ष र परोक्षलाई जान्दछ ।",
+      "transliteration": "Illa ma shaa Allahu innahu yaAAlamu aljahra wama yakhfa"
+    },
+    {
+      "id": 8,
+      "text": "وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ",
+      "translation": "हामीले तपाईको लागि सजिलो गरिदिनेछौं ।",
+      "transliteration": "Wanuyassiruka lilyusra"
+    },
+    {
+      "id": 9,
+      "text": "فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ",
+      "translation": "अतः तपाईले उपदेश गर्दैगर्नुस्, यदि उपदेश लाभप्रद छ ।",
+      "transliteration": "Fathakkir in nafaAAati alththikra"
+    },
+    {
+      "id": 10,
+      "text": "سَيَذَّكَّرُ مَن يَخۡشَىٰ",
+      "translation": "त्यसले उपदेश प्राप्त गरिहाल्छ, जसलाई भय हुनेछ ।",
+      "transliteration": "Sayaththakkaru man yakhsha"
+    },
+    {
+      "id": 11,
+      "text": "وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى",
+      "translation": "हो, दुर्भाग्यवाला त्यसबाट पन्छिनेछ ।",
+      "transliteration": "Wayatajannabuha alashqa"
+    },
+    {
+      "id": 12,
+      "text": "ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ",
+      "translation": "जो ठूलो आगोमा पर्नेछ ।",
+      "transliteration": "Allathee yasla alnnara alkubra"
+    },
+    {
+      "id": 13,
+      "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ",
+      "translation": "अनि त्यसमा न मर्नेछ र न बाँच्नेछ ।",
+      "transliteration": "Thumma la yamootu feeha wala yahya"
+    },
+    {
+      "id": 14,
+      "text": "قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ",
+      "translation": "निःसन्देह त्यो सफल भइहाल्यो जसले आफूलाई शुद्ध पार्यो ।",
+      "transliteration": "Qad aflaha man tazakka"
+    },
+    {
+      "id": 15,
+      "text": "وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ",
+      "translation": "र आफ्नो पालनकर्ताको नामको स्मरण गर्यो र नमाज पढ्यो।",
+      "transliteration": "Wathakara isma rabbihi fasalla"
+    },
+    {
+      "id": 16,
+      "text": "بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+      "translation": "तर तिमीहरूले त सांसारिक भौतिक जीवनलाई प्राथमिकता दिन्छौ ।",
+      "transliteration": "Bal tuthiroona alhayata alddunya"
+    },
+    {
+      "id": 17,
+      "text": "وَٱلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقَىٰٓ",
+      "translation": "जब कि आखिरत धेरै उत्तम र शेष रहनेवाला छ ।",
+      "transliteration": "Waalakhiratu khayrun waabqa"
+    },
+    {
+      "id": 18,
+      "text": "إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ",
+      "translation": "निःसन्देह यही कुरा पहिलाका किताबहरूमा पनि छ ।",
+      "transliteration": "Inna hatha lafee alssuhufi aloola"
+    },
+    {
+      "id": 19,
+      "text": "صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ",
+      "translation": "अर्थात ‘‘इब्राहीम’’ र ‘‘मूसाका’’ किताबहरूमा ।",
+      "transliteration": "Suhufi ibraheema wamoosa"
+    }
+  ]
+}

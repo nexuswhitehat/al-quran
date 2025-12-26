@@ -1,0 +1,40 @@
+{
+  "id": 105,
+  "name": "الفيل",
+  "transliteration": "Al-Fil",
+  "translation": "The Elephant",
+  "type": "meccan",
+  "total_verses": 5,
+  "verses": [
+    {
+      "id": 1,
+      "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ",
+      "translation": "के तिमीले देखेनौ कि तिम्रो पालनकर्ताले हातीवालाहरूसँग के गर्यो ?",
+      "transliteration": "Alam tara kayfa faAAala rabbuka biashabi alfeeli"
+    },
+    {
+      "id": 2,
+      "text": "أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ",
+      "translation": "के उसले उनीहरूको दुष्चक्रलाई व्यर्थ बनाइदिएन ?",
+      "transliteration": "Alam yajAAal kaydahum fee tadleelin"
+    },
+    {
+      "id": 3,
+      "text": "وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ",
+      "translation": "र उनीहरूमाथि समूहका समूह पंक्षीहरू पठाइदियो ।",
+      "transliteration": "Waarsala AAalayhim tayran ababeela"
+    },
+    {
+      "id": 4,
+      "text": "تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ",
+      "translation": "जो उनीहरूलाई माटो र पत्थरको डल्लाले हानिरहेका थिए ।",
+      "transliteration": "Tarmeehim bihijaratin min sijjeelin"
+    },
+    {
+      "id": 5,
+      "text": "فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ",
+      "translation": "जसले उनीहरूलाई चपाइएको (खाएको) भुस जस्तो बनाइदिए ।",
+      "transliteration": "FajaAAalahum kaAAasfin makoolin"
+    }
+  ]
+}

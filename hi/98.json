@@ -1,0 +1,58 @@
+{
+  "id": 98,
+  "name": "البينة",
+  "transliteration": "Al-Bayyinah",
+  "translation": "The Clear Proof",
+  "type": "medinan",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "لَمۡ يَكُنِ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأۡتِيَهُمُ ٱلۡبَيِّنَةُ",
+      "translation": "किताब वालों और मुश्रिकों में से जिन लोगों ने कुफ़्र किया, वे (कुफ़्र से) बाज़ आने वाले नहीं थे, यहाँ तक कि उनके पास खुला प्रमाण आ जाए।",
+      "transliteration": "Lam yakuni allatheena kafaroo min ahli alkitabi waalmushrikeena munfakkeena hatta tatiyahumu albayyinatu"
+    },
+    {
+      "id": 2,
+      "text": "رَسُولٞ مِّنَ ٱللَّهِ يَتۡلُواْ صُحُفٗا مُّطَهَّرَةٗ",
+      "translation": "अल्लाह की ओर से एक रसूल, जो पवित्र ग्रंथ पढ़कर सुनाता है।",
+      "transliteration": "Rasoolun mina Allahi yatloo suhufan mutahharatan"
+    },
+    {
+      "id": 3,
+      "text": "فِيهَا كُتُبٞ قَيِّمَةٞ",
+      "translation": "जिनमें सच्ची ख़बरें और ठीक आदेश अंकित हैं।",
+      "transliteration": "Feeha kutubun qayyimatun"
+    },
+    {
+      "id": 4,
+      "text": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَةُ",
+      "translation": "और जिन्हें किताब दी गई थी, वे अपने पास स्पष्ट प्रमाण आ जाने के बाद ही अलग-अलग हुए।",
+      "transliteration": "Wama tafarraqa allatheena ootoo alkitaba illa min baAAdi ma jaathumu albayyinatu"
+    },
+    {
+      "id": 5,
+      "text": "وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُواْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤۡتُواْ ٱلزَّكَوٰةَۚ وَذَٰلِكَ دِينُ ٱلۡقَيِّمَةِ",
+      "translation": "हालाँकि उन्हें केवल यही आदेश दिया गया था कि वे अल्लाह के लिए धर्म को विशुद्ध करते हुए, एकाग्र होकर, उसकी उपासना करें, तथा नमाज़ अदा करें और ज़कात दें और यही सीधा धर्म है।",
+      "transliteration": "Wama omiroo illa liyaAAbudoo Allaha mukhliseena lahu alddeena hunafaa wayuqeemoo alssalata wayutoo alzzakata wathalika deenu alqayyimati"
+    },
+    {
+      "id": 6,
+      "text": "إِنَّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ فِي نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآۚ أُوْلَـٰٓئِكَ هُمۡ شَرُّ ٱلۡبَرِيَّةِ",
+      "translation": "निःसंदेह किताब वालों और मुश्रिकों में से जो लोग काफ़िर हो गए, वे सदा जहन्नम की आग में रहने वाले हैं, वही लोग सबसे बुरे प्राणी हैं।",
+      "transliteration": "Inna allatheena kafaroo min ahli alkitabi waalmushrikeena fee nari jahannama khalideena feeha olaika hum sharru albariyyati"
+    },
+    {
+      "id": 7,
+      "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ أُوْلَـٰٓئِكَ هُمۡ خَيۡرُ ٱلۡبَرِيَّةِ",
+      "translation": "निःसंदेह जो लोग ईमान लाए और उन्होंने सत्कर्म किए, वही लोग सबसे अच्छे प्राणी हैं।",
+      "transliteration": "Inna allatheena amanoo waAAamiloo alssalihati olaika hum khayru albariyyati"
+    },
+    {
+      "id": 8,
+      "text": "جَزَآؤُهُمۡ عِندَ رَبِّهِمۡ جَنَّـٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۖ رَّضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ ذَٰلِكَ لِمَنۡ خَشِيَ رَبَّهُۥ",
+      "translation": "उनका बदला उनके पालनहार के पास सदा रहने वाले बाग़ हैं, जिनके नीचे से नहरें बहती हैं। वे उनमें सदैव रहने वाले हैं। अल्लाह उनसे प्रसन्न हुआ और वे अल्लाह से प्रसन्न हुए। यह उसके लिए है, जो अपने पालनहार से डर गया।",
+      "transliteration": "Jazaohum AAinda rabbihim jannatu AAadnin tajree min tahtiha alanharu khalideena feeha abadan radiya Allahu AAanhum waradoo AAanhu thalika liman khashiya rabbahu"
+    }
+  ]
+}

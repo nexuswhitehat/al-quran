@@ -1,0 +1,262 @@
+{
+  "id": 80,
+  "name": "عبس",
+  "transliteration": "'Abasa",
+  "translation": "He Frowned",
+  "type": "meccan",
+  "total_verses": 42,
+  "verses": [
+    {
+      "id": 1,
+      "text": "عَبَسَ وَتَوَلَّىٰٓ",
+      "translation": "उसले रूखापनागरेर मुख फर्कायो ।",
+      "transliteration": "AAabasa watawalla"
+    },
+    {
+      "id": 2,
+      "text": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ",
+      "translation": "किनकि उसको पासमा एउटा अन्धो आयो ।",
+      "transliteration": "An jaahu alaAAma"
+    },
+    {
+      "id": 3,
+      "text": "وَمَا يُدۡرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+      "translation": "तिमीलाई के थाह शायद उसको भलो हुनेथियो ।",
+      "transliteration": "Wama yudreeka laAAallahu yazzakka"
+    },
+    {
+      "id": 4,
+      "text": "أَوۡ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكۡرَىٰٓ",
+      "translation": "अथवा उपदेश हासिल गर्दथ्यो र उपदेशबाट उसलाई फाइदा हुन्थ्यो ।",
+      "transliteration": "Aw yaththakkaru fatanfaAAahu alththikra"
+    },
+    {
+      "id": 5,
+      "text": "أَمَّا مَنِ ٱسۡتَغۡنَىٰ",
+      "translation": "तर जो लापरवाही गर्दछ ।",
+      "transliteration": "Amma mani istaghna"
+    },
+    {
+      "id": 6,
+      "text": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+      "translation": "उसैको तर्फ तिमी पूरै ध्यान दिन्छौ ।",
+      "transliteration": "Faanta lahu tasadda"
+    },
+    {
+      "id": 7,
+      "text": "وَمَا عَلَيۡكَ أَلَّا يَزَّكَّىٰ",
+      "translation": "हुन त यदि उसले पवित्रता प्राप्त गरेन भने तिमीलाई कुनै दोष आउँदैन ।",
+      "transliteration": "Wama AAalayka alla yazzakka"
+    },
+    {
+      "id": 8,
+      "text": "وَأَمَّا مَن جَآءَكَ يَسۡعَىٰ",
+      "translation": "र जो तिम्रो पासमा दगुर्दै आयो ।",
+      "transliteration": "Waamma man jaaka yasAAa"
+    },
+    {
+      "id": 9,
+      "text": "وَهُوَ يَخۡشَىٰ",
+      "translation": "र ऊ (अल्लाहसित) डराउँछ पनि ।",
+      "transliteration": "Wahuwa yakhsha"
+    },
+    {
+      "id": 10,
+      "text": "فَأَنتَ عَنۡهُ تَلَهَّىٰ",
+      "translation": "उसलाई तिमीले बेवास्ता गर्दछौ ।",
+      "transliteration": "Faanta AAanhu talahha"
+    },
+    {
+      "id": 11,
+      "text": "كَلَّآ إِنَّهَا تَذۡكِرَةٞ",
+      "translation": "हेर यो ठीक होइन कुरआन उपदेशको चीज हो ।",
+      "transliteration": "Kalla innaha tathkiratun"
+    },
+    {
+      "id": 12,
+      "text": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "translation": "तसर्थ जसले चाहोस् त्यसबाट उपदेश प्राप्त गरोस् ।",
+      "transliteration": "Faman shaa thakarahu"
+    },
+    {
+      "id": 13,
+      "text": "فِي صُحُفٖ مُّكَرَّمَةٖ",
+      "translation": "यो त पवित्र उच्च पंक्तिहरूमा अंकित छ ।",
+      "transliteration": "Fee suhufin mukarramatin"
+    },
+    {
+      "id": 14,
+      "text": "مَّرۡفُوعَةٖ مُّطَهَّرَةِۭ",
+      "translation": "जो उच्च ठाउँमा राखिएको र पवित्र छ ।",
+      "transliteration": "MarfooAAatin mutahharatin"
+    },
+    {
+      "id": 15,
+      "text": "بِأَيۡدِي سَفَرَةٖ",
+      "translation": "यस्ता लेख्नेवालाहरूको हातमा (रहेको) छ ।",
+      "transliteration": "Biaydee safaratin"
+    },
+    {
+      "id": 16,
+      "text": "كِرَامِۭ بَرَرَةٖ",
+      "translation": "जो प्रतिष्ठित र पवित्र छन् ।",
+      "transliteration": "Kiramin bararatin"
+    },
+    {
+      "id": 17,
+      "text": "قُتِلَ ٱلۡإِنسَٰنُ مَآ أَكۡفَرَهُۥ",
+      "translation": "अल्लाहको सजाय, मानिस पनि कति अकृतज्ञ रहेछ ।",
+      "transliteration": "Qutila alinsanu ma akfarahu"
+    },
+    {
+      "id": 18,
+      "text": "مِنۡ أَيِّ شَيۡءٍ خَلَقَهُۥ",
+      "translation": "अल्लाहले उसलाई कुन कुराबाट सृष्टि गर्यो ?",
+      "transliteration": "Min ayyi shayin khalaqahu"
+    },
+    {
+      "id": 19,
+      "text": "مِن نُّطۡفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+      "translation": "वीर्यको एउटा थोपाबाट सृष्टि गर्यो, अनि त्यसलाई राम्रो अन्दाजमा राख्यो ।",
+      "transliteration": "Min nutfatin khalaqahu faqaddarahu"
+    },
+    {
+      "id": 20,
+      "text": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+      "translation": "र उसको निम्ति मार्ग सरल बनाइदियो ।",
+      "transliteration": "Thumma alssabeela yassarahu"
+    },
+    {
+      "id": 21,
+      "text": "ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ",
+      "translation": "अनि उसलाई मृत्यु प्रदान गर्यो अनि कब्रमा (चिहानमा) पुराइदियो ।",
+      "transliteration": "Thumma amatahu faaqbarahu"
+    },
+    {
+      "id": 22,
+      "text": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+      "translation": "फेरि जब चाहन्छ (चिहानबाट) उभ्याइदिनेछ,",
+      "transliteration": "Thumma itha shaa ansharahu"
+    },
+    {
+      "id": 23,
+      "text": "كَلَّا لَمَّا يَقۡضِ مَآ أَمَرَهُۥ",
+      "translation": "केही सन्देह छैन कि अल्लाहले त्यसलाई जुन आदेश दियो, त्यसले उसलाई पूर्ण गरेन ।",
+      "transliteration": "Kalla lamma yaqdi ma amarahu"
+    },
+    {
+      "id": 24,
+      "text": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "translation": "अनि मानिसले आफ्नो भोजनलाई हेर्नुपर्छ ।",
+      "transliteration": "Falyanthuri alinsanu ila taAAamihi"
+    },
+    {
+      "id": 25,
+      "text": "أَنَّا صَبَبۡنَا ٱلۡمَآءَ صَبّٗا",
+      "translation": "हामीले नै धेरै पानी वर्षायौं ।",
+      "transliteration": "Anna sababna almaa sabban"
+    },
+    {
+      "id": 26,
+      "text": "ثُمَّ شَقَقۡنَا ٱلۡأَرۡضَ شَقّٗا",
+      "translation": "फेरि हामीले नै धरतीलाई (चिरेर) टुक्रा–टुक्रा पार्यौं ।",
+      "transliteration": "Thumma shaqaqna alarda shaqqan"
+    },
+    {
+      "id": 27,
+      "text": "فَأَنۢبَتۡنَا فِيهَا حَبّٗا",
+      "translation": "त्यस पश्चात हामीले नै त्यसमा अन्न उब्जायौं ।",
+      "transliteration": "Faanbatna feeha habban"
+    },
+    {
+      "id": 28,
+      "text": "وَعِنَبٗا وَقَضۡبٗا",
+      "translation": "र अंगूर र तरकारी ।",
+      "transliteration": "WaAAinaban waqadban"
+    },
+    {
+      "id": 29,
+      "text": "وَزَيۡتُونٗا وَنَخۡلٗا",
+      "translation": "र जैतून र खजूरहरू ।",
+      "transliteration": "Wazaytoonan wanakhlan"
+    },
+    {
+      "id": 30,
+      "text": "وَحَدَآئِقَ غُلۡبٗا",
+      "translation": "र बाक्ला घना बगैंचाहरू ।",
+      "transliteration": "Wahadaiqa ghulban"
+    },
+    {
+      "id": 31,
+      "text": "وَفَٰكِهَةٗ وَأَبّٗا",
+      "translation": "र फल एवं चाराहरू ।",
+      "transliteration": "Wafakihatan waabban"
+    },
+    {
+      "id": 32,
+      "text": "مَّتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ",
+      "translation": "(यी सबै कुरा) तिम्रा प्रयोग र फाइदाको लागि र तिम्रा चौपायाहरूको (पशुहरूको) निम्ति बनायौं ।",
+      "transliteration": "MataAAan lakum walianAAamikum"
+    },
+    {
+      "id": 33,
+      "text": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+      "translation": "तसर्थ जब कानै च्यातिने (कियामतको) प्रचण्ड आवाज आउनेछ ।",
+      "transliteration": "Faitha jaati alssakhkhatu"
+    },
+    {
+      "id": 34,
+      "text": "يَوۡمَ يَفِرُّ ٱلۡمَرۡءُ مِنۡ أَخِيهِ",
+      "translation": "त्यसदिन मानिस आफ्ना दाजुभाइहरूबाट ।",
+      "transliteration": "Yawma yafirru almaro min akheehi"
+    },
+    {
+      "id": 35,
+      "text": "وَأُمِّهِۦ وَأَبِيهِ",
+      "translation": "र आफ्नो आमा र बाबुबाट ।",
+      "transliteration": "Waommihi waabeehi"
+    },
+    {
+      "id": 36,
+      "text": "وَصَٰحِبَتِهِۦ وَبَنِيهِ",
+      "translation": "र आफ्नो श्रीमती र छोराहरूबाट भाग्नेछ ।",
+      "transliteration": "Wasahibatihi wabaneehi"
+    },
+    {
+      "id": 37,
+      "text": "لِكُلِّ ٱمۡرِيٕٖ مِّنۡهُمۡ يَوۡمَئِذٖ شَأۡنٞ يُغۡنِيهِ",
+      "translation": "यीमध्ये प्रत्येक व्यक्तिलाई त्यसदिन यस्तो चिन्ता हुनेछ जो उसैको लागि पर्याप्त हुनेछ ।",
+      "transliteration": "Likulli imriin minhum yawmaithin shanun yughneehi"
+    },
+    {
+      "id": 38,
+      "text": "وُجُوهٞ يَوۡمَئِذٖ مُّسۡفِرَةٞ",
+      "translation": "कतिपय अनुहारहरू त्यसदिन टल्किरहेका हुनेछन् ।",
+      "transliteration": "Wujoohun yawmaithin musfiratun"
+    },
+    {
+      "id": 39,
+      "text": "ضَاحِكَةٞ مُّسۡتَبۡشِرَةٞ",
+      "translation": "हाँस्दै खुशी र आनन्दित हुनेछन् ।",
+      "transliteration": "Dahikatun mustabshiratun"
+    },
+    {
+      "id": 40,
+      "text": "وَوُجُوهٞ يَوۡمَئِذٍ عَلَيۡهَا غَبَرَةٞ",
+      "translation": "र कतिपय अनुहारहरू त्यस दिन धूलधूसरित हुनेछन् ।",
+      "transliteration": "Wawujoohun yawmaithin AAalayha ghabaratun"
+    },
+    {
+      "id": 41,
+      "text": "تَرۡهَقُهَا قَتَرَةٌ",
+      "translation": "जसमाथि कालोपना छाएको हुनेछ,",
+      "transliteration": "Tarhaquha qataratun"
+    },
+    {
+      "id": 42,
+      "text": "أُوْلَـٰٓئِكَ هُمُ ٱلۡكَفَرَةُ ٱلۡفَجَرَةُ",
+      "translation": "यी तिनै काफिरचरित्र दुराचारी मानिसहरू हुनेछन् ।",
+      "transliteration": "Olaika humu alkafaratu alfajaratu"
+    }
+  ]
+}

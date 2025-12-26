@@ -1,0 +1,226 @@
+{
+  "id": 83,
+  "name": "المطففين",
+  "transliteration": "Al-Mutaffifin",
+  "translation": "The Defrauding",
+  "type": "meccan",
+  "total_verses": 36,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَيۡلٞ لِّلۡمُطَفِّفِينَ",
+      "translation": "नाप र तौलमा कमी गर्नेहरूको लागि ठूलो खराबी छ ।",
+      "transliteration": "Waylun lilmutaffifeena"
+    },
+    {
+      "id": 2,
+      "text": "ٱلَّذِينَ إِذَا ٱكۡتَالُواْ عَلَى ٱلنَّاسِ يَسۡتَوۡفُونَ",
+      "translation": "जब मानिसहरूसित नापेर लिन्छन्, त पूरा–पूरा लिन्छन् ।",
+      "transliteration": "Allatheena itha iktaloo AAala alnnasi yastawfoona"
+    },
+    {
+      "id": 3,
+      "text": "وَإِذَا كَالُوهُمۡ أَو وَّزَنُوهُمۡ يُخۡسِرُونَ",
+      "translation": "किन्तु जब उनीहरूलाई नापेर वा तौलेर दिन्छन् त घटाएर दिन्छन् ।",
+      "transliteration": "Waitha kaloohum aw wazanoohum yukhsiroona"
+    },
+    {
+      "id": 4,
+      "text": "أَلَا يَظُنُّ أُوْلَـٰٓئِكَ أَنَّهُم مَّبۡعُوثُونَ",
+      "translation": "के यिनीहरूलाई थाहा छैन कि उनीहरू मरेपछि पक्कै जीवित पारी उठाइनेछन् ।",
+      "transliteration": "Ala yathunnu olaika annahum mabAAoothoona"
+    },
+    {
+      "id": 5,
+      "text": "لِيَوۡمٍ عَظِيمٖ",
+      "translation": "(अर्थात्) एउटा ठूलो दिनमा ।",
+      "transliteration": "Liyawmin AAatheemin"
+    },
+    {
+      "id": 6,
+      "text": "يَوۡمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلۡعَٰلَمِينَ",
+      "translation": "जुन दिन सबै मानिसहरू पालनकर्ताको सामुन्ने उभिनेछन् ?",
+      "transliteration": "Yawma yaqoomu alnnasu lirabbi alAAalameena"
+    },
+    {
+      "id": 7,
+      "text": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡفُجَّارِ لَفِي سِجِّينٖ",
+      "translation": "निःसन्देह दुराचारीहरूको किताब (कर्मपत्रहरू) ‘‘सिज्जीनमा’’ छ ।",
+      "transliteration": "Kalla inna kitaba alfujjari lafee sijjeenin"
+    },
+    {
+      "id": 8,
+      "text": "وَمَآ أَدۡرَىٰكَ مَا سِجِّينٞ",
+      "translation": "र तिमीलाई के थाहा कि सिज्जीन के हो ?",
+      "transliteration": "Wama adraka ma sijjeenun"
+    },
+    {
+      "id": 9,
+      "text": "كِتَٰبٞ مَّرۡقُومٞ",
+      "translation": "यो त लेखिएको पंजिका (अभिलेख) हो ।",
+      "transliteration": "Kitabun marqoomun"
+    },
+    {
+      "id": 10,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "त्यस दिन झूठा ठहराउनेहरूलाई ठूलो खराबी (धिक्कार) छ ।",
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "id": 11,
+      "text": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوۡمِ ٱلدِّينِ",
+      "translation": "जसले न्यायनिसाफको दिनलाई असत्य भन्दथे ।",
+      "transliteration": "Allatheena yukaththiboona biyawmi alddeeni"
+    },
+    {
+      "id": 12,
+      "text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعۡتَدٍ أَثِيمٍ",
+      "translation": "र त्यसलाई झूठो उनीहरूले मात्र ठहराउँछन्, जो सीमाअतिक्रमण गर्नेवाला अपराधी छन् ।",
+      "transliteration": "Wama yukaththibu bihi illa kullu muAAtadin atheemin"
+    },
+    {
+      "id": 13,
+      "text": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+      "translation": "जब उसलाई हाम्रा आयतहरू सुनाइन्छ त भन्दछ कि यो त पहिलेका मानिसहरूका कथाहरू हुन् ।",
+      "transliteration": "Itha tutla AAalayhi ayatuna qala asateeru alawwaleena"
+    },
+    {
+      "id": 14,
+      "text": "كَلَّاۖ بَلۡۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُواْ يَكۡسِبُونَ",
+      "translation": "यो होइन, अपितु जसले नराम्रो कर्महरू गर्दछन्, त्यसकारण उनका हृदयहरूमा खिया लागिसकेको हुन्छ ।",
+      "transliteration": "Kalla bal rana AAala quloobihim ma kanoo yaksiboona"
+    },
+    {
+      "id": 15,
+      "text": "كَلَّآ إِنَّهُمۡ عَن رَّبِّهِمۡ يَوۡمَئِذٖ لَّمَحۡجُوبُونَ",
+      "translation": "निःसन्देह यिनीहरू त्यस दिन आफ्नो पालनकर्ताको दर्शनबाट वंचित हुनेछन् ।",
+      "transliteration": "Kalla innahum AAan rabbihim yawmaithin lamahjooboona"
+    },
+    {
+      "id": 16,
+      "text": "ثُمَّ إِنَّهُمۡ لَصَالُواْ ٱلۡجَحِيمِ",
+      "translation": "फेरि निःसन्देह यिनीहरू नर्कमा प्रवेश गर्नेछन् ।",
+      "transliteration": "Thumma innahum lasaloo aljaheemi"
+    },
+    {
+      "id": 17,
+      "text": "ثُمَّ يُقَالُ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "translation": "त्यसपछि (उनीसित) भनिनेछ कि यो त्यही कुरा हो, जसलाई तिमीहरूले असत्य ठान्थ्यौ ।",
+      "transliteration": "Thumma yuqalu hatha allathee kuntum bihi tukaththiboona"
+    },
+    {
+      "id": 18,
+      "text": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡأَبۡرَارِ لَفِي عِلِّيِّينَ",
+      "translation": "निःसन्देह सुनिराख कि सत्कर्मीहरूको कर्मपात्र ‘‘इल्लीयीनमा’’ छन् ।",
+      "transliteration": "Kalla inna kitaba alabrari lafee AAilliyyeena"
+    },
+    {
+      "id": 19,
+      "text": "وَمَآ أَدۡرَىٰكَ مَا عِلِّيُّونَ",
+      "translation": "र तिमीलाई के थाहा कि इल्लीयीन के हो ?",
+      "transliteration": "Wama adraka ma AAilliyyoona"
+    },
+    {
+      "id": 20,
+      "text": "كِتَٰبٞ مَّرۡقُومٞ",
+      "translation": "त्यो त लेखिएको किताब हो ।",
+      "transliteration": "Kitabun marqoomun"
+    },
+    {
+      "id": 21,
+      "text": "يَشۡهَدُهُ ٱلۡمُقَرَّبُونَ",
+      "translation": "सामीप्यप्राप्त फरिश्ताहरू त्यसको निरीक्षण गर्दछन् ।",
+      "transliteration": "Yashhaduhu almuqarraboona"
+    },
+    {
+      "id": 22,
+      "text": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٍ",
+      "translation": "निःसन्देह भलादमीहरू ठूलो अनुग्रहमा हुनेछन् ।",
+      "transliteration": "Inna alabrara lafee naAAeemin"
+    },
+    {
+      "id": 23,
+      "text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+      "translation": "पलंगहरूमाथि हेरिराखेका मसहरीहरूबाट हेर्नेछन् ।",
+      "transliteration": "AAala alaraiki yanthuroona"
+    },
+    {
+      "id": 24,
+      "text": "تَعۡرِفُ فِي وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِيمِ",
+      "translation": "उनीहरूको अनुहारबाटै तिमीलाई ती अनुग्रहहरूको ताजगी र आभाको बोध भइरहनेछ ।",
+      "transliteration": "TaAArifu fee wujoohihim nadrata alnnaAAeemi"
+    },
+    {
+      "id": 25,
+      "text": "يُسۡقَوۡنَ مِن رَّحِيقٖ مَّخۡتُومٍ",
+      "translation": "उनीहरूलाई शीलबन्दी विशुद्ध पेय पिलाइनेछ ।",
+      "transliteration": "Yusqawna min raheeqin makhtoomin"
+    },
+    {
+      "id": 26,
+      "text": "خِتَٰمُهُۥ مِسۡكٞۚ وَفِي ذَٰلِكَ فَلۡيَتَنَافَسِ ٱلۡمُتَنَٰفِسُونَ",
+      "translation": "जसको शील कस्तुरी को हुनेछ । तसर्थ अनुकम्पा चाहनेले उसैलाई प्राप्त गर्नका लागि प्रतिस्पर्धा गर्नुपर्छ ।",
+      "transliteration": "Khitamuhu miskun wafee thalika falyatanafasi almutanafisoona"
+    },
+    {
+      "id": 27,
+      "text": "وَمِزَاجُهُۥ مِن تَسۡنِيمٍ",
+      "translation": "र यसमा तसनीम (स्वर्गको एउटा छहरा) को पनि मिश्रण हुनेछ ।",
+      "transliteration": "Wamizajuhu min tasneemin"
+    },
+    {
+      "id": 28,
+      "text": "عَيۡنٗا يَشۡرَبُ بِهَا ٱلۡمُقَرَّبُونَ",
+      "translation": "त्यो एउटा झरना हो जसको पानी खास खास मानिसहरूले पिउनेछन् ।",
+      "transliteration": "AAaynan yashrabu biha almuqarraboona"
+    },
+    {
+      "id": 29,
+      "text": "إِنَّ ٱلَّذِينَ أَجۡرَمُواْ كَانُواْ مِنَ ٱلَّذِينَ ءَامَنُواْ يَضۡحَكُونَ",
+      "translation": "काफिरहरूले संसारमा मोमिनहरूको हाँसो गर्नेगर्दथे ।",
+      "transliteration": "Inna allatheena ajramoo kanoo mina allatheena amanoo yadhakoona"
+    },
+    {
+      "id": 30,
+      "text": "وَإِذَا مَرُّواْ بِهِمۡ يَتَغَامَزُونَ",
+      "translation": "र उनीहरूको छेउबाट आवत जावतगर्दा त आँखाबाट संकेत गर्दथे ।",
+      "transliteration": "Waitha marroo bihim yataghamazoona"
+    },
+    {
+      "id": 31,
+      "text": "وَإِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمُ ٱنقَلَبُواْ فَكِهِينَ",
+      "translation": "र जब आफ्नो घरतिर फर्कन्थे त ठट्टा गर्नेगर्दथे ।",
+      "transliteration": "Waitha inqalaboo ila ahlihimu inqalaboo fakiheena"
+    },
+    {
+      "id": 32,
+      "text": "وَإِذَا رَأَوۡهُمۡ قَالُوٓاْ إِنَّ هَـٰٓؤُلَآءِ لَضَآلُّونَ",
+      "translation": "र जब ती (मोमिनहरूलाई) देख्दथे त भन्दथे कि यिनीहरू पक्कै मार्गविचलित छन्,",
+      "transliteration": "Waitha raawhum qaloo inna haolai ladalloona"
+    },
+    {
+      "id": 33,
+      "text": "وَمَآ أُرۡسِلُواْ عَلَيۡهِمۡ حَٰفِظِينَ",
+      "translation": "जबकि उनीहरूलाई यिनीहरूमाथि निरीक्षक बनाएर पठाइएको थिएन ।",
+      "transliteration": "Wama orsiloo AAalayhim hafitheena"
+    },
+    {
+      "id": 34,
+      "text": "فَٱلۡيَوۡمَ ٱلَّذِينَ ءَامَنُواْ مِنَ ٱلۡكُفَّارِ يَضۡحَكُونَ",
+      "translation": "तसर्थ आज मोमिनहरूले ती काफिरहरूमाथि हाँसो गर्नेछन् ।",
+      "transliteration": "Faalyawma allatheena amanoo mina alkuffari yadhakoona"
+    },
+    {
+      "id": 35,
+      "text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+      "translation": "मसनदहरूमाथि (बसी उनीहरूको अवस्था) देखिराखेका हुनेछन् ।",
+      "transliteration": "AAala alaraiki yanthuroona"
+    },
+    {
+      "id": 36,
+      "text": "هَلۡ ثُوِّبَ ٱلۡكُفَّارُ مَا كَانُواْ يَفۡعَلُونَ",
+      "translation": "अतः काफिरहरूलाई उनीहरूका कर्महरूको (पूरा–पूरा) प्रतिफल प्राप्त भइहाल्यो ।",
+      "transliteration": "Hal thuwwiba alkuffaru ma kanoo yafAAaloona"
+    }
+  ]
+}

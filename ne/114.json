@@ -1,0 +1,46 @@
+{
+  "id": 114,
+  "name": "الناس",
+  "transliteration": "An-Nas",
+  "translation": "Mankind",
+  "type": "meccan",
+  "total_verses": 6,
+  "verses": [
+    {
+      "id": 1,
+      "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "translation": "तपाई भनिदिनुस् कि म मानिसहरूको पालनकर्ताको शरण माँग्दछु ।",
+      "transliteration": "Qul aAAoothu birabbi alnnasi"
+    },
+    {
+      "id": 2,
+      "text": "مَلِكِ ٱلنَّاسِ",
+      "translation": "मानिसहरूको स्वामीको ।",
+      "transliteration": "Maliki alnnasi"
+    },
+    {
+      "id": 3,
+      "text": "إِلَٰهِ ٱلنَّاسِ",
+      "translation": "र मानिसहरूको उपास्यको (शरण) ।",
+      "transliteration": "Ilahi alnnasi"
+    },
+    {
+      "id": 4,
+      "text": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
+      "translation": "खराब विचार हाल्ने र (उक्साएर) पछि हटिजानेबाट ।",
+      "transliteration": "Min sharri alwaswasi alkhannasi"
+    },
+    {
+      "id": 5,
+      "text": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
+      "translation": "जसले मानिसहरूको हृदयमा नराम्रो कर्मको संच्कार हाल्दछ ।",
+      "transliteration": "Allathee yuwaswisu fee sudoori alnnasi"
+    },
+    {
+      "id": 6,
+      "text": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+      "translation": "त्यो चाहे जिन्नहरूमध्येबाट होस् वा मानिसहरूमध्येबाट ।",
+      "transliteration": "Mina aljinnati wa alnnasm"
+    }
+  ]
+}
